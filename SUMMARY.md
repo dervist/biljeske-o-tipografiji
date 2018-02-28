@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* [O načinu obilježavanja i pisanja fusnota](chapter1.md)
+* [O načinu obilježavanja i pisanja fusnota](o-fusnotama.md)
 
