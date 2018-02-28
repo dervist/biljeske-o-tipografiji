@@ -1,4 +1,4 @@
-# Kako pisati fusnote?
+# Kako označavati i pisati fusnote?
 
 ## Oznaka u tekstu
 
@@ -59,6 +59,8 @@ U knjigama se često mogu pronaći neki metodi pisanja fusnota koje svakako treb
 **3 Odstupanje od stila teksta na stranicama**. Fusnote moraju slijediti stil koji je korišten za ostatak teksta na stranici. Tako će one biti pisane istim pismom kao i ostali tekst, ali redovno dva ili tri pointa manjim. Manja slova ukazuju na komplementarnu prirodu fusnota – iako su dio teksta, njihova je funkcija pomoćna; fusnote mogu biti potpuno ignorisane prilikom čitanja knjige. Za fusnote se mora koristiti i isti metod poravnanja teksta: ako je tekst na stranicama poravnat sa obje strane, tako treba biti poravnat i tekst u fusnotama; ako je tekst poravnat samo s lijeve strane, tada će se isto poravnanje koristiti i za fusnote.
 
 Fusnote nikad ne smiju biti pisane slovima iste veličine kao što su slova u glavnom tekstu, niti pismom koje je toliko drugačije od ostatka teksta da redovno na sebe skreće pažnju čitaoca. Ako fusnote nisu brojne i duge, može se u nekim djelima umjesto istog pisma koje je korišteno za ostatak teksta upotrijebiti kompatibilno alternativno pismo. Naprimjer, ako je za tekst korišteno serifno pismo, može se za fusnote koristiti prikladno sanserifno pismo[^7] (najbolje je ako su oba pisma dio iste familije pisama, dizajniranih slijedeći zajednički cilj i svrhu, i pridržavajući se istih principa i metoda prilikom kreiranja pisama), pod uslovom da se time ne stvara vizuelni nesklad i ne skreće pažnja čitaoca sa teksta. Oba pisma u svakom slučaju trebaju posjedovati slične karakteristike (debljina linija, visina slova i njihova širina), kako bi tekst bio skladno prezentovan.
+
+![](IMG/o-fusnotama/o-fusnotama-kombinacija-pisama.png)
 
 ***
 
