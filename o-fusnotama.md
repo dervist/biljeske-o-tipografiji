@@ -1,6 +1,6 @@
 # Kako označavati i pisati fusnote?
 
-## Oznaka u tekstu {#oznaka}
+## Oznaka za fusnotu u tekstu {#oznaka}
 
 Mjesto u tekstu za koje se fusnota vezuje najbolje je označiti simbolom \*, ako na stranici nema više od jedne fusnote. Ali, ako su fusnote brojne, tada se za oznake koriste smanjeni arapski brojevi, koje treba podignuti od bazne linije. Ovi brojevi poznati su kao “superscript” brojevi. Većina pisama ima posebno dizajnirane superscript, smanjene brojeve. Treba povesti računa o tome da se ne koriste ručno ili automatski smanjeni obični brojevi, kako se, nažalost, često primijeti u knjigama pripremljenim pomoću aplikacija koje posjeduju veoma ograničene mogućnosti za primjenu tipografskih konvencija, jer će se smanjivanjem ovih brojeva smanjiti i debljina linija, što će, naročito u slučaju dvocifrenih brojeva fusnota, kreirati očigledni vizuelni nesklad, a brojevi će izgledati istanjeni, anemični. To se jasno primijeti na sljedećoj ilustraciji u kojoj su u prvom retku korišteni lažni superscript brojevi, koje je generisao softver tako što je smanjio obične brojeve, dok su u drugom korišteni pravi superscript brojevi, koje je kreirao dizajner pisma i koji se savršeno uklapaju u tekst:
 
@@ -9,6 +9,8 @@ Mjesto u tekstu za koje se fusnota vezuje najbolje je označiti simbolom \*, ako
 Iako većina aplikacija za uređenje teksta i bez posebnih podešavanja koristi upravo ove brojeve, bilo prave bilo lažne, ipak treba spomenuti da neke aplikacije ne pozicioniraju broj kako valja: ili ga podignu premalo, ili previše. Broj fusnote treba pozicionirati tako da je vrh broja u istoj ravni sa vrhom velikih slova. Alternativno, pozicija broja sravnit će se sa pozicijom navodnika “ i ”. Koji će se metod primijeniti zavisit će od dizajna pisma i položaja fusnota u tekstu.[^1]
 
 ![](IMG/o-fusnotama/o-fusnotama-pozicija-brojeva.png)
+
+## Numerisanje fusnota {#numerisanje}
 
 Fusnote se mogu obilježavati brojevima od 1 pa dalje, sve do kraja knjige. Ako fusnote nisu brojne, ovo je najjednostavniji način za označavanje fusnota. No, ako je knjiga prepuna fusnota, praktičnije je numerisati ih po poglavljima, tj. od 1 pa dalje do kraja trenutnog poglavlja, a potom ponovo početi numerisanje od broja 1 za svako naredno poglavlje. Razlog za ovakav način numerisanja jeste taj što fusnote, ako su brojne, mogu dostići trocifrene, nekad i četverocifrene brojeve, što je nedopustivo – nepraktično je, otežava snalaženje u tekstu i narušava vizuelnu kompaktnost stranice.
 
