@@ -18,13 +18,13 @@ Brojevi kojima se označavaju fusnote u tekstu nikada se neće pisati kurzivom, 
 
 ![](IMG/o-fusnotama/o-fusnotama-bold-italik.png)
 
-## Odvajanje fusnote od teksta
+## Odvajanje fusnote od teksta {#odvajanje-od-teksta}
 
 Fusnota će se od teksta odvojiti prazninom. Praksa odvajanja fusnota tankom horizontalnom linijom dugom nekoliko centimetara, kakva se može vidjeti u memorandumima, esejima i skriptama, nepodobna je za većinu knjiga i nikada nije naišla na podršku stručnjaka, naprotiv, neki su tipografi jasno istaknuli da je korištenje ove linije loša praksa[^2]. Ako se linija, iz nekog razloga, mora pozicionirati iznad fusnote, preporučuje se da se ona produži tako da širinom odgovara širini teksta i tako makar malo umanji vizuelni nesklad koji kratka linija unosi na stranicu.
 
 Nema neke definitivne mjere za razmak kojim će se fusnota odvojiti od teksta, ali u praksi on nikad ne bi smio biti manji od razmaka između dva reda teksta, odnosno praznina bi trebala iznositi makar pola praznog retka. Prazni će red, ili pola retka, u većini slučajeva sasvim lijepo poslužiti svrsi. Mogu se tolerisati i dva prazna retka, ali ne treba ni u ovom pogledu pretjerivati – tri ili četiri prazna retka rijetko će rezultirati nečim drugim izuzev jazom između teksta i fusnote.
 
-## Pisanje broja ispred teksta fusnote
+## Pisanje broja ispred teksta fusnote {#broj-ispred-teksta}
 
 Najčešće se koristi jedna od tri metode pisanja broja[^3] ispred teksta fusnote: \(1\) uvučeni, \(2\) viseći i \(3\) poravnati.
 
@@ -44,7 +44,7 @@ Broj fusnote može se pisati i u samoj lijevoj margini, usljed čega će lijeva 
 
 ![](IMG/o-fusnotama/o-fusnotama-04.png)
 
-## Problematični načini pisanja fusnota
+## Problematični načini pisanja fusnota {#problematicni-nacini-pisanja}
 
 U knjigama se često mogu pronaći neki metodi pisanja fusnota koje svakako treba izbjegavati, jer narušavaju boju stranice ili remete sklad u organizaciji teksta na stranici, dok istovremeno ne osiguravaju dodatnu korist koja bi makar djelimično opravdala njihovo korištenje. Pored rasprostranjene loše prakse da se brojevi ispred teksta fusnota pišu smanjenim podignutim brojevima \(superscript\)[^5], obično se radi o varijantama jednog od navedenih validnih metoda oblikovanja fusnota.
 
