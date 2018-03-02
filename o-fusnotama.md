@@ -26,7 +26,7 @@ Nema neke definitivne mjere za razmak kojim će se fusnota odvojiti od teksta, a
 
 ## Pisanje broja ispred teksta fusnote
 
-Najčešće se koristi jedna od tri metode pisanja broja[^3] ispred teksta fusnote: (1) uvučeni, (2) viseći i (3) poravnati.
+Najčešće se koristi jedna od tri metode pisanja broja[^3] ispred teksta fusnote: \(1\) uvučeni, \(2\) viseći i \(3\) poravnati.
 
 **1 Uvučeni broj fusnote**. Prilikom primjene ovog metoda, nakon broja fusnote piše se tačka, potom razmak, a onda počinje tekst fusnote. Ovaj je metod pogodan ako su fusnote duže i obuhvataju makar dva ili više redova teksta. Kako je anatomija fusnote identična anatomiji glavnog teksta, neće doći do vizuelnih poremećaja na stranici i cjelokupni tekstni blok na stranici izgledat će kao kompaktna cjelina.
 
@@ -46,7 +46,7 @@ Broj fusnote može se pisati i u samoj lijevoj margini, usljed čega će lijeva 
 
 ## Problematični načini pisanja fusnota
 
-U knjigama se često mogu pronaći neki metodi pisanja fusnota koje svakako treba izbjegavati, jer narušavaju boju stranice ili remete sklad u organizaciji teksta na stranici, dok istovremeno ne osiguravaju dodatnu korist koja bi makar djelimično opravdala njihovo korištenje. Pored rasprostranjene loše prakse da se brojevi ispred teksta fusnota pišu smanjenim podignutim brojevima (superscript)[^5], obično se radi o varijantama jednog od navedenih validnih metoda oblikovanja fusnota.
+U knjigama se često mogu pronaći neki metodi pisanja fusnota koje svakako treba izbjegavati, jer narušavaju boju stranice ili remete sklad u organizaciji teksta na stranici, dok istovremeno ne osiguravaju dodatnu korist koja bi makar djelimično opravdala njihovo korištenje. Pored rasprostranjene loše prakse da se brojevi ispred teksta fusnota pišu smanjenim podignutim brojevima \(superscript\)[^5], obično se radi o varijantama jednog od navedenih validnih metoda oblikovanja fusnota.
 
 **1 Varijanta metoda visećeg broja fusnote**. Prilikom korištenja ovog metoda, sve linije teksta fusnote poravnavaju se sa uvučenom prvom linijom paragrafa u glavnom tekstu. Ovaj će metod gotovo uvijek dovesti do nesklada na stranici, kreirajući bjeline u donjem lijevom dijelu stranice[^6] i efektivno “potkopavajući” glavni tekst; što su fusnote brojnije i što je prva linija paragrafa glavnog teksta više uvučena, to je nesklad na stranici veći. Ipak, ako je prva linija paragrafa glavnog teksta uvučena 4 ili 5 mm, i ako su fusnote pretežno kratke, tada će korištenje ovog metoda biti poput metoda visećeg broja fusnote.
 
@@ -58,17 +58,17 @@ U knjigama se često mogu pronaći neki metodi pisanja fusnota koje svakako treb
 
 **3 Odstupanje od stila teksta na stranicama**. Fusnote moraju slijediti stil koji je korišten za ostatak teksta na stranici. Tako će one biti pisane istim pismom kao i ostali tekst, ali redovno dva ili tri pointa manjim. Manja slova ukazuju na komplementarnu prirodu fusnota – iako su dio teksta, njihova je funkcija pomoćna; fusnote mogu biti potpuno ignorisane prilikom čitanja knjige. Za fusnote se mora koristiti i isti metod poravnanja teksta: ako je tekst na stranicama poravnat sa obje strane, tako treba biti poravnat i tekst u fusnotama; ako je tekst poravnat samo s lijeve strane, tada će se isto poravnanje koristiti i za fusnote.
 
-Fusnote nikad ne smiju biti pisane slovima iste veličine kao što su slova u glavnom tekstu, niti pismom koje je toliko drugačije od ostatka teksta da redovno na sebe skreće pažnju čitaoca. Ako fusnote nisu brojne i duge, može se u nekim djelima umjesto istog pisma koje je korišteno za ostatak teksta upotrijebiti kompatibilno alternativno pismo. Naprimjer, ako je za tekst korišteno serifno pismo, može se za fusnote koristiti prikladno sanserifno pismo[^7] (najbolje je ako su oba pisma dio iste familije pisama, dizajniranih slijedeći zajednički cilj i svrhu, i pridržavajući se istih principa i metoda prilikom kreiranja pisama), pod uslovom da se time ne stvara vizuelni nesklad i ne skreće pažnja čitaoca sa teksta. Oba pisma u svakom slučaju trebaju posjedovati slične karakteristike (debljina linija, visina slova i njihova širina), kako bi tekst bio skladno prezentovan.
+Fusnote nikad ne smiju biti pisane slovima iste veličine kao što su slova u glavnom tekstu, niti pismom koje je toliko drugačije od ostatka teksta da redovno na sebe skreće pažnju čitaoca. Ako fusnote nisu brojne i duge, može se u nekim djelima umjesto istog pisma koje je korišteno za ostatak teksta upotrijebiti kompatibilno alternativno pismo. Naprimjer, ako je za tekst korišteno serifno pismo, može se za fusnote koristiti prikladno sanserifno pismo[^7] \(najbolje je ako su oba pisma dio iste familije pisama, dizajniranih slijedeći zajednički cilj i svrhu, i pridržavajući se istih principa i metoda prilikom kreiranja pisama\), pod uslovom da se time ne stvara vizuelni nesklad i ne skreće pažnja čitaoca sa teksta. Oba pisma u svakom slučaju trebaju posjedovati slične karakteristike \(debljina linija, visina slova i njihova širina\), kako bi tekst bio skladno prezentovan.
 
 ![](IMG/o-fusnotama/o-fusnotama-kombinacija-pisama.png)
 
-***
+---
 
-[^1]:  U nekim pismima visina velikih slova manja je od visine malih slova b, d, f, k, l, pa zbog toga neće biti pogodna kao orijentir za pozicioniranje brojeva fusnota. Tada može biti prikladnije uskladiti položaj broja fusnote sa položajem navodnika. Na slici su prikazana četiri slučaja, od kojih prva dva prikazuju dobro, a druga dva loše pozicionirane brojeve fusnota: (1) brojevi fusnota poravnati sa vrhom velikih slova, (2) brojevi fusnota poravnati sa vrhom navodnika, (3) brojevi fusnota pozicionirani previsoko u odnosu na tekst, i (4) brojevi fusnota pozicionirani prenisko u odnosu na tekst.
+[^1]:  U nekim pismima visina velikih slova manja je od visine malih slova b, d, f, k, l, pa zbog toga neće biti pogodna kao orijentir za pozicioniranje brojeva fusnota. Tada može biti prikladnije uskladiti položaj broja fusnote sa položajem navodnika. Na slici su prikazana četiri slučaja, od kojih prva dva prikazuju dobro, a druga dva loše pozicionirane brojeve fusnota: \(1\) brojevi fusnota poravnati sa vrhom velikih slova, \(2\) brojevi fusnota poravnati sa vrhom navodnika, \(3\) brojevi fusnota pozicionirani previsoko u odnosu na tekst, i \(4\) brojevi fusnota pozicionirani prenisko u odnosu na tekst.
 
-[^2]:  Jan Tschichold uporedio je ovu liniju sa slijepim crijevom kod čovjeka kako bi naglasio njenu beskorisnost. Robert Bringhurst nije se na nju ni osvrnuo u svom čuvenom djelu *The Elements of Typographic Style*.
+[^2]:  Jan Tschichold uporedio je ovu liniju sa slijepim crijevom kod čovjeka kako bi naglasio njenu beskorisnost. Robert Bringhurst nije se na nju ni osvrnuo u svom čuvenom djelu _The Elements of Typographic Style_.
 
-[^3]:  Treba naglasiti da se broj ispred teksta fusnote uvijek treba pisati tako da odgovara tekstu fusnote, i vrstom i veličinom. Ne treba koristiti “superscript” brojeve, kako se to čini za oznaku fusnote u glavnom tekstu. Stoga fusnotu koju upravo čitate, kao i prethodne i naredne, treba posmatrati kao primjer kako brojeve fusnota *ne treba* pisati, a kako ih, nažalost, većina aplikacija za obradu teksta i dalje piše.
+[^3]:  Treba naglasiti da se broj ispred teksta fusnote uvijek treba pisati tako da odgovara tekstu fusnote, i vrstom i veličinom. Ne treba koristiti “superscript” brojeve, kako se to čini za oznaku fusnote u glavnom tekstu.
 
 [^4]:  Nije potrebno poravnavati drugu i sve ostale linije teksta fusnote sa uvučenom prvom linijom paragrafa u glavnom tekstu, naročito ako je ova linija u tekstu uvučena 8 ili 9 mm – a ako je uvučena više od toga, tada se nikako ne bi smjele poravnavati.
 
@@ -76,4 +76,5 @@ Fusnote nikad ne smiju biti pisane slovima iste veličine kao što su slova u gl
 
 [^6]:  Treba napomenuti da se za odvajanje broja fusnote od njenog teksta koriste tačka i razmak, ili samo jedan ili dva razmaka, ako se ne koristi tačka. Ne postoji validno opravdanje za korištenje više od dva razmaka. Također, nema opravdanja ni za pisanje broja fusnote unutar zagrada ili sa zagradom s desne ili lijeve strane, kao ni njegovo pisanje masnim ili dekorativnim brojevima.
 
-[^7]:  Ali ne važi i obratno. Serifna pisma nisu pogodna da vrše ulogu pomoćnog, pratećeg pisma sanserifnom pismu, kako u fusnotama, tako ni u drugim elementima stranice (nazivi poglavlja, sekcija..., tekst ispod ili iznad slika i tabela, naslovi u zaglavlju i sl.). Ako je primarno pismo sanserifno, za fusnote se uvijek treba ograničiti na korištenje istog pisma koje je korišteno za tekst.
+[^7]:  Ali ne važi i obratno. Serifna pisma nisu pogodna da vrše ulogu pomoćnog, pratećeg pisma sanserifnom pismu, kako u fusnotama, tako ni u drugim elementima stranice \(nazivi poglavlja, sekcija..., tekst ispod ili iznad slika i tabela, naslovi u zaglavlju i sl.\). Ako je primarno pismo sanserifno, za fusnote se uvijek treba ograničiti na korištenje istog pisma koje je korišteno za tekst.
+
