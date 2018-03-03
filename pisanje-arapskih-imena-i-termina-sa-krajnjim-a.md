@@ -1,4 +1,4 @@
-# Arapska imena i termini koji završavaju na a
+# Kako pisati arapska imena i termine koji završavaju na a?
 
 O pisanju arapskih imena i termina koji se završavaju na *a* nema preciziranog pravila, pa se u literaturi može primijetiti šarenilo u tom pogledu. Radi olakšavanja rada autorima i prevodiocima, iznijet ćemo prijedlog za pisanje ovih izraza.
 
