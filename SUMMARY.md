@@ -15,6 +15,6 @@
 
 * [Korištenje kurziva u tekstu](kurziv.md)
 * [Pisanje arapskih imena i termina – transkripcija ili transliteracija?](pisanje-arapskih-imena-i-termina.md)
-* [Pisanje arapskih imena i termina koji završavaju na a](pisanje-arapskih-imena-i-termina-koji-zavrsavaju-na-a.md)
+* [Pisanje arapskih imena i termina koji završavaju na a](pisanje-arapskih-imena-i-termina-sa-krajnjim-a.md)
 * [Prevođenje i priprema djela za objavljivanje](prevodenje-i-priprema-za-objavljivanje.md)
 
