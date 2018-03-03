@@ -1,6 +1,6 @@
 # Summary
 
-# Tipografija
+### Tipografija
 
 * [Uvodna riječ](README.md)
 * [Brojevi – vrste i kombinacije](brojevi.md)
@@ -11,7 +11,7 @@
   * [Broj ispred teksta fusnote](fusnote.md#broj-ispred-teksta-fusnote)
   * [Problematični načini pisanja fusnota](fusnote.md#problematicni-nacini-pisanja-fusnota)
   
-# Jezik
+### Jezik
 
 * [Korištenje kurziva u tekstu](kurziv.md)
 * [Transkripcija ili transliteracija?](pisanje-arapskih-imena-i-termina.md)
