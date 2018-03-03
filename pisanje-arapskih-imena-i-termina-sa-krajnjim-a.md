@@ -48,7 +48,7 @@ Ako se ime ne završava samoglasnikom, poput Merjem, Zejneb, Hind, tada se može
 
 (b) zadržati oblik imena u nominativu kroz sve padeže, tj. neće uopće doći do deklinacije imena.
 
-<p style="text-align:center">\* \* \*</p>
+<p style="text-align:center">* * *</p>
 
 Ukratko, kad riječ označava muško, uvijek se zadržava vokal *a* na kraju prilikom promjene po padežima (s izuzetkom okruglog ta), a kad označava žensko (prirodni, ne gramatički ženski rod), krajnji vokal *a* uvijek se gubi prilikom promjene po padežima.
 
