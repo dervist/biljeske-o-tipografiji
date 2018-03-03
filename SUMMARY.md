@@ -1,5 +1,7 @@
 # Summary
 
+# Tipografija
+
 * [Uvodna riječ](README.md)
 * [Brojevi – vrste i kombinacije](brojevi.md)
 * [Fusnote – način obilježavanja i pisanja](fusnote.md)
@@ -8,4 +10,11 @@
   * [Odvajanje fusnote od teksta](fusnote.md#odvajanje-fusnota-od-teksta)
   * [Broj ispred teksta fusnote](fusnote.md#broj-ispred-teksta-fusnote)
   * [Problematični načini pisanja fusnota](fusnote.md#problematicni-nacini-pisanja-fusnota)
+  
+# Jezik
+
+* [Korištenje kurziva u tekstu](kurziv.md)
+* [Pisanje arapskih imena i termina – transkripcija ili transliteracija?](pisanje-arapskih-imena-i-termina.md)
+* [Pisanje arapskih imena i termina koji završavaju na a](pisanje-arapskih-imena-i-termina-koji-zavrsavaju-na-a.md)
+* [Prevođenje i priprema djela za objavljivanje](prevodenje-i-priprema-za-objavljivanje.md)
 
