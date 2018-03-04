@@ -22,12 +22,12 @@ također zadržavaju vokal *a*, npr. na Israu, u Belkau, dun’jaa i sl.
 
 **4**. U imenima koja se završavaju harfom ajn, krajnji se harf ne piše, ali će on utjecati na izgovor harfa s fethom koji dođe prije njega, pa će se fetha čitati kao kratki vokal *a*, npr.
 
-> أَقْرَعُ: Akreu > Akra’ > Akra;
+> أَقْرَعُ: Akreu > Akra’ > Akra;  
 > أَكْوَعُ: Ekveu > Ekva’ > Ekva.
 
 Ako se na harfu ispred krajnjeg ajna nađe vokal *i*, tada će biti potrebno dodati slovo *j* prilikom promjene po padežima, npr.
 
-> نَافِعُ: Nafiu > Nafi’ > Nafi: Nafija, Nafiju, Nafijem;
+> نَافِعُ: Nafiu > Nafi’ > Nafi: Nafija, Nafiju, Nafijem;  
 > رَبِيعُ: Rebiu > Rebi’ > Rebi: Rebija, Rebiju, Rebijem.
 
 **5**. Ako riječ označava žensku osobu, tada u svim slučajevima imamo promjenu po padežima koja odgovara promjeni domaćih ženskih imena, bez obzira da li se riječ završavala:
