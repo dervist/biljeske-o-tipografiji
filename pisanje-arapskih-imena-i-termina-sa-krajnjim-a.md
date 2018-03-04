@@ -52,4 +52,4 @@ Ako se ime ne završava samoglasnikom, poput Merjem, Zejneb, Hind, tada se može
 
 Ukratko, kad riječ označava muško, uvijek se zadržava vokal *a* na kraju prilikom promjene po padežima (s izuzetkom okruglog ta), a kad označava žensko (prirodni, ne gramatički ženski rod), krajnji vokal *a* uvijek se gubi prilikom promjene po padežima.
 
-Vidjeti i: O transkripciji (Google Docs | Evernote)
+Vidjeti i: [Transkripcija arapskih imena i termina](transkripcija.md).
