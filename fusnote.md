@@ -1,5 +1,12 @@
 # Kako označavati i pisati fusnote?
 
+[Oznaka za fusnotu u tekstu](fusnote.md#oznaka-za-fusnotu)
+[Numerisanje fusnota](fusnote.md#numerisanje-fusnota)
+[Odvajanje fusnote od teksta](fusnote.md#odvajanje-fusnota-od-teksta)
+[Broj ispred teksta fusnote](fusnote.md#broj-ispred-teksta-fusnote)
+[Problematični načini pisanja fusnota](fusnote.md#problematicni-nacini-pisanja-fusnota)
+
+
 ## Oznaka za fusnotu u tekstu {#oznaka-za-fusnotu}
 
 Mjesto u tekstu za koje se fusnota vezuje najbolje je označiti simbolom \*, ako na stranici nema više od jedne fusnote. Ali, ako su fusnote brojne, tada se za oznake koriste smanjeni arapski brojevi, koje treba podignuti od bazne linije. Ovi brojevi poznati su kao “superscript” brojevi. Većina pisama ima posebno dizajnirane superscript, smanjene brojeve. Treba povesti računa o tome da se ne koriste ručno ili automatski smanjeni obični brojevi, kako se, nažalost, često primijeti u knjigama pripremljenim pomoću aplikacija koje posjeduju veoma ograničene mogućnosti za primjenu tipografskih konvencija, jer će se smanjivanjem ovih brojeva smanjiti i debljina linija, što će, naročito u slučaju dvocifrenih brojeva fusnota, kreirati očigledni vizuelni nesklad, a brojevi će izgledati istanjeni, anemični. To se jasno primijeti na sljedećoj ilustraciji u kojoj su u prvom retku korišteni lažni superscript brojevi, koje je generisao softver tako što je smanjio obične brojeve, dok su u drugom korišteni pravi superscript brojevi, koje je kreirao dizajner pisma i koji se savršeno uklapaju u tekst:
