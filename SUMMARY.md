@@ -5,7 +5,7 @@
 * [Uvodna riječ](README.md)
 * [Brojevi – vrste i kombinacije](brojevi.md)
 * [Fusnote – način obilježavanja i pisanja](fusnote.md)
-* [Razmaci između riječi u tekstu](razmaci-izmedu-rijeci-u-tekstu.md)
+* [Razmak između riječi u tekstu](razmaci-izmedu-rijeci-u-tekstu.md)
 
 ## Pravopis, gramatika, stilistika
 
