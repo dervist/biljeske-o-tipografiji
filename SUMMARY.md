@@ -1,13 +1,13 @@
 # Summary
 
-### Tipografija i dizajn
+## Tipografija i dizajn
 
 * [Uvodna riječ](README.md)
 * [Brojevi – vrste i kombinacije](brojevi.md)
 * [Fusnote – način obilježavanja i pisanja](fusnote.md)
-  
-  
-### Pravopis, gramatika, stilistika
+* [Razmaci između riječi u tekstu](razmaci-izmedu-rijeci-u-tekstu.md)
+
+## Pravopis, gramatika, stilistika
 
 * [Korištenje kurziva u tekstu](kurziv.md)
 * [Transkripcija ili transliteracija?](pisanje-arapskih-imena-i-termina.md)
