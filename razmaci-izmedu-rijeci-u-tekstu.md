@@ -20,5 +20,5 @@ Da je razmak između riječi u tekstu prevelik možemo lahko ocijeniti od oka, k
 
 ![](IMG/razmak-izmedu-rijeci/n-test-razmaka.png)
 
-Korekcija razmaka sastojat će se od davanja novih smjernica softveru u vidu smanjenja tolerancije koja se odnosi na razmake ili na ponovni prijelom riječi na kraju retka u paragrafu kako bi se razmaci sveli na prihvatljiv nivo.
+Korekcija razmaka sastojat će se od davanja novih smjernica softveru u vidu smanjenja tolerancije koja se odnosi na razmake ili ponovnog prijeloma riječi na kraju retka u paragrafu kako bi se razmaci sveli na prihvatljiv nivo.
 
