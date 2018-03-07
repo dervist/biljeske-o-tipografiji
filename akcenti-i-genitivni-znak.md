@@ -26,7 +26,7 @@ Nenaglašeni kratki slogovi obično se ne označavaju nikakvim znakom. Nenaglaš
 
 ## Genitivni znak
 
-Genitivni znak stavlja se na zadnji vokal riječi u genitivu množine kada je potrebno ukazati na razliku od drugih oblika s kojima je inače riječ slična:
+Genitivni znak stavlja se na zadnji vokal riječi u genitivu množine kada je potrebno ukazati na razliku ovog oblika od drugih s kojima je inače sličan:
 
 ![](IMG/akcenti/akcenti-genitivni-znak.png)
 
