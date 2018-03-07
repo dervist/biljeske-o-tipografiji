@@ -1,6 +1,6 @@
 # Akcenti u bosanskome jeziku
 
-Riječi su sastavljene od slogova, a slogovi se izgovaraju različito: prilikom izgovora nekih slogova glas se podiže, prilikom drugih spušta, a to znači da su nejednaki po jačini *intonacije*. Isticanje jednog sloga u riječi jačinom i visinom glasa naziva se *akcenat* ili *naglasak*. U bosanskome jeziku razlikujemo četiri akcenta:
+Riječi su sastavljene od slogova, a slogovi se izgovaraju različito: prilikom izgovora nekih slogova glas se podiže, prilikom drugih spušta, a to znači da su nejednaki po jačini *intonacije*. Isticanje jednog sloga u riječi jačinom i visinom glasa naziva se *akcent* ili *naglasak*. U bosanskome jeziku razlikujemo četiri akcenta:
 
 1\. **kratkosilazni akcent**: slog se izgovara kratko, pri čemu jačina i visina tona naglo i istovremeno padaju:
 
