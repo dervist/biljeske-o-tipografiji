@@ -31,7 +31,7 @@ Brojevi kojima se označavaju fusnote u tekstu nikada se neće pisati kurzivom, 
 
 Fusnota će se od teksta odvojiti prazninom. Praksa odvajanja fusnota tankom horizontalnom linijom dugom nekoliko centimetara, kakva se može vidjeti u memorandumima, esejima i skriptama, nepodobna je za većinu knjiga i nikada nije naišla na podršku stručnjaka, naprotiv, neki su tipografi jasno istaknuli da je korištenje ove linije loša praksa[^2]. Ako se linija, iz nekog razloga, mora pozicionirati iznad fusnote, preporučuje se da se ona produži tako da širinom odgovara širini teksta i tako makar malo umanji vizuelni nesklad koji kratka linija unosi na stranicu.
 
-Nema neke definitivne mjere za razmak kojim će se fusnota odvojiti od teksta, ali u praksi on nikad ne bi smio biti manji od razmaka između dva reda teksta, odnosno praznina bi trebala iznositi makar pola praznog retka. Prazni će red, ili pola retka, u većini slučajeva sasvim lijepo poslužiti svrsi. Mogu se tolerisati i dva prazna retka, ali ne treba ni u ovom pogledu pretjerivati – tri ili četiri prazna retka rijetko će rezultirati nečim drugim izuzev jazom između teksta i fusnote.
+Nema neke definitivne mjere za razmak kojim će se fusnota odvojiti od teksta, ali u praksi on nikad ne bi smio biti manji od razmaka između dva reda teksta, odnosno praznina bi trebala iznositi makar pola praznog retka. Prazni će red, ili pola retka, u većini slučajeva sasvim lijepo poslužiti svrsi. Mogu se tolerisati i dva prazna retka, ali ni u ovom pogledu ne treba pretjerivati – tri ili četiri prazna retka kreirat će nepremostivi jaz između teksta i fusnote.
 
 ## Pisanje broja ispred teksta fusnote {#broj-ispred-teksta-fusnote}
 
