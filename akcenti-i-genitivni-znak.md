@@ -34,7 +34,7 @@ Umjesto genitivnog znaka može se koristiti i crta za obilježavanje dugih nenag
 
 ## Greške prilikom obilježavanja akcenata
 
-Kratkouzlazni i dugouzlazni akcenti obično su u tekstu obilježeni kako treba, što nije slučaj sa kratkosilaznim i dugosilaznim akcentima za koje se često koriste pogrešne oznake: kratkosilazni akcent ponekad je obilježen dvjema tačkama iznad slova umjesto dvjema kosim crticama, dok se oznaka za dugosilazni akcent gotovo redovno brka sa genitivnim znakom:
+Kratkouzlazni i dugouzlazni akcenti obično su u tekstu napisani kako treba, što nije slučaj sa kratkosilaznim i dugosilaznim – za obilježavanje ova dva akcenta nerijetko se koriste pogrešne oznake, pa se kratkosilazni akcent nekada obilježava dvjema tačkama iznad slova umjesto dvjema kosim crticama, dok se znak za obilježavanje dugosilaznog akcenta gotovo redovno brka sa genitivnim znakom:
 
 ![](IMG/akcenti/akcenti-greske.png)
 
