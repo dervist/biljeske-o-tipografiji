@@ -6,6 +6,7 @@
 * [Brojevi – vrste i kombinacije](brojevi.md)
 * [Fusnote – način obilježavanja i pisanja](fusnote.md)
 * [Razmak između riječi u tekstu](razmaci-izmedu-rijeci-u-tekstu.md)
+* [Akcenti i genitivni znak](akcenti-i-genitivni-znak.md)
 
 ## Pravopis, gramatika, stilistika
 
