@@ -1,7 +1,5 @@
 # Brojevi – vrste i kombinovanje
 
-Slaganje brojeva i slova, u vizuelnom i tipografskom smislu, esencijalno je za kvalitet knjige. U prilogu je naveden kratki osvrt na slaganje brojeva sa slovima, ispravno i pogrešno korištenje i kombinaciju brojeva i slova. 
-
 Najvažniji zadatak knjižnog dizajnera jest kreiranje harmonije na stranicama knjige, što uvelike zavisi od toga je li ostvaren sklad između slova i brojeva ili ne.
 
 Pravilo je u tom pogledu konkretno i jednostavno: ako je tekst pisan velikim slovima (npr. naslovi), tada će se koristiti i »veliki« brojevi (engl. titling figures). U svim drugim situacijama koristit će se »mali« brojevi (engl. text figures):
