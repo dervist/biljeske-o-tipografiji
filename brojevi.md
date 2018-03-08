@@ -30,4 +30,6 @@ Svaki dizajner treba znati kad se koja vrsta slova i brojeva koristi, jer će nj
 
 ***
 
-Prilog o [slaganju brojeva i slova](https://drive.google.com/file/d/1gwnr9JFqrxVsHYWVvU-WLmHGY9Ay4UVO/view?usp=sharing).
+Prilog o [slaganju brojeva i slova](https://drive.google.com/file/d/1gwnr9JFqrxVsHYWVvU-WLmHGY9Ay4UVO/view?usp=sharing). Preuzeto iz: 
+1. Robert Bringhurst, *The Elements of Typographic Style*, 3rd Ed.
+2. Ellen Lupton, *Thinking With Type*, 2nd Ed.
