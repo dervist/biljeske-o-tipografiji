@@ -12,7 +12,7 @@ U svakodnevnoj komunikaciji možemo primijetiti veliko šarenilo kad se radi o p
 
 > inšaAllah, insh-Allah, mašaAllah, mash-Allah, elhamdu liLlah, we selam 
 
-Da stvar bude gora, i u nekim knjigama u kojima lektor nije obavio svoj posao (ili je bio prisiljen ove izraze ostaviti nekorigovane[^1]) možemo vidjeti ovako napisane riječi. Među opravdanjima za to bezočno masakriranje naših riječi arapskog porijekla najčešće se ističe to da se Božije ime uvijek *mora* pisati velikim slovom. Da je ovakav stav neutemeljen čak i ako se koncentrišemo isključivo na pravopis arapskog jezika lahko je pokazati kroz kratku analizu navedenih izraza.
+Da stvar bude gora, i u nekim knjigama u kojima lekturu nije obavila stručna osoba (ili je bila prisiljena ove izraze ostaviti nekorigovane[^1]) možemo vidjeti ovako napisane riječi. Među opravdanjima za to bezočno masakriranje naših riječi arapskog porijekla najčešće se ističe to da se Božije ime *mora* pisati velikim slovom, čak i kada je dio složenice. Da je ovakav stav neutemeljen – čak i ako se koncentrišemo isključivo na pravopis arapskog jezika – lahko je pokazati kroz kratku analizu navedenih izraza.
 
 ### Ime “Allah”
 
@@ -24,7 +24,8 @@ Ime “Allah” sastoji se od četiri slova, harfa: elif, lam, lam i ha: الل�
 Ukoliko se ispred riječi koja počinje elifom nađe neka druga riječ, elif se ne čita:
 
 > bi + **i**smi + **A**llāh > bi + ~~**i**~~smi + ~~**A**~~llāh > bismillāh – بِسْمِ اللَّهِ  
-> Rabbun + **e**s-semāvāt > Rabbu~~n~~ + ~~**e**~~s-semāvāt > Rabbus-semāvāt – رَبُّ السَّمَاوَاتِ
+> subhane + **A**llah > subhane + ~~**A**~~llah > subhanellah > subhanallah – سُبْحَانَ اللَّهِ  
+> sejfun + **A**llah > sejfu~~n~~ + ~~**A**~~llah > sejfullah – سَيْفُ اللَّهِ
 
 ### InšaAllah
 
@@ -36,17 +37,13 @@ S obzirom na to da ime “Allah” počinje elifom, a prije njega nalazi se glag
 
 > in + šāe + ~~**A**~~llāh = in šāellāh > in šāallāh
 
-Fetha ispred riječi “Allah” uvijek se čita kao *a*, ne *e*, pa će i finalni oblik arapske riječi glasiti: *in šāallāh*.
+Fetha ispred riječi “Allah” uvijek se čita kao *a*, ne *e*, pa će i konačni oblik arapskog izraza glasiti: *in šāallāh*.
 
-Zašto je pogrešno pisati *inšaAllah*? Ako i zanemarimo činjenicu da veliko slovo nikada ne može doći usred riječi[^2], ovako napisana riječ nije izvršila svrhu koja je prvobitno zamišljena, tj. da se Božije ime piše velikim slovom, jer u riječi *inšaAllah* nije pisano veliko slovo *a* u riječi “Allah”, već je napisano veliko slovo *a* kojim se završava glagol *šae*:
+Zašto je pogrešno pisati *inšaAllah*? Ako i zanemarimo činjenicu da veliko slovo ne može doći usred riječi[^2], ovako napisana riječ nije izvršila svrhu koja je prvobitno zamišljena, tj. da se Božije ime piše velikim slovom, jer u riječi *inšaAllah* veliko slovo *a* nije prvo slovo riječi “Allah”, već zadnje slovo glagola *šae*:
 
 > inšaAllah = in + ša**A** + ~~A~~llah
 
-Kao i u svim drugim slučajevima, početno slovo *a* u imenu “Allah” gubi se prilikom spajanja sa riječima koje mu prethode:
-
-> bi + **i**smi + **A**llah > bi + ~~**i**~~smi + ~~**A**~~llah > bismillah  
-> subhane + **A**llah > subhane + ~~**A**~~llah > subhanellah > subhanallah  
-> sejfun + **A**llah > sejfu~~n~~ + ~~**A**~~llah > sejfullah
+Kao i u svim drugim slučajevima, početno slovo *a* u imenu “Allah” gubi se prilikom spajanja sa riječima koje mu prethode.
 
 ### MašaAllah
 
@@ -62,14 +59,24 @@ gdje je, kao i u riječi “inšaAllah”, zadnje slovo glagola *šae* pisano ka
 
 ### InshAllah, mashAllah
 
-Kako god za pisanje velikog slova usred riječi ne postoji podloga u našem jeziku, isto je tako nedopustivo, ali istovremeno i ponižavajuće, koristiti tuđi alfabet za pisanje naših riječi. U riječima *inshaAllah* i *mashaAllah* cilj je bio, vjerovatno, u nedostatku našeg slova *š* koristiti englesku kombinaciju *sh* kao zamjenu. No, treba zapamtiti da se engleski alfabet koristi isključivo za pisanje engleskih riječi i riječi koje su *transliterovane* iz nelatiničnih pisama, nikad za pisanje riječi koje pripadaju našem jeziku. Engleski se alfabet ne može koristiti za *transkripciju*[^3]. 
+Kako je god pisanje velikog slova usred riječi neutemeljeno u našem jeziku, isto je tako nedopustivo, ali istovremeno i ponižavajuće, koristiti tuđi alfabet za pisanje naših riječi. U riječima *inshaAllah* i *mashaAllah* cilj je bio, vjerovatno, u nedostatku našeg slova *š* koristiti englesku kombinaciju *sh* kao zamjenu. No, treba zapamtiti da se engleski alfabet koristi isključivo za pisanje engleskih riječi i riječi koje su *transliterovane* iz nelatiničnih pisama, nikad za pisanje riječi koje pripadaju našem jeziku. Engleski se alfabet ne može koristiti za *transkripciju*[^3]. 
 
-Riječ “inshaAllah”, stoga, nije isto što “inšaAllah”, iako su obje neispravne, a u našem jeziku “sh” su dva slova, kao u riječi “**sh**vatiti”; u nedostatku slova *š* bolje je koristiti naše riječi i kazati “Ako Bog da”. Odgovor na selam piše se “**ve** alejkumusselam”, ne “**we** alejkumusselam”. Slova *w*, *q*, *x*, *y* nisu dio naše abecede i ne mogu se stoga ni koristiti prilikom pisanja naših riječi, bilo da su one izvorno bosanske, ili su arapskog, turskog, engleskog, njemačkog ili nekog drugog porijekla.
+Riječ “inshaAllah”, stoga, nije isto što “inšaAllah”, iako su obje neispravne, a u našem jeziku “sh” su dva slova, kao u riječi “**sh**vatiti”; u nedostatku slova *š* bolje je koristiti naše riječi i kazati “Ako Bog da”. 
+
+Pisanje selama predstavlja još jedan primjer bespotrebnog pozajmljivanja znakova iz engleskog alfabeta, pa možemo vidjeti napisano: 
+
+> Es-selamu alejkum **we** rahmetullahi **we** berekatuh  
+> **We** alejkumusselam
+
+iako je potreba za ovim izvještačenim načinom pisanja još manja nego kod riječi “inšallah” ili “mašallah”. Slova *w*, *q*, *x*, *y* nisu dio naše abecede i ne mogu se koristiti prilikom pisanja naših riječi, bilo da su one izvorno bosanske, ili su arapskog, turskog, engleskog, njemačkog ili nekog drugog porijekla. Selam treba pisati onako kako je navedeno u Rječniku:
+
+> Es-selamu alejkum **ve** rahmetullahi **ve** berekatuh
+> **Ve** alejkumusselam.
 
 ## Bilješke
 
-[^1]: Neki izdavači, obično pod utjecajem autora ili prevodilaca, naročito onih visokoobrazovanih, ali van struke, prisiljavaju lektore i dizajnere da ne koriguju očigledne pogreške u pisanju, koncepciji knjige i dizajnu. Tako, osim nakaradnog pisanja nekih riječi i grubog kršenja čak i osnovnih pravopisnih pravila, imamo i čitav niz tipografskih zabluda najevidentnijih kroz način pisanju hadisa i ajeta za koje se, gotovo redovno i neselektivno, koriste kurziv i masna slova, bez ikakvog racionalnog povoda i svrhe, fusnote svojom brojnošću i dužinom dostižu i sam sadržaj knjige, a nekada su numerisane i četverocifrenim brojevima. Sve ove i slične radnje dovode do toga da se brojna inače ozbiljna djela posmatraju kao parodija i predmet su ismijavanja. 
+[^1]: Neki izdavači, obično pod utjecajem autora ili prevodioca, naročito onih visokoobrazovanih, ali van struke, prisiljavaju lektore i dizajnere da ne koriguju očigledne pogreške u pisanju, koncepciji knjige i dizajnu. Tako, osim nakaradnog pisanja nekih riječi i grubog kršenja čak i osnovnih pravopisnih pravila, imamo i čitav niz tipografskih zabluda najevidentnijih kroz način pisanja ajeta i hadisa za koje se, gotovo redovno i neselektivno, potpuno zanemarujući kontekst, tipografske konvencije i bez racionalnog povoda i svrhe – koriste kurziv i masna slova, čime se ovim oblicima slova uskraćuje njihova osnovna funkcija radi koje su kreirani; fusnote nekad svojom brojnošću i dužinom dostižu pa i premašuju sam sadržaj knjige, tako da možemo vidjeti stranice knjige u potpunosti, ili gotovo u potpunosti, ispunjene tekstom fusnota, ponekad numerisane i četverocifrenim brojevima, što dovoljno govori o autorovom ili prevodiočevom očevidnom nerazumijevanju izraza “knjiga” i njene svrhe. Sve ove i slične radnje dovode do toga da se brojna inače ozbiljna djela posmatraju kao parodija i predmet su ismijavanja.
 
 [^2]: Izuzeci postoje, pa će se neka strana imena, poput McCormick, pisati sa velikim slovom usred riječi.
 
-[^3]: O razlici između transkripcije i transliteracije vidjeti: [Transkripcija ili transliteracija?](https://dervist.gitbooks.io/biljeske-o-tipografiji-i-dizajnu/content/transkripcija.html) i [Transkripcija arapskih imena i termina](https://dervist.gitbooks.io/biljeske-o-tipografiji-i-dizajnu/content/transkripcija.html)
+[^3]: O razlici između transkripcije i transliteracije vidjeti: [Transkripcija arapskih imena i termina](https://dervist.gitbooks.io/biljeske-o-tipografiji-i-dizajnu/content/transkripcija.html)
