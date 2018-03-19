@@ -68,7 +68,7 @@ Riječ “inshaAllah”, stoga, nije isto što “inšaAllah”, iako su obje ne
 
 ## Bilješke
 
-[^1]: Neki izdavači, obično pod utjecajem autora ili prevodilaca, naročito onih visokoobrazovanih, ali van struke, prisiljavaju lektore i dizajnere da ne koriguju očigledne pogreške u pisanju, koncepciji knjige i dizajnu. Tako, osim nakaradnog pisanja nekih riječi i grubog kršenja čak i osnovnih pravopisnih pravila, imamo i čitav niz tipografskih zabluda najevidentnijih kroz način pisanju hadisa i ajeta za koje se, gotovo redovno i neselektivno, koriste kurziv i masna slova, bez ikakvog racionalnog povoda i svrhe, fusnote svojom brojnošću dosežu ili prelaze sam sadržaj knjige i numerišu se čak i četverocifrenim brojevima i slično. Sve ove i slične radnje dovode do toga da se brojna ozbiljna islamska djela posmatraju kao parodija i predmet su ismijavanja. 
+[^1]: Neki izdavači, obično pod utjecajem autora ili prevodilaca, naročito onih visokoobrazovanih, ali van struke, prisiljavaju lektore i dizajnere da ne koriguju očigledne pogreške u pisanju, koncepciji knjige i dizajnu. Tako, osim nakaradnog pisanja nekih riječi i grubog kršenja čak i osnovnih pravopisnih pravila, imamo i čitav niz tipografskih zabluda najevidentnijih kroz način pisanju hadisa i ajeta za koje se, gotovo redovno i neselektivno, koriste kurziv i masna slova, bez ikakvog racionalnog povoda i svrhe, fusnote svojom brojnošću dosežu ili prelaze sam sadržaj knjige i numerisane su čak i četverocifrenim brojevima i slično. Sve ove i slične radnje dovode do toga da se brojna ozbiljna islamska djela posmatraju kao parodija i predmet su ismijavanja. 
 
 [^2]: Izuzeci postoje, pa će se neka strana imena, poput McCormick, pisati sa velikim slovom usred riječi.
 
