@@ -44,7 +44,7 @@ Zašto je pogrešno pisati *inšaAllah*? Ako i zanemarimo činjenicu da veliko s
 
 Kao i u svim drugim slučajevima, početno slovo *a* u imenu “Allah” gubi se prilikom spajanja sa riječima koje mu prethode:
 
-> bi + **i**smi + **A**llah > bi + smi + llah > bismillah  
+> bi + **i**smi + **A**llah > bi + ~~**i**~~smi + ~~**A**~~llah > bismillah  
 > subhane + **A**llah > subhane + ~~**A**~~llah > subhanellah > subhanallah  
 > sejfun + **A**llah > sejfu~~n~~ + ~~**A**~~llah > sejfullah
 
