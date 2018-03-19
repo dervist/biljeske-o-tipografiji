@@ -46,13 +46,13 @@ Artikulacija nevokalizovanog elifa/hemzeta manifestira se u vidu kratkog potpuno
 
 Treba istaknuti da se apostrof neće pisati kada se nevokalizovani elif/hemze nađe na kraju riječi, jer je nevokalizovani krajnji elif/hemze potpuno bezglasan, ne izgovara se, pa se stoga i ne obilježava. Npr. arapsku riječ نِسَاءٌ treba pisati *nisa*, a ne *nisa’*. Pored toga, kada se apostrof nađe na kraju riječi, nije moguće razlikovati ga od polunavodnika, što može dovesti do nejasnoće u tekstu, a nekada i do pogrešnog razumijevanja smisla teksta, jer će se apostrof zamijeniti za polunavodnik i time označiti kraj citata na mjestu na kojem se citat ne završava.
 
+### Sa vokalom, a i ispred njega nađe se glas sa vokalom
+
+Kada se ispred vokalizovanog elifa/hemzeta nađe neki drugi glas sa vokalom, neće se pisati apostrof između njih, jer prilikom izgovora ovih glasova nema prekida glasa, pauze, pa je bilo kakvo odvajanje samoglasnika bespotrebno. Npr. neće se pisati *se’ele*, kada se vrši transkripcija arapskog glagola سَأَلَ, već treba pisati *seele*. Ako bi se ova riječ pisala sa apostrofom, *se’ele,* ona bi odgovarala arapskom سَأْأَلَ, odnosno سَأَّلَ, što je pogrešna vokalizacija riječi usljed koje je prva vrsta glagola pogrešno prikazana kao druga.[^1]
+
 ### Sa vokalom, a ispred njega nađe se glas bez vokala
 
 Apostrof će se koristiti i u onim situacijama kad prije vokalizovanog elifa/hemzeta dođe neki drugi glas koji je bez vokala. No, potrebno je naglasiti da funkcija ovog apostrofa nije da označi elif/hemze bez vokala – jer ovdje se radi o elifu/hemzetu *sa* vokalom – nego da ukaže na pauzu: on pomaže u ispravnom izgovoru riječi i pravilnom rasporedu naglasaka. Npr. u riječi *Kur’an* (قُرْءَانٌ) apostrof služi kao naznaka da je potrebno prekinuti glas nakon nevokalizovanog suglasnika *r*, a zatim sljedeći slog pročitati sa naglaskom na samoglasniku *a*. Na ovaj način izbjeći će se premještanje glasova u riječi – bez apostrofa, riječ bi se pročitala kao *Kuran* (قُرَانٌ), rezultirajući premještanjem samoglasnika na prethodni glas i gubljenjem hemzeta.
-
-### Sa vokalom, a ispred njega nađe se glas sa istim vokalom
-
-Kada se ispred vokalizovanog elifa/hemzeta nađe neki drugi glas sa istim vokalom, neće se pisati apostrof između njih, jer prilikom izgovora ovih glasova nema prekida glasa, pauze, pa je bilo kakvo odvajanje samoglasnika bespotrebno. Npr. neće se pisati *se’ele*, kada se vrši transkripcija arapskog glagola سَأَلَ, već treba pisati *seele*. Ako bi se ova riječ pisala sa apostrofom, *se’ele,* ona bi odgovarala arapskom سَأْأَلَ, odnosno سَأَّلَ, što je pogrešna vokalizacija riječi usljed koje je prva vrsta glagola pogrešno prikazana kao druga.[^1]
 
 ## Ajn {#ajn}
 
@@ -66,17 +66,17 @@ Artikulacija nevokalizovanog ajna manifestira se u vidu kratkog djelimičnog pre
 
 Za nevokalizovani ajn neće se, baš kao ni za elif/hemze, pisati apostrof kada se ovaj glas nađe na kraju riječi. Npr. arapsko ime نَافِعُ pisat će se *Nafi*, ne *Nafi’*.
 
-Treba napomenuti da će se fetha na glasu koji dođe ispred nevokalizovanog ajna pisati kao kratki samoglasnik *a*, ne *e*, kako se vidi u primjeru riječi *a’raf*. Stoga se neće pisati *e'raf*, jer se u praksi muslimana našeg podneblja ajn tretira identično krupnim glasovima, pa se fetha na glasu koji dođe ispred nevokalizovanog ajna, kao i prije bilo kojeg krupnog glasa bez vokala, piše kao kratki samoglasnik *a*, ne *e*.[^3] Neće se pisati ni *earaf*, jer bismo u ovom slučaju imali ajn *sa* vokalom, ne *bez* vokala – riječ *earaf* odgovara arapskom أَعَرَافُ, što nije ispravna vokalizacija riječi.
+Treba napomenuti da će se fetha na glasu koji dođe ispred nevokalizovanog ajna pisati kao kratki samoglasnik *a*, ne *e*, kako se vidi u primjeru riječi *a’raf*. Stoga se neće pisati *e’raf*, jer se ajn tretira identično krupnim glasovima, pa se fetha na glasu koji dođe ispred nevokalizovanog ajna, kao i prije bilo kojeg krupnog glasa bez vokala, piše kao kratki samoglasnik *a*, ne *e*.[^3] Neće se pisati ni *earaf*, jer bismo u ovom slučaju imali ajn *sa* vokalom, ne *bez* vokala – riječ *earaf* odgovara arapskom أَعَرَافُ, što nije ispravna vokalizacija riječi.
 
 Ne treba pisati apostrof prije vokalizovanog ajna, jer se apostrof, kad se radi o ajnu, koristi isključivo u situacijama u kojima je potrebno označiti nepostojanje vokala na ovom glasu. Npr., neće se pisati *’alim*, kad se vrši transkripcija arapske riječi عَالِمٌ, jer riječ *’alim,* pisana s apostrofom na početku, odgovara arapskom عْعَالِمٌ, odnosno عَّالِمٌ; neće se pisati ni *mu’allim,* kad se vrši transkripcija arapske riječi مُعَلِّمٌ, jer riječ *mu’allim* odgovara arapskom مُعْعَلِّمٌ, odnosno مُعَّلِّمٌ. Isto važi za riječ *te’ala* – ovaj oblik odgovara arapskom تَعْعَالَى, odnosno تَعَّالَى, što su sve nepostojeće ili pogrešne riječi u arapskom jeziku. Kako se u riječima مُعَلِّمٌ ,عَالِمٌ i تَعَالَى radi o samo jednom, vokalizovanom ajnu, valjana transkripcija glasit će *alim, muallim* i *teala*.[^4]
+
+### Sa vokalom, a i ispred njega nađe se glas sa vokalom
+
+Kada se ispred vokalizovanog ajna nađe neki drugi glas sa vokalom, neće se pisati apostrof između njih, jer prilikom izgovora ovih glasova nema pauze, zbog čega je i bilo kakvo odvajanje samoglasnika bespotrebno. Npr. neće se pisati *tabi’in*, kada se vrši transkripcija arapske riječi تَابِعِينَ, već treba pisati *tabiin*. Riječ *tabi’in* odgovara arapskom تَابِعْعِينَ, odnosno تَابِعِّينَ, što je neispravna vokalizacija riječi.
 
 ### Sa vokalom, a ispred njega nađe se glas bez vokala
 
 Kad se ispred vokalizovanog ajna nađe neki drugi glas bez vokala, koristit će se apostrof da označi mjesto na kojem treba jasno razgraničiti slogove, identično elifu/hemzetu kad se nađe u sličnoj situaciji, kako je pojašnjeno ranije; npr. *en’am* (أَنْعَامُ), *mev’ud* (مَوْعُودٌ) i sl.
-
-### Sa vokalom, a ispred njega nađe se glas sa istim vokalom
-
-Kada se ispred vokalizovanog ajna nađe neki drugi glas sa istim vokalom, neće se pisati apostrof između njih, jer prilikom izgovora ovih glasova nema pauze, zbog čega je i bilo kakvo odvajanje samoglasnika bespotrebno. Npr. neće se pisati *tabi’in*, kada se vrši transkripcija arapske riječi تَابِعِينَ, već treba pisati *tabiin*. Riječ *tabi’in* odgovara arapskom تَابِعْعِينَ, odnosno تَابِعِّينَ, što je neispravna vokalizacija riječi.
 
 ## Okruglo ta {#okruglo-ta}
 
