@@ -4,7 +4,7 @@ Rječnik bosanskoga jezika jasan je i nedvosmislen u pogledu načina pisanja če
 
 Ukoliko se, pak, riječi *inšallah*, *mašallah*, *elhamdulillah* i sl. koriste kao arapski izrazi i u sklopu rečenice pisane na arapskom jeziku (npr. prilikom transkripcije zikrova i dova), tada će se pisati kako je uobičajeno da se piše transkripcija arapskog teksta: *in šāallāh*, *mā šāallāh*, *el-hamdu lillāh*.
 
-Dakle, način pisanja determinisan je kontekstom i načinom upotrebe riječi, odnosno jezikom u sklopu kojeg je riječ upotrijebljena.
+Dakle, način pisanja determinisan je kontekstom i načinom upotrebe riječi, odnosno jezikom rečenice u sklopu koje je riječ upotrijebljena.
 
 ## Pogrešni načini pisanja
 
