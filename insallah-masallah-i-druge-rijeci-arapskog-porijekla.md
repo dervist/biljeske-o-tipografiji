@@ -6,13 +6,13 @@ Ukoliko se, pak, riječi *inšallah*, *mašallah*, *elhamdulillah* i sl. koriste
 
 Dakle, način pisanja determinisan je kontekstom i načinom upotrebe riječi, odnosno jezikom rečenice u sklopu koje je riječ upotrijebljena.
 
-## Pogrešni načini pisanja
+\* \* \*
 
 U svakodnevnoj komunikaciji možemo primijetiti veliko šarenilo kad se radi o pisanju naših riječi arapskog porijekla. Tako ćemo vidjeti izraze poput: 
 
 > inšaAllah, insh-Allah, mašaAllah, mash-Allah, elhamdu liLlah, we selam 
 
-Da stvar bude gora, i u nekim knjigama u kojima lekturu nije obavila stručna osoba (ili je bila prisiljena ove izraze ostaviti nekorigovane[^1]) možemo vidjeti ovako napisane riječi. Među opravdanjima za to bezočno masakriranje naših riječi arapskog porijekla najčešće se ističe to da se Božije ime *mora* pisati velikim slovom, čak i kada je dio složenice. Da je ovakav stav neutemeljen – čak i ako se koncentrišemo isključivo na pravopis arapskog jezika – lahko je pokazati kroz kratku analizu navedenih izraza.
+Da stvar bude gora, i u nekim knjigama koje nije lektorisala stručna osoba (ili je bila prisiljena ove izraze ostaviti nekorigovane[^1]) možemo vidjeti ovako napisane riječi. Među opravdanjima za to bezočno masakriranje naših riječi arapskog porijekla najčešće se ističe to da se Božije ime *mora* pisati velikim slovom, čak i kada je dio složenice. Da je ovakav stav neutemeljen – čak i ako se koncentrišemo isključivo na pravopis arapskog jezika – lahko je pokazati kroz kratku analizu navedenih izraza.
 
 ### Ime “Allah”
 
