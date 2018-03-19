@@ -68,7 +68,7 @@ Pisanje selama predstavlja još jedan primjer bespotrebnog pozajmljivanja znakov
 > Es-selamu alejkum **we** rahmetullahi **we** berekatuh  
 > **We** alejkumusselam
 
-iako je potreba za ovim izvještačenim načinom pisanja još manja nego kod riječi “inšaAllah” ili “mašaAllah”. Slova *w*, *q*, *x*, *y* nisu dio naše abecede i ne mogu se koristiti prilikom pisanja naših riječi, bilo da su one izvorno bosanske, ili su arapskog, turskog, engleskog, njemačkog ili nekog drugog porijekla. Selam treba pisati onako kako je navedeno u Rječniku:
+iako je potreba za ovim izvještačenim načinom pisanja još manja nego kod riječi “inshaAllah” ili “mashaAllah”. Slova *w*, *q*, *x*, *y* nisu dio naše abecede i ne mogu se koristiti prilikom pisanja naših riječi, bilo da su one izvorno bosanske, ili su arapskog, turskog, engleskog, njemačkog ili nekog drugog porijekla. Selam treba pisati onako kako je navedeno u Rječniku:
 
 > Es-selamu alejkum **ve** rahmetullahi **ve** berekatuh  
 > **Ve** alejkumusselam.
