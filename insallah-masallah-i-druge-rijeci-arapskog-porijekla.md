@@ -18,12 +18,12 @@ Da stvar bude gora, i u nekim knjigama u kojima lektor nije obavio svoj posao (i
 
 Ime “Allah” sastoji se od četiri slova, harfa: elif, lam, lam i ha: الله. U arapskom jeziku, elif koji se nalazi na početku riječi izgovara se kao vokal *e/a*, *i* ili *u* samo kad se riječ čita zasebno, nepovezana sa riječi koja joj prethodi:
 
-> **A**llāhu ekber – اَللَّهُ أَكْبَرُ
+> **A**llāhu ekber – اَللَّهُ أَكْبَرُ  
 > **e**s-semāvāt – اَلسَّمَاوَاتُ
 
 Ukoliko se ispred riječi koja počinje elifom nađe neka druga riječ, elif se ne čita:
 
-> bi + **i**smi + **A**llāh > bi + ~~**i**~~smi + ~~**A**~~llāh > bismillāh – بِسْمِ اللَّهِ
+> bi + **i**smi + **A**llāh > bi + ~~**i**~~smi + ~~**A**~~llāh > bismillāh – بِسْمِ اللَّهِ  
 > Rabbun + **e**s-semāvāt > Rabbu~~n~~ + ~~**e**~~s-semāvāt > Rabbus-semāvāt – رَبُّ السَّمَاوَاتِ
 
 ### InšaAllah
@@ -44,8 +44,8 @@ Zašto je pogrešno pisati *inšaAllah*? Ako i zanemarimo činjenicu da veliko s
 
 Kao i u svim drugim slučajevima, početno slovo *a* u imenu “Allah” gubi se prilikom spajanja sa riječima koje mu prethode:
 
-> bi + **i**smi + **A**llah > bi + smi + llah > bismillah
-> subhane + **A**llah > subhane + ~~**A**~~llah > subhanellah > subhanallah
+> bi + **i**smi + **A**llah > bi + smi + llah > bismillah  
+> subhane + **A**llah > subhane + ~~**A**~~llah > subhanellah > subhanallah  
 > sejfun + **A**llah > sejfu~~n~~ + ~~**A**~~llah > sejfullah
 
 ### MašaAllah
