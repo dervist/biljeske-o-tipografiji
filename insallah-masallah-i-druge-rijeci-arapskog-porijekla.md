@@ -39,7 +39,7 @@ S obzirom na to da ime “Allah” počinje elifom, a prije njega nalazi se glag
 
 Fetha ispred riječi “Allah” uvijek se čita kao *a*, ne *e*, pa će i konačni oblik arapskog izraza glasiti: *in šāallāh*.
 
-Zašto je pogrešno pisati *inšaAllah*? Ako i zanemarimo činjenicu da veliko slovo ne može doći usred riječi[^2], ovako napisana riječ nije izvršila svrhu koja je prvobitno zamišljena, tj. da se Božije ime piše velikim slovom, jer u riječi *inšaAllah* veliko slovo *a* nije prvo slovo riječi “Allah”, već zadnje slovo glagola *šae*:
+Zašto je pogrešno pisati *inšaAllah* ili *inšAllah*? Ako i zanemarimo činjenicu da veliko slovo ne može doći usred riječi[^2], ovako napisana riječ nije izvršila svrhu koja je prvobitno zamišljena, tj. da se Božije ime piše velikim slovom, jer u riječi *inšaAllah* veliko slovo *a* nije prvo slovo riječi “Allah”, već zadnje slovo glagola *šae*:
 
 > inšaAllah = in + ša**A** + ~~A~~llah
 
@@ -53,13 +53,13 @@ Riječ “mašallah” sačinjena je od tri arapske riječi: “ma”, “šae�
 
 Neispravni oblik riječi *mašAllah* ili *mašaAllah* glasi:
 
-> mā + šāA + ~~**A**~~llah
+> mā + šā**A** + ~~A~~llah
 
 gdje je, kao i u riječi “inšaAllah”, zadnje slovo glagola *šae* pisano kao veliko *A*.
 
 ### InshAllah, mashAllah
 
-Kako je god pisanje velikog slova usred riječi neutemeljeno u našem jeziku, isto je tako nedopustivo, ali istovremeno i ponižavajuće, koristiti tuđi alfabet za pisanje naših riječi. U riječima *inshaAllah* i *mashaAllah* cilj je bio, vjerovatno, u nedostatku našeg slova *š* koristiti englesku kombinaciju *sh* kao zamjenu. No, treba zapamtiti da se engleski alfabet koristi isključivo za pisanje engleskih riječi i riječi koje su *transliterovane* iz nelatiničnih pisama, nikad za pisanje riječi koje pripadaju našem jeziku. Engleski se alfabet ne može koristiti za *transkripciju*[^3]. 
+Kako je god pisanje velikog slova usred riječi neutemeljeno u našem jeziku, isto je tako nedopustivo koristiti tuđi alfabet za pisanje naših riječi. U riječima *inshaAllah* i *mashaAllah* cilj je bio, vjerovatno, u nedostatku našeg slova *š* koristiti englesku kombinaciju *sh* kao zamjenu. To je pogrešno. Engleski alfabet koristi se isključivo za pisanje engleskih riječi i, obično, riječi koje su *transliterovane* iz nelatiničnih pisama, nikad za pisanje riječi koje pripadaju našem jeziku. Engleski se alfabet ne može koristiti za *transkripciju*[^3]. 
 
 Riječ “inshaAllah”, stoga, nije isto što “inšaAllah”, iako su obje neispravne, a u našem jeziku “sh” su dva slova, kao u riječi “**sh**vatiti”; u nedostatku slova *š* bolje je koristiti naše riječi i kazati “Ako Bog da”. 
 
@@ -75,8 +75,8 @@ iako je potreba za ovim izvještačenim načinom pisanja još manja nego kod rij
 
 ## Bilješke
 
-[^1]: Neki izdavači, obično pod utjecajem autora ili prevodioca, naročito onih visokoobrazovanih, ali van struke, prisiljavaju lektore i dizajnere da ne koriguju očigledne pogreške u pisanju, koncepciji knjige i dizajnu. Tako, osim nakaradnog pisanja nekih riječi i grubog kršenja čak i osnovnih pravopisnih pravila, imamo i čitav niz tipografskih zabluda najevidentnijih kroz način pisanja ajeta i hadisa za koje se, gotovo redovno i neselektivno, potpuno zanemarujući kontekst, tipografske konvencije i bez racionalnog povoda i svrhe – koriste kurziv i masna slova, čime se ovim oblicima slova uskraćuje njihova osnovna funkcija radi koje su kreirani; fusnote nekad svojom brojnošću i dužinom dostižu pa i premašuju sam sadržaj knjige, tako da možemo vidjeti stranice knjige u potpunosti, ili gotovo u potpunosti, ispunjene tekstom fusnota, ponekad numerisane i četverocifrenim brojevima, što dovoljno govori o autorovom ili prevodiočevom očevidnom nerazumijevanju izraza “knjiga” i njene svrhe. Sve ove i slične radnje dovode do toga da se brojna inače ozbiljna djela posmatraju kao parodija i predmet su ismijavanja.
+[^1]: Neki izdavači, obično pod utjecajem autora ili prevodioca, naročito onih visokoobrazovanih, ali van struke, prisiljavaju lektore i dizajnere da ne koriguju očigledne pogreške u pisanju, koncepciji knjige i dizajnu. Tako, osim nakaradnog pisanja nekih riječi i grubog kršenja čak i osnovnih pravopisnih pravila, imamo i čitav niz tipografskih i koncepcijskih zabluda najevidentnijih kroz način pisanja ajeta i hadisa za koje se, gotovo redovno i neselektivno, potpuno zanemarujući kontekst, tipografske konvencije i bez racionalnog povoda i svrhe – koriste kurziv i masna slova, čime se ovim oblicima slova uskraćuje njihova osnovna funkcija radi koje su kreirani; fusnote nekad svojom brojnošću i dužinom dostižu pa i premašuju sam sadržaj knjige, tako da možemo vidjeti stranice knjige u potpunosti, ili gotovo u potpunosti, ispunjene tekstom fusnota, ponekad numerisane i četverocifrenim brojevima, što dovoljno govori o autorovom ili prevodiočevom očevidnom nerazumijevanju izraza “knjiga”, kako se ona piše i šta joj je svrha. Sve ove i slične radnje dovode do toga da se brojna inače ozbiljna djela posmatraju kao parodija i predmet su ismijavanja.
 
-[^2]: Izuzeci postoje, pa će se neka strana imena, poput McCormick, pisati sa velikim slovom usred riječi.
+[^2]: Izuzeci postoje, pa će se neka strana imena, poput McCormick, pisati sa velikim slovom usred riječi. Isto važi i za nazive ustanova.
 
 [^3]: O razlici između transkripcije i transliteracije vidjeti: [Transkripcija arapskih imena i termina](https://dervist.gitbooks.io/biljeske-o-tipografiji-i-dizajnu/content/transkripcija.html)
