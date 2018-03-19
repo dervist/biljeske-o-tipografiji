@@ -12,7 +12,7 @@ U svakodnevnoj komunikaciji možemo primijetiti veliko šarenilo kad se radi o p
 
 > inšaAllah, insh-Allah, mašaAllah, mash-Allah, elhamdu liLlah, we selam 
 
-Da stvar bude gora, i u nekim knjigama u kojima lektor nije obavio svoj posao (ili je bio prisiljen ove izraze ostaviti nekorigovane[^1]) možemo vidjeti ovako napisane riječi. Među opravdanjima za to bezočno masakriranje naših riječi arapskog porijekla najčešće se ističe to da se Božije ime uvijek *mora* pisati velikim slovom. Da je ovakav stav neutemeljen čak i ako se koncentrišemo isključivo na pravopis arapskog jezika lahko je pokazati kratkom analizom navedenih izraza.
+Da stvar bude gora, i u nekim knjigama u kojima lektor nije obavio svoj posao (ili je bio prisiljen ove izraze ostaviti nekorigovane[^1]) možemo vidjeti ovako napisane riječi. Među opravdanjima za to bezočno masakriranje naših riječi arapskog porijekla najčešće se ističe to da se Božije ime uvijek *mora* pisati velikim slovom. Da je ovakav stav neutemeljen čak i ako se koncentrišemo isključivo na pravopis arapskog jezika lahko je pokazati kroz kratku analizu navedenih izraza.
 
 ### Ime “Allah”
 
