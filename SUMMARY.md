@@ -14,5 +14,6 @@
 * [Transkripcija ili transliteracija?](pisanje-arapskih-imena-i-termina.md)
 * [Transkripcija arapskih imena i termina](transkripcija.md)
 * [Imena i termini koji završavaju na a](pisanje-arapskih-imena-i-termina-sa-krajnjim-a.md)
+* [Inšallah, mašallah i druge riječi arapskog porijekla](insallah-masallah-i-druge-rijeci-arapskog-porijekla.md)
 * [Prevođenje i priprema djela za objavljivanje](prevodenje-i-priprema-za-objavljivanje.md)
 
