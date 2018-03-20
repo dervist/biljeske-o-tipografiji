@@ -1,6 +1,6 @@
 # Inšallah, mašallah i druge riječi arapskog porijekla
 
-Rječnik bosanskoga jezika jasan je i nedvosmislen u pogledu načina pisanja nekih od često korištenih izraza arapskog porijekla: 
+Rječnik bosanskoga jezika jasan je i nedvosmislen u pogledu načina pisanja nekih od često korištenih izraza arapskog porijekla koji su postali dio našega jezika: 
 
 > **inšallah** – ako Bog da   
 > **mašallah** – šta Bog da  
