@@ -2,9 +2,20 @@
 
 Rječnik bosanskoga jezika jasan je i nedvosmislen u pogledu načina pisanja nekih od često korištenih izraza arapskog porijekla koji su postali dio našega jezika: 
 
-> **inšallah** – ako Bog da   
-> **mašallah** – šta Bog da  
-> **elhamdulillah** – hvala Bogu
+> 1) **inšallah**,  
+> 2) **inšalah** ili  
+> 3) **inšala**
+   
+> 1) **mašallah**,  
+> 2) **mašalah** ili  
+> 3) **mašala**
+ 
+> 1) **elhamdulillah**,  
+> 2) **elhamdulilah** ili  
+> 3) **elhamdulilahi**
+
+> 1) **džellešanuhu**,  
+> 2) **dželešanuhu**
 
 Navedeni oblici jedini su ispravan način pisanja kad se ove riječi koriste kao naše riječi i u sklopu rečenice na bosanskom jeziku.
 
@@ -12,7 +23,8 @@ Ukoliko se, pak, riječi *inšallah*, *mašallah*, *elhamdulillah* i sl. koriste
 
 > **in šāallāh** – إِنْ شَاءَ اللَّهُ  
 > **mā šāallāh** – مَا شَاءَ اللَّهُ  
-> **el-hamdu lillāh** – اَلْحَمْدُ لِلَّهِ
+> **el-hamdu lillāh** – اَلْحَمْدُ لِلَّهِ  
+> **dželle še’nuhū** – جَلَّ شَأْنُهُ
 
 Dakle, način pisanja determinisan je kontekstom i načinom upotrebe riječi, odnosno jezikom rečenice u sklopu koje je riječ upotrijebljena.
 
@@ -24,7 +36,7 @@ U svakodnevnoj komunikaciji možemo primijetiti veliko šarenilo kad se radi o p
 
 Da stvar bude gora, i u nekim knjigama koje nisu lektorisale stručne osoba (ili su bile prisiljene ove izraze ostaviti nekorigovane[^1]) možemo vidjeti ovako napisane riječi. Među opravdanjima za to bezočno masakriranje naših riječi arapskog porijekla najčešće se ističe to da se Božije ime *mora* pisati velikim slovom, čak i kada je dio složenice. Da je ovakav stav neutemeljen – čak i ako se koncentrišemo isključivo na pravopis arapskog jezika – lahko je pokazati kroz kratku analizu navedenih izraza.
 
-### Ime “Allah”
+## Ime “Allah”
 
 U arapskom jeziku, ime “Allah” sastoji se od četiri slova, harfa: elif, lam, lam i ha: الله. Elif, koji se nalazi na početku riječi, izgovara se kao vokal *a* samo kad se riječ čita zasebno, nepovezana sa riječi koja joj prethodi:
 
@@ -36,7 +48,7 @@ Ukoliko se ispred imena “Allah” nađe neka druga riječ, elif se ne čita. O
 > subhane + **A**llah > subhane + ~~**A**~~llah > subhane + llah > **subhanallah** – سُبْحَانَ اللَّهِ  
 > sejfun + **A**llah > sejfu~~n~~ + ~~**A**~~llah > **sejfullah** – سَيْفُ اللَّهِ
 
-### InšaAllah
+## InšaAllah
 
 Riječ “inšallah” sačinjena je od tri arapske riječi: “in”, “šae”, “Allah”:
 
@@ -52,7 +64,7 @@ Zašto je pogrešno pisati *inšaAllah* ili *inšAllah*? Ako i zanemarimo činje
 
 Početno slovo *a* u imenu “Allah” gubi se prilikom spajanja sa riječima koje mu prethode.
 
-### MašaAllah
+## MašaAllah
 
 Riječ “mašallah” sačinjena je od tri arapske riječi: “ma”, “šae”, “Allah”:
 
@@ -64,11 +76,11 @@ Neispravni oblik riječi *mašAllah* ili *mašaAllah* glasi:
 
 gdje je, kao i u riječi “inšaAllah”, zadnje slovo glagola *šae* pisano kao veliko *A*.
 
-### InshAllah, mashAllah
+## InshAllah, mashAllah, we selam ...
 
 Kako je god pisanje velikog slova usred riječi neutemeljeno u našem jeziku, isto je tako nedopustivo koristiti tuđi alfabet za pisanje naših riječi. U riječima *inshaAllah* i *mashaAllah* cilj je bio, vjerovatno, u nedostatku našeg slova *š* koristiti englesku kombinaciju *sh* kao zamjenu. To je pogrešno. Engleski alfabet koristi se isključivo za pisanje engleskih riječi i, obično, riječi koje su *transliterovane* iz nelatiničnih pisama, nikad za pisanje riječi koje pripadaju našem jeziku. Engleski se alfabet ne može koristiti za *transkripciju*[^3]. 
 
-Riječ “inshaAllah”, stoga, nije isto što “inšaAllah”, iako su obje neispravne, a u našem jeziku “sh” su dva slova, kao u riječi “**sh**vatiti”; u nedostatku slova *š* bolje je koristiti naše riječi i kazati “Ako Bog da”. 
+Riječ “inshaAllah”, stoga, nije isto što “inšaAllah”, iako su obje neispravne, a u našem jeziku “sh” su dva slova, kao u riječi “**sh**vatiti”; u nedostatku slova *š* bolje je koristiti naše riječi i kazati “Ako Bog da”.
 
 Pisanje selama predstavlja još jedan primjer bespotrebnog pozajmljivanja znakova iz engleskog alfabeta, pa možemo vidjeti napisano: 
 
@@ -79,6 +91,8 @@ iako je potreba za ovim izvještačenim načinom pisanja još manja nego kod rij
 
 > Es-selamu alejkum **ve** rahmetullahi **ve** berekatuh  
 > **Ve** alejkumusselam.
+
+Napomena: Neispravno je pisati “se**ll**am”, sa dva slova *l*, ili na selam odgovoriti skraćeno “**we** se**ll**am”. Ako se koristi skraćeni oblik pozdrava: “Selam!” umjesto potpunog: “Es-selamu alejkum!”, tad i odgovor glasi: “Selam!” ili “Ve alejkumusselam!”
 
 ## Bilješke
 
