@@ -1,8 +1,18 @@
 # Inšallah, mašallah i druge riječi arapskog porijekla
 
-Rječnik bosanskoga jezika jasan je i nedvosmislen u pogledu načina pisanja nekih od često korištenih izraza arapskog porijekla: *inšallah* (ako Bog da), *mašallah* (šta Bog da), *elhamdulillah* (hvala Bogu). Navedeni oblici jedini su ispravan način pisanja kad se ove riječi koriste kao naše riječi i u sklopu rečenice na bosanskom jeziku.
+Rječnik bosanskoga jezika jasan je i nedvosmislen u pogledu načina pisanja nekih od često korištenih izraza arapskog porijekla: 
 
-Ukoliko se, pak, riječi *inšallah*, *mašallah*, *elhamdulillah* i sl. koriste kao arapski izrazi i u sklopu rečenice pisane na arapskom jeziku (npr. prilikom transkripcije zikrova i dova), tada će se pisati kako je uobičajeno da se piše transkripcija arapskog teksta: *in šāallāh*, *mā šāallāh*, *el-hamdu lillāh*.
+> **inšallah** – ako Bog da   
+> **mašallah** – šta Bog da  
+> **elhamdulillah** – hvala Bogu 
+
+Navedeni oblici jedini su ispravan način pisanja kad se ove riječi koriste kao naše riječi i u sklopu rečenice na bosanskom jeziku.
+
+Ukoliko se, pak, riječi *inšallah*, *mašallah*, *elhamdulillah* i sl. koriste kao arapski izrazi i u sklopu rečenice pisane na arapskom jeziku (npr. prilikom transkripcije zikrova i dova), tada će se pisati kako je uobičajeno da se piše transkripcija arapskog teksta: 
+
+> **in šāallāh**  
+> **mā šāallāh**  
+> **el-hamdu lillāh**.
 
 Dakle, način pisanja determinisan je kontekstom i načinom upotrebe riječi, odnosno jezikom rečenice u sklopu koje je riječ upotrijebljena.
 
