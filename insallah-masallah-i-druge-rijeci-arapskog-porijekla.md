@@ -86,13 +86,13 @@ Riječ “inshaAllah”, stoga, nije isto što “inšaAllah”, iako su obje ne
 
 Pisanje selama predstavlja još jedan primjer bespotrebnog pozajmljivanja znakova iz engleskog alfabeta, pa možemo vidjeti napisano: 
 
-> Es-selamu alejkum **we** rahmetullahi **we** berekatuh  
-> **We** alejkumusselam
+> Es-selamu alejkum **we** rahmetullahi **we** berekatuhu!  
+> **We** alejkumusselam!
 
 iako je potreba za ovim izvještačenim načinom pisanja još manja nego kod riječi “inshaAllah” ili “mashaAllah”. Slova *w*, *q*, *x*, *y* nisu dio naše abecede i ne mogu se koristiti prilikom pisanja naših riječi, bilo da su one izvorno bosanske, ili su arapskog, turskog, engleskog, njemačkog ili nekog drugog porijekla. Selam treba pisati onako kako je zabilježeno u Rječniku bosanskoga jezika:
 
-> Es-selamu alejkum **ve** rahmetullahi **ve** berekatuh  
-> **Ve** alejkumusselam.
+> Es-selamu alejkum **ve** rahmetullahi **ve** berekatuhu!  
+> **Ve** alejkumusselam!
 
 Napomena: Neispravno je pisati “se**ll**am”, sa dva slova *l*, ili na selam odgovoriti skraćeno “**we** se**ll**am”. Ako se koristi skraćeni oblik pozdrava: “Selam!” umjesto potpunog: “Es-selamu alejkum!”, tad i odgovor glasi: “Selam!” ili “Ve alejkumusselam!”
 
