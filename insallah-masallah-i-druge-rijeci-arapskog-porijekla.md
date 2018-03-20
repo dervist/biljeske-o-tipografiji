@@ -34,7 +34,7 @@ U svakodnevnoj komunikaciji možemo primijetiti veliko šarenilo kad se radi o p
 
 > inšaAllah, insh-Allah, mašaAllah, mashAllah, elhamdu liLlah, we selam ...
 
-Da stvar bude gora, i u nekim knjigama koje nisu lektorisale stručne osoba (ili su bile prisiljene ove izraze ostaviti nekorigovane[^1]) možemo vidjeti ovako napisane riječi. Među opravdanjima za to bezočno masakriranje naših riječi arapskog porijekla najčešće se ističe to da se Božije ime *mora* pisati velikim slovom, čak i kada je dio složenice. Da je ovakav stav neutemeljen – čak i ako se koncentrišemo isključivo na pravopis arapskog jezika – lahko je pokazati kroz kratku analizu navedenih izraza.
+Da stvar bude gora, ovako nakaradno pisane riječi možemo vidjeti i u nekim knjigama[^1]. Među opravdanjima za to bezočno masakriranje naših riječi arapskog porijekla najčešće se ističe to da se Božije ime *mora* pisati velikim slovom, čak i kada je dio složenice. Da je ovakav stav neutemeljen – čak i ako se koncentrišemo isključivo na pravopis arapskog jezika – lahko je pokazati kroz kratku analizu navedenih izraza.
 
 ## Ime “Allah”
 
@@ -96,7 +96,7 @@ Napomena: Neispravno je pisati “se**ll**am”, sa dva slova *l*, ili na selam 
 
 ## Bilješke
 
-[^1]: Neki izdavači imaju “svoj način pisanja” određenih izraza, koji je često u direktnoj suprotnosti s oblicima ustanovljenim pravopisom našega jezika, i insistiraju na tome da ih lektor ne koriguje. Ima i onih koji nakon obavljene lekture i bez konsultacija s lektorom jednostavno odbace korekcije određenih izraza i rečenica i pišu onako kako oni smatraju da bi trebalo. Nije potrebno posebno isticati do kako komičnih i žalosnih situacija ovakve intervencije dovode.
+[^1]: Ovi propusti nisu uvijek krivica lektora. Neki izdavači imaju “svoj način pisanja” određenih izraza, koji je često u direktnoj suprotnosti s oblicima ustanovljenim pravopisom našega jezika, i insistiraju na tome da ih lektor ne koriguje. Ima i onih koji nakon obavljene lekture i bez konsultacija s lektorom jednostavno odbace korekcije određenih izraza i rečenica i pišu onako kako oni smatraju da bi trebalo. Nije potrebno posebno isticati do kako komičnih i žalosnih situacija ovakve intervencije dovode.
 
 [^2]: Izuzeci postoje, pa će se neka strana imena, poput McCormick, pisati sa velikim slovom usred riječi. Isto važi i za nazive ustanova.
 
