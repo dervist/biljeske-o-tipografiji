@@ -102,4 +102,4 @@ Napomena: Neispravno je pisati “se**ll**am”, sa dva slova *l*, ili na selam 
 
 [^2]: Izuzeci postoje, pa će se neka strana imena, poput McCormick, pisati sa velikim slovom usred riječi. Isto važi i za nazive ustanova.
 
-[^3]: O razlici između transkripcije i transliteracije vidjeti: [Transkripcija arapskih imena i termina](https://dervist.gitbooks.io/biljeske-o-tipografiji-i-dizajnu/content/transkripcija.html)
+[^3]: O razlici između transkripcije i transliteracije vidjeti: [Transkripcija arapskih imena i termina](https://dervist.gitbooks.io/biljeske-o-tipografiji-i-dizajnu/content/transkripcija.html).
