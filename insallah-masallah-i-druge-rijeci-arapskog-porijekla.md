@@ -98,7 +98,7 @@ Napomena: Neispravno je pisati “se**ll**am”, sa dva slova *l*, ili na selam 
 
 ## Bilješke
 
-[^1]: Ovi propusti nisu uvijek krivica lektora. Neki izdavači imaju “svoj način pisanja” određenih izraza, koji je često u direktnoj suprotnosti s oblicima ustanovljenim pravopisom našega jezika, i insistiraju na tome da ih lektor ne koriguje. Ima i onih koji nakon obavljene lekture i bez konsultacija s lektorom jednostavno odbace korekcije određenih izraza i rečenica i pišu onako kako oni smatraju da bi trebalo. Nije potrebno posebno isticati do kako komičnih i žalosnih situacija ovakve intervencije dovode.
+[^1]: Ovi propusti nisu uvijek krivica lektora. Ima izdavača koji insistiraju da se neki arapski, ali i naši izrazi, sintagme i riječi, pišu na određeni način koji im se čini “boljim” od rješenja ponuđenih u stručnoj literaturi. Rijedak je slučaj da rezultat toga bude pozitivan.
 
 [^2]: Izuzeci postoje, pa će se neka strana imena, poput McCormick, pisati sa velikim slovom usred riječi. Isto važi i za nazive ustanova.
 
