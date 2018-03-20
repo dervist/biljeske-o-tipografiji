@@ -17,7 +17,7 @@ Rječnik bosanskoga jezika jasan je i nedvosmislen u pogledu načina pisanja nek
 > 1) **džellešanuhu** ili  
 > 2) **dželešanuhu**
 
-Navedeni oblici jedini su ispravan način pisanja kad se ove riječi koriste kao naše riječi i u sklopu rečenice na bosanskom jeziku.
+Navedeni oblici koriste se kad se ove riječi tretiraju kao naše riječi i kad su pisane u sklopu rečenice na bosanskom jeziku.
 
 Ukoliko se, pak, riječi *inšallah*, *mašallah*, *elhamdulillah* i sl. koriste kao arapski izrazi i u sklopu rečenice pisane na arapskom jeziku (npr. prilikom transkripcije zikrova i dova), tada će se pisati kako je uobičajeno da se piše transkripcija arapskog teksta: 
 
