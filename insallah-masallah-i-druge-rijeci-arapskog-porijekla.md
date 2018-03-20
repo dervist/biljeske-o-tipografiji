@@ -60,7 +60,7 @@ S obzirom na to da ime “Allah” počinje elifom, a prije njega nalazi se glag
 
 > in + šāe + ~~**A**~~llāh = in + šā**a** + llāh > **in šāallāh**
 
-Zašto je pogrešno pisati *inšaAllah* ili *inšAllah*? Ako i zanemarimo činjenicu da veliko slovo ne može doći usred riječi[^2], riječ napisana na ovakav način nije ispunila očekivanje – tj. nije izvršen umišljeni imperativ da se Božije ime po svaku cijenu piše velikim slovom, jer u riječi *inšaAllah* veliko slovo *a* nije prvo slovo riječi “Allah”, već zadnje slovo glagola *šae*:
+Zašto je pogrešno pisati *inšaAllah* ili *inšAllah*? Ako i zanemarimo činjenicu da veliko slovo ne može doći usred riječi[^2], riječ napisana na ovakav način nije ispunila očekivanje – tj. nije izvršen umišljeni imperativ da se Božije ime po svaku cijenu piše velikim slovom, jer u riječi *inšaAllah* veliko slovo *A* nije prvo slovo riječi “Allah”, već zadnje slovo glagola *šae*:
 
 > inšaAllah = in + ša**e** + ~~**A**~~llah > in + ša**a** + llāh > in + ša**A** + llah
 
