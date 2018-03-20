@@ -14,7 +14,7 @@ Rječnik bosanskoga jezika jasan je i nedvosmislen u pogledu načina pisanja nek
 > 2) **elhamdulilah** ili  
 > 3) **elhamdulilahi**
 
-> 1) **džellešanuhu**,  
+> 1) **džellešanuhu** ili  
 > 2) **dželešanuhu**
 
 Navedeni oblici jedini su ispravan način pisanja kad se ove riječi koriste kao naše riječi i u sklopu rečenice na bosanskom jeziku.
