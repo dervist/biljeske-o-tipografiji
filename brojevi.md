@@ -24,7 +24,7 @@ Ostvarenje harmonije na stranici zavisit će i od toga jesu li korištene ne sam
 
 ![](IMG/brojevi-i-slova/kapitalna-slova.png)
 
-Ipak, treba naglasiti da veliki broj aplikacija ne koristi prava kapitalna slova, već generiše lažna putem smanjenja veliki slova. Ovakva slova veoma su uočljiva usljed istanjenih linija i odudaraju od teksta. Lažna kapitalna slova nipošto ne treba koristiti u tekstu.
+Ipak, treba naglasiti da veliki broj aplikacija ne koristi prava kapitalna slova, već generiše lažna putem smanjenja velikih slova. Ovakva slova veoma su uočljiva usljed istanjenih linija i odudaraju od teksta. Lažna kapitalna slova nipošto ne treba koristiti u tekstu.
 
 Svaki dizajner treba znati kad se koja vrsta slova i brojeva koristi, jer će njihovo nasumično i neselektivno korištenje u tekstu kreirati rogobatnost i kič.
 
