@@ -34,7 +34,7 @@ U svakodnevnoj komunikaciji možemo primijetiti veliko šarenilo kad se radi o p
 
 > inšaAllah, insh-Allah, mašaAllah, mashAllah, elhamdu liLlah, we selam ...
 
-Da stvar bude gora, ovako nakaradno pisane riječi možemo vidjeti i u nekim knjigama[^1]. Među opravdanjima za to bezočno masakriranje naših riječi arapskog porijekla najčešće se ističe to da se Božije ime *mora* pisati velikim slovom, čak i kada je dio složenice. Da je ovakav stav neutemeljen – čak i ako se koncentrišemo isključivo na pravopis arapskog jezika – lahko je pokazati kroz kratku analizu navedenih izraza.
+Ovako nakaradno pisane riječi možemo vidjeti i u nekim knjigama[^1]. Među opravdanjima za to bezočno masakriranje naših riječi arapskog porijekla najčešće se ističe to da se Božije ime *mora* pisati velikim slovom, čak i kada je dio složenice. Da je ovakav stav neutemeljen – čak i ako se koncentrišemo isključivo na pravopis arapskog jezika – lahko je pokazati kroz kratku analizu navedenih izraza.
 
 ## Ime “Allah”
 
@@ -60,11 +60,11 @@ S obzirom na to da ime “Allah” počinje elifom, a prije njega nalazi se glag
 
 > in + šāe + ~~**A**~~llāh = in + šā**a** + llāh > **in šāallāh**
 
-Zašto je pogrešno pisati *inšaAllah* ili *inšAllah*? Ako i zanemarimo činjenicu da veliko slovo ne može doći usred riječi[^2], ovako napisana riječ nije izvršila svrhu koja je prvobitno zamišljena, tj. da se Božije ime piše velikim slovom, jer u riječi *inšaAllah* veliko slovo *a* nije prvo slovo riječi “Allah”, već zadnje slovo glagola *šae*:
+Zašto je pogrešno pisati *inšaAllah* ili *inšAllah*? Ako i zanemarimo činjenicu da veliko slovo ne može doći usred riječi[^2], riječ napisana na ovakav način nije ispunila očekivanje – tj. nije izvršen umišljeni imperativ da se Božije ime po svaku cijenu piše velikim slovom, jer u riječi *inšaAllah* veliko slovo *a* nije prvo slovo riječi “Allah”, već zadnje slovo glagola *šae*:
 
 > inšaAllah = in + ša**e** + ~~**A**~~llah > in + ša**a** + llāh > in + ša**A** + llah
 
-Početno slovo *a* u imenu “Allah” gubi se prilikom spajanja sa riječima koje mu prethode.
+Prisjetimo se: početno slovo *A* u imenu “Allah” gubi se prilikom spajanja sa riječima koje mu prethode, a fetha koja se nalazi ispred njega čita se kao kratki vokal *a*. Kako je god pogrešno pisati veliko slovo usred riječi, isto je tako pogrešno pisati veliko slovo na kraju riječi, bilo da se radi o imenici ili – glagolu.
 
 ## MašaAllah
 
