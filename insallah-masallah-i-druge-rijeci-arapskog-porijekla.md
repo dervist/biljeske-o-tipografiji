@@ -46,7 +46,7 @@ Ukoliko se ispred imena “Allah” nađe neka druga riječ, elif se ne čita. O
 
 > bi + **i**smi + **A**llah > bi + ~~**i**~~smi + ~~**A**~~llah > bi + smi + llah > **bismillah** – بِسْمِ اللَّهِ  
 > subhane + **A**llah > subhane + ~~**A**~~llah > subhan**a** + llah > **subhanallah** – سُبْحَانَ اللَّهِ  
-> sejfun + **A**llah > sejfu~~n~~ + ~~**A**~~llah > **sejfullah** – سَيْفُ اللَّهِ
+> sejfun + **A**llah > sejfu~~n~~ + ~~**A**~~llah > sejfu + llah > **sejfullah** – سَيْفُ اللَّهِ
 
 Napomena: Fetha ispred riječi “Allah” uvijek se čita kao *a*, ne *e*.
 
