@@ -64,7 +64,7 @@ Zašto je pogrešno pisati *inšaAllah* ili *inšAllah*? Ako i zanemarimo činje
 
 > inšaAllah = in + ša**e** + ~~**A**~~llah > in + ša**a** + llāh > in + ša**A** + llah
 
-Prisjetimo se: početno slovo *A* u imenu “Allah” gubi se prilikom spajanja sa riječima koje mu prethode, a fetha koja se nalazi ispred njega čita se kao kratki vokal *a*. Kako je god pogrešno pisati veliko slovo usred riječi, isto je tako pogrešno pisati veliko slovo na kraju riječi, bilo da se radi o imenici ili – glagolu.
+Prisjetimo se: početno slovo *A* u imenu “Allah” gubi se prilikom spajanja sa riječima koje mu prethode, a fetha koja se nalazi ispred njega čita se kao kratki vokal *a*. Baš kao što je pogrešno pisati veliko slovo usred riječi, isto je tako pogrešno pisati ga na kraju riječi, bilo da se radi o imenici ili – glagolu.
 
 ## MašaAllah
 
@@ -74,7 +74,7 @@ Riječ “mašallah” sačinjena je od tri arapske riječi: “ma”, “šae�
 
 Neispravni oblik riječi *mašAllah* ili *mašaAllah* glasi:
 
-> mā + šā**e** + ~~A~~llah > mā + ša**a** + llāh > mā + ša**A** + llāh
+> mā + šā**e** + ~~**A**~~llah > mā + ša**a** + llāh > mā + ša**A** + llāh
 
 gdje je, kao i u riječi “inšaAllah”, zadnje slovo glagola *šae* pisano kao veliko *A*.
 
