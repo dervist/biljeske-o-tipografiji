@@ -1,8 +1,10 @@
-# Brojevi – vrste i kombinovanje
+# Vrste brojeva i slova i njihovo slaganje
 
-Najvažniji zadatak knjižnog dizajnera jest kreiranje harmonije na stranicama knjige, što uvelike zavisi od toga je li ostvaren sklad između slova i brojeva ili ne.
+Jedan od ključnih zadataka knjižnog dizajnera jest kreiranje kontekstualne i vizuelne harmonije na stranicama knjige, što uvelike zavisi od toga je li ostvaren sklad između slova i brojeva ili ne. Greške u razumijevanju vrsta, oblika i svrhe brojeva i njihovom pogrešnom ili nasumičnom korištenju u tekstu dovodi, bez izuzetka, do narušavanja kvaliteta dizajna stranice. Slaganje brojeva i slova jedno je od temeljnih tipografskih pravila.
 
-Pravilo je u tom pogledu konkretno i jednostavno: ako je tekst pisan velikim slovima (npr. naslovi), tada će se koristiti i »veliki« brojevi (engl. titling figures). U svim drugim situacijama koristit će se »mali« brojevi (engl. text figures):
+## Arapski brojevi
+
+Pravilo o slaganju brojeva i slova konkretno je i jasno: ako je tekst pisan velikim slovima (npr. naslovi), tada će se koristiti i »veliki« brojevi (engl. titling figures). U svim drugim situacijama koristit će se »mali« brojevi (engl. text figures):
 
 ![](IMG/brojevi-i-slova/veliki-i-mali-brojevi.png)
 
@@ -20,7 +22,15 @@ Korištenje odgovarajućih brojeva u datom kontekstu neophodno je da bi se ostva
 
 ![](IMG/brojevi-i-slova/kombinacije-brojeva-i-slova.png)
 
-Ostvarenje harmonije na stranici zavisit će i od toga jesu li korištene ne samo odgovarajuće vrste brojeva, već i slova: pisanjem jedne ili više riječi velikim slovima u tekstu napisanom malim slovima narušit će se harmoničnost teksta. Da bi se to izbjeglo, dizajnirana je posebna vrsta velikih slova, »kapitalna« slova (engl. small caps), koja neće kreirati haos, već će se uklopiti u okolni tekst:
+## Rimski brojevi
+
+Kako se za pisanje rimskih brojeva koriste latinična slova, način pisanja brojeva zavisit će od konteksta: ako je tekst pisan malim slovima, tada treba i brojeve pisati na isti način; ako je tekst pisan velikim slovima, i brojeve treba pisati velikim slovima:
+
+![](IMG/brojevi-i-slova/rimski-brojevi.png)
+
+## Velika i kapitalna slova
+
+Ostvarenje harmonije na stranici ne zavisi samo od korištenja odgovarajuće vrste brojeva, već i slova: pisanjem jedne ili više riječi velikim slovima u tekstu napisanom malim slovima narušit će se harmoničnost teksta. Da bi se to izbjeglo, dizajnirana je posebna vrsta velikih slova, »kapitalna« slova (engl. small caps), koja neće kreirati haos, već će se uklopiti u okolni tekst:
 
 ![](IMG/brojevi-i-slova/kapitalna-slova.png)
 

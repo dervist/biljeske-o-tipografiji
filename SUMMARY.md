@@ -3,7 +3,7 @@
 ## Tipografija i dizajn
 
 * [Uvodna riječ](README.md)
-* [Brojevi – vrste i kombinacije](brojevi.md)
+* [Brojevi i slova – vrste i slaganje](brojevi.md)
 * [Fusnote – način obilježavanja i pisanja](fusnote.md)
 * [Razmak između riječi u tekstu](razmaci-izmedu-rijeci-u-tekstu.md)
 
