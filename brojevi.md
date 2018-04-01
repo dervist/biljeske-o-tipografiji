@@ -24,7 +24,7 @@ Korištenje odgovarajućih brojeva u datom kontekstu neophodno je da bi se ostva
 
 ## Rimski brojevi
 
-Kako se za pisanje rimskih brojeva koriste latinična slova, način pisanja brojeva zavisit će od konteksta: ako je tekst pisan malim slovima, tada treba i brojeve pisati na isti način; ako je tekst pisan velikim slovima, i brojeve treba pisati velikim slovima:
+S obzirom na to da se za pisanje rimskih brojeva koriste latinična slova, način pisanja brojeva zavisit će od konteksta: ako je tekst pisan malim slovima, tada treba i brojeve pisati na isti način; ako je tekst pisan velikim slovima, i brojeve treba pisati velikim slovima:
 
 ![](IMG/brojevi-i-slova/rimski-brojevi.png)
 
