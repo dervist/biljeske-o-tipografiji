@@ -72,4 +72,4 @@ Hoće li se izvori pisati u samom tekstu, u zagradi nakon citata, ili u fusnotam
 
 ## Bilješka
 
-[^1]: Ovdje ćemo se ograničiti na one elemente koji su važni za korištenje u samom tekstu. Jasno, u sklopu bibliografske jedinice važnim će se smatrati i drugi elementi, poput izdavača, godine izdanja itd.
+[^1]: Ovo su samo oni elemente koji su važni za korištenje u tekstu. Jasno, u sklopu bibliografske jedinice važnim će se smatrati i drugi elementi, poput izdavača, godine izdanja itd.
