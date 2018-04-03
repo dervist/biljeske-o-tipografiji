@@ -23,7 +23,7 @@ U ovim primjerima gotovo je nemoguće razlučiti šta koji broj predstavlja bez 
 
 ## Kur’an
 
-Prilikom citiranja ajeta, izvor možemo pisati dvojako: *Kur’an sura:ajet* ili samo *sura, ajet*. Svaki od sljedećih načina prihvatljiv je:
+Prilikom citiranja ajeta, izvor možemo pisati dvojako: *Kur’an sura:ajet* ili samo *sura, ajet*. Svaki od sljedećih načina pisanja prihvatljiv je:
 
 > Kur’an, 2:3–4 ili El-Bekara, 3–4  
 > Kur’an 2,3–4 ili El-Bekara 3–4  
