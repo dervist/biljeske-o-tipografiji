@@ -2,12 +2,12 @@
 
 Ne zalazeći u detalje o tome kako će se u naučnim radovima pisati citati i izvori iz kojih su preuzeti (za to pogledati, naprimjer, Šamićev rad *Kako nastaje naučno djelo*), osvrnut ću se, u kratkim crtama, samo na pitanje kako pisati izvore kad se citiraju ajeti i hadisi u popularnoj literaturi, gdje su reference neophodne ili poželjne, ali se ne zahtijeva dosljedno pridržavanje nekog od stilova citata i naučna rigoroznost u tom pogledu. Naročito je važno obratiti pažnju prilikom citiranja hadisa, jer se često susrećemo sa tako prikazanim izvorima da nismo u stanju razlučiti šta koji podatak ustvari predstavlja.
 
-Bitni sastavni dijelovi svakog izvora[^1]:
+Bitni sastavni dijelovi svakog izvora koji se u tekstu ili fusnoti moraju precizirati[^1]:
 
 1.  ime autora
 2.  naziv djela
 3.  broj toma, ako postoji
-4.  broj stranice ili druge odrednice.
+4.  broj stranice ili druge precizne odrednice.
 
 Ključ koji se koristi za pisanje izvora bio bi: *Autor, Djelo, tom, strana*.
 
