@@ -15,6 +15,9 @@
 * [Transkripcija arapskih imena i termina](transkripcija.md)
 * [Imena i termini koji završavaju na a](pisanje-arapskih-imena-i-termina-sa-krajnjim-a.md)
 * [Inšallah, mašallah i druge riječi arapskog porijekla](insallah-masallah-i-druge-rijeci-arapskog-porijekla.md)
-* [Način pisanja citata i referenci u tekstu – ajeti i hadisi](nacin-pisanja-citata-i-referenci-ajeti-hadisi-reci.md)
+* [Način pisanja citata i referenci u tekstu – ajeti i hadisi](pisanje-citata-i-referenci-ajeti-hadisi.md)
+
+## Razno
+
 * [Prevođenje i priprema djela za objavljivanje](prevodenje-i-priprema-za-objavljivanje.md)
 
