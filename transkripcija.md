@@ -28,7 +28,7 @@ Transkripcija: muallim, teala, nisa, kinvan, viab, seele, tabiin, hijar, asakil
 
 Transliteracija: mu‘allim, ta‘ālā, nisā’, qinwān, wi‘āb, sa’ala, tābi‘īn, khiyār, ‘athāqīl
 
-Za razliku od transkripcije, koja je determinisana ortografijom jezika u koji se glasovi prenose (pravilo: piši kako govoriš), za transliteraciju treba koristiti neki od utvrđenih standarda za pisanje izraza koji potječu iz jezika čija je ortografija nelatinična ([prilog 1](https://drive.google.com/open?id=0B0PIwWDfm0ITaVhubGtpR0ZNaUU)). Prilikom transliteracije bit će neophodno koristiti čitav niz specijalnih znakova, sa tačkama ili crticama iznad i ispod slova, te posebne znakove za elif i ajn.
+Za razliku od transkripcije, koja je determinisana ortografijom jezika u koji se glasovi prenose (pravilo: piši kako govoriš), za transliteraciju treba koristiti neki od utvrđenih standarda za pisanje izraza koji potječu iz jezika koji koriste nelatinično pismo ([prilog 1](https://drive.google.com/open?id=0B0PIwWDfm0ITaVhubGtpR0ZNaUU)). Prilikom transliteracije bit će neophodno koristiti čitav niz specijalnih znakova, sa tačkama ili crticama iznad i ispod slova, te posebne znakove za elif i ajn.
 
 ## Transkripcija {#transkripcija}
 
