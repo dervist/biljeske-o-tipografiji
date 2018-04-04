@@ -31,7 +31,7 @@ Prilikom citiranja ajeta, izvor možemo pisati dvojako: *Kur’an sura:ajet* ili
 
 ## Hadis
 
-Hadisi u hadiskim zbirkama redovno su numerisani, pa će se prilikom navođenja izvora postupiti isto kao i prilikom citiranja ajeta: koristit će se broj hadisa, dok se neće pisati broj stranice. Podsjetimo se, broj stranice koristi se samo u onim slučajevima kad ne postoji preciznija odrednica koju možemo koristiti; ali ako postoji broj ajeta, retka, hadisa, člana i sl., koristit će se ti brojevi.
+Hadisi u hadiskim zbirkama redovno su numerisani, pa će se prilikom navođenja izvora postupiti na isti način kao i prilikom citiranja ajeta: koristit će se broj hadisa, dok se neće pisati broj stranice. Podsjetimo se, broj stranice koristi se samo u onim slučajevima kad ne postoji preciznija odrednica koju možemo koristiti; ali ako postoji broj ajeta, retka, hadisa, člana i sl., koristit će se ti brojevi.
 
 Primjer: ako citiramo hadis 5678, koji se nalazi na 234. stranici pete knjige Ahmedovog *Musneda*, izvor ćemo pisati na jedan od sljedećih načina:
 
