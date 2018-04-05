@@ -1,10 +1,10 @@
 h1 {
-font-size: 1.3em;
+font-weight: normal;
+font-size: 1em;
 line-height: 120%;
 border-bottom: 0px solid #ddd;
 text-transform: uppercase;
 letter-spacing: 2px;
-font-weight: normal;
 color: #2dbe60;
 }
 
