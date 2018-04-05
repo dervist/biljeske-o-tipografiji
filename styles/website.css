@@ -1,3 +1,8 @@
+h1, h2, h3, h4, h5, h6 {
+font-weight: bold;
+color: #2dbe60;
+}
+
 h1 {
 font-weight: normal;
 font-size: 1em;
@@ -5,7 +10,6 @@ line-height: 120%;
 border-bottom: 0px solid #ddd;
 text-transform: uppercase;
 letter-spacing: 2px;
-color: #2dbe60;
 }
 
 h2 {
@@ -13,7 +17,6 @@ line-height: 120%;
 border-bottom: 0px solid #eee;
 font-weight: normal;
 font-size: 100%;
-color: #2dbe60;
 }
 
 h3 {
@@ -21,7 +24,6 @@ font-size: 1.1em;
 line-height: 120%;
 border-bottom: 0px solid #eee;
 font-weight: normal;
-color: #2dbe60;
 }
 
 h4 {
@@ -29,7 +31,6 @@ font-size: 1.1em;
 line-height: 120%;
 font-style: italic;
 font-weight: normal;
-color: #2dbe60;
 }
 
 h5 {
@@ -37,7 +38,6 @@ font-size: 1.1em;
 line-height: 120%;
 color: #3B3131;
 font-style: italic;
-color: #2dbe60;
 }
 
 h6 {
@@ -45,5 +45,4 @@ font-size: 1.1em;
 line-height: 120%;
 color: #3B3131;
 font-style: italic;
-color: #2dbe60;
 }
