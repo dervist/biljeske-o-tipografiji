@@ -34,7 +34,7 @@ U svakodnevnoj komunikaciji možemo primijetiti veliko šarenilo kad se radi o p
 
 > inšaAllah, insh-Allah, mašaAllah, mashAllah, elhamdu liLlah, we selam ...
 
-Ovako nakaradno pisane riječi možemo vidjeti i u nekim knjigama[^1]. Među opravdanjima za to bezočno masakriranje naših riječi arapskog porijekla najčešće se ističe to da se Božije ime *mora* pisati velikim slovom, čak i kada je dio složenice. Da je ovakav stav neutemeljen – čak i ako se koncentrišemo isključivo na pravopis arapskog jezika – lahko je pokazati kroz kratku analizu navedenih izraza.
+Ovako nakaradno pisane riječi možemo vidjeti i u nekim knjigama[^1]. Među opravdanjima za to bezočno masakriranje naših riječi arapskog porijekla najčešće se ističe to da se Božije ime *mora* pisati velikim slovom, čak i kada je dio složenice. Ako i zanemarimo činjenicu da je ovakav zahtjev besmislen i da ga pravopis našeg jezika ne podržava, pisanje riječi na ovakav način nema podlogu ni u arapskom pravopisu, što ćemo pokazati kroz kratku analizu.
 
 ## Ime “Allah”
 
@@ -95,6 +95,10 @@ iako je potreba za ovim izvještačenim načinom pisanja još manja nego kod rij
 > – **Ve** alejkumusselam!
 
 Napomena: Neispravno je pisati “se**ll**am”, sa dva slova *l*, ili na selam odgovoriti skraćeno “**we** se**ll**am”. Ako se koristi skraćeni oblik pozdrava: “Selam!” umjesto potpunog: “Es-selamu alejkum!”, tad i odgovor glasi: “Selam!” ili “Ve alejkumusselam!”
+
+—
+
+Greške u pisanju naših riječi arapskog porijekla predstavljaju pravopisne greške, identične su greškama u pisanju riječi koje su izvorne bosanske i ukazuju na nepoznavanje vlastitog jezika – nekada će te greške biti okarakterisane i kao znak nepismenosti, što predstavlja ozbiljan problem kad su prisutne kod vjeroučitelja, prosvjetnih radnika i autora/prevodilaca.
 
 ## Bilješke
 
