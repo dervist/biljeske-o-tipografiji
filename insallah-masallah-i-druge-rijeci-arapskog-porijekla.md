@@ -44,15 +44,15 @@ U arapskom jeziku, ime “Allah” sastoji se od četiri slova, harfa: elif, lam
 
 Ukoliko se ispred imena “Allah” nađe neka druga riječ, elif se ne čita. Ovo važi i za sve druge riječi koje počinju ovim harfom.
 
-> bi + **i**smi + **A**llah > bi + ~~**i**~~smi + ~~**A**~~llah > bi + smi + llah > **bismillah** – بِسْمِ اللَّهِ  
-> subhane + **A**llah > subhane + ~~**A**~~llah > subhan**a** + llah > **subhanallah** – سُبْحَانَ اللَّهِ  
-> sejfun + **A**llah > sejfu~~n~~ + ~~**A**~~llah > sejfu + llah > **sejfullah** – سَيْفُ اللَّهِ
+> bi + **i**smi + **A**llāh > bi + ~~**i**~~smi + ~~**A**~~llāh > bi + smi + llāh > **bismillah** – بِسْمِ اللَّهِ  
+> subhāne + **A**llāh > subhāne + ~~**A**~~llāh > subhān**a** + llāh > **subhānallāh** – سُبْحَانَ اللَّهِ  
+> sejfun + **A**llāh > sejfu~~n~~ + ~~**A**~~llāh > sejfu + llāh > **sejfullāh** – سَيْفُ اللَّهِ
 
 Napomena: Fetha ispred riječi “Allah” uvijek se čita kao *a*, ne *e*.
 
 ## InšaAllah
 
-Riječ “inšallah” sačinjena je od tri arapske riječi: “in”, “šae”, “Allah”:
+Riječ “inšallah” sačinjena je, izvorno, od tri arapske riječi: “in”, “šae”, “Allah”:
 
 > in + šāe + Allāh – إِنْ شَاءَ اللَّهُ
 
@@ -62,19 +62,19 @@ S obzirom na to da ime “Allah” počinje elifom, a prije njega nalazi se glag
 
 Zašto je pogrešno pisati *inšaAllah* ili *inšAllah*? Ako i zanemarimo činjenicu da veliko slovo ne može doći usred riječi[^2], riječ napisana na ovakav način nije ispunila očekivanje – tj. nije izvršen umišljeni imperativ da se Božije ime po svaku cijenu piše velikim slovom, jer u riječi *inšaAllah* veliko slovo *A* nije prvo slovo riječi “Allah”, već zadnje slovo glagola *šae*:
 
-> inšaAllah = in + ša**e** + ~~**A**~~llah > in + ša**a** + llāh > in + ša**A** + llah
+> inšaAllah = in + šā**e** + ~~**A**~~llāh > in + šā**a** + llāh > in + šā**A** + llāh
 
 Prisjetimo se: početno slovo *A* u imenu “Allah” gubi se prilikom spajanja sa riječima koje mu prethode, a fetha koja se nalazi ispred njega čita se kao kratki vokal *a*. Baš kao što je pogrešno pisati veliko slovo usred riječi, isto je tako pogrešno pisati ga na kraju riječi, bilo da se radi o imenici ili – glagolu.
 
 ## MašaAllah
 
-Riječ “mašallah” sačinjena je od tri arapske riječi: “ma”, “šae”, “Allah”:
+Riječ “mašallah” sačinjena je, izvorno, od tri arapske riječi: “ma”, “šae”, “Allah”:
 
 > mā + šāe + Allāh – مَا شَاءَ اللَّهُ
 
 Neispravni oblik riječi *mašAllah* ili *mašaAllah* glasi:
 
-> mā + šā**e** + ~~**A**~~llah > mā + ša**a** + llāh > mā + ša**A** + llāh
+> mā + šā**e** + ~~**A**~~llāh > mā + ša**a** + llāh > mā + ša**A** + llāh
 
 gdje je, kao i u riječi “inšaAllah”, zadnje slovo glagola *šae* pisano kao veliko *A*.
 
