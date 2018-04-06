@@ -96,7 +96,7 @@ iako je potreba za ovim izvještačenim načinom pisanja još manja nego kod rij
 
 Napomena: Neispravno je pisati “se**ll**am”, sa dva slova *l*, ili na selam odgovoriti skraćeno “**we** se**ll**am”. Ako se koristi skraćeni oblik pozdrava: “Selam!” umjesto potpunog: “Es-selamu alejkum!”, tad i odgovor glasi: “Selam!” ili “Ve alejkumusselam!”
 
-—
+\* \* \*
 
 Greške u pisanju naših riječi arapskog porijekla predstavljaju pravopisne greške, identične su greškama u pisanju riječi koje su izvorne bosanske i ukazuju na nepoznavanje vlastitog jezika – nekada će te greške biti okarakterisane i kao znak nepismenosti, što predstavlja ozbiljan problem kad su prisutne kod vjeroučitelja, prosvjetnih radnika i autora/prevodilaca.
 
