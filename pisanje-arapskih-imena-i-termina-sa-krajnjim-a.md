@@ -30,7 +30,7 @@ Ako se na harfu ispred krajnjeg ajna nađe vokal *i*, tada će biti potrebno dod
 > نَافِعُ: Nafiu > Nafi’ > Nafi: Nafija, Nafiju, Nafijem;  
 > رَبِيعُ: Rebiu > Rebi’ > Rebi: Rebija, Rebiju, Rebijem.
 
-**5**. Ako riječ označava žensku osobu, tada u svim slučajevima imamo promjenu po padežima koja odgovara promjeni domaćih ženskih imena, bez obzira da li se riječ završavala:
+**5**. Ako riječ označava žensku osobu, tada u svim slučajevima imamo promjenu po padežima koja odgovara promjeni domaćih ženskih imena, bez obzira na to da li se riječ završavala:
 
 (a) dugim *a* (s nevokaliziranim elifom ili ja na kraju), npr.
 
