@@ -44,7 +44,7 @@ U arapskom jeziku, ime “Allah” sastoji se od četiri slova, harfa: elif, lam
 
 Ukoliko se ispred imena “Allah” nađe neka druga riječ, elif se ne čita. Ovo važi i za sve druge riječi koje počinju ovim harfom.
 
-> bi + **i**smi + **A**llāh > bi + ~~**i**~~smi + ~~**A**~~llāh > bi + smi + llāh > **bismillah** – بِسْمِ اللَّهِ  
+> bi + **i**smi + **A**llāh > bi + ~~**i**~~smi + ~~**A**~~llāh > bi + smi + llāh > **bismillāh** – بِسْمِ اللَّهِ  
 > subhāne + **A**llāh > subhāne + ~~**A**~~llāh > subhān**a** + llāh > **subhānallāh** – سُبْحَانَ اللَّهِ  
 > sejfun + **A**llāh > sejfu~~n~~ + ~~**A**~~llāh > sejfu + llāh > **sejfullāh** – سَيْفُ اللَّهِ
 
