@@ -51,7 +51,7 @@ blockquote[id^=fn] {
     border-left: 0;
     padding: 0;
     color: inherit;
-    font-size=80%;
+    font-size: 80%;
 }
 
 blockquote[id^=fn] sup {
