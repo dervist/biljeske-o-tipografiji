@@ -102,7 +102,7 @@ Greške u pisanju naših riječi arapskog porijekla predstavljaju pravopisne gre
 
 ## Bilješke
 
-[^1]: Ovi propusti nisu uvijek krivica lektora. Ima izdavača koji insistiraju da se neki arapski, ali i naši izrazi, sintagme i riječi, pišu na određeni način koji im se čini *boljim* od rješenja ponuđenih u stručnoj literaturi. Rijedak je slučaj da rezultat toga bude pozitivan.
+[^1]: Ovi propusti nisu uvijek krivica lektora. Ima izdavača koji insistiraju na tome da se neki arapski, ali i naši izrazi, sintagme i riječi, pišu na određeni način koji im se čini *boljim* od rješenja ponuđenih u stručnoj literaturi. Rijedak je slučaj da rezultat toga bude pozitivan.
 
 [^2]: Izuzeci postoje, pa će se neka strana imena, poput McCormick, pisati sa velikim slovom usred riječi. Isto važi i za nazive ustanova.
 
