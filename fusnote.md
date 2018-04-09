@@ -67,7 +67,7 @@ Fusnote nikad ne smiju biti pisane slovima iste veličine kao što su slova u gl
 
 ![](IMG/fusnote/o-fusnotama-kombinacija-pisama.png)
 
----
+## Bilješke
 
 [^1]:  U nekim pismima visina velikih slova manja je od visine malih slova b, d, f, k, l, pa zbog toga neće biti pogodna kao orijentir za pozicioniranje brojeva fusnota. Tada može biti prikladnije uskladiti položaj broja fusnote sa položajem navodnika. Na slici su prikazana četiri slučaja, od kojih prva dva prikazuju dobro, a druga dva loše pozicionirane brojeve fusnota: \(1\) brojevi fusnota poravnati sa vrhom velikih slova, \(2\) brojevi fusnota poravnati sa vrhom navodnika, \(3\) brojevi fusnota pozicionirani previsoko u odnosu na tekst, i \(4\) brojevi fusnota pozicionirani prenisko u odnosu na tekst.
 
