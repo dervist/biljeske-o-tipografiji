@@ -46,3 +46,21 @@ line-height: 120%;
 color: #3B3131;
 font-style: italic;
 }
+
+.footnote {
+        float: footnote;
+        background-color: #ffc0c0; /* a reddish background */
+        footnote-style-position: inside; /* forces marker inside footnote area */
+      }
+      .footnote::footnote-call {
+        /* controls the footnote markers in the main page text */
+        content: counter(footnote);
+        vertical-align: baseline;
+        font-size: 70%;
+        line-height: inherit;
+        font-variant-position: super;
+      }
+      .footnote::footnote-marker {
+        /* controls the footnote markers in the footnote section */
+        content: counter(footnote);
+      }
