@@ -41,11 +41,11 @@ Najčešće se koristi jedna od tri metode pisanja broja[^3] ispred teksta fusno
 
 ![](IMG/fusnote/o-fusnotama-02.png)
 
-Broj fusnote može se pisati i u samoj lijevoj margini, usljed čega će lijeva strana teksta u fusnoti biti poravnata sa lijevom stranom glavnog teksta. Ovaj je metod praktičan za korištenje u svim prilikama, i kad dominiraju duže fusnote, ali isto tako i kada je većina fusnota kratka, jer ne narušava ni kompaktnost niti boju stranice. Pored toga, brojevi unutar lijeve margine, izdvojeni iz samog tekstnog bloka, u znatnoj mjeri olakšavaju pronalazak odgovarajuće fusnote.
+Broj fusnote može se pisati i u samoj lijevoj margini, usljed čega će lijeva strana teksta u fusnoti biti poravnata sa lijevom stranom glavnog teksta. Ovaj je metod praktičan za korištenje u svim prilikama, i kad dominiraju duže fusnote, ali isto tako i kada je većina fusnota kratka, jer ne narušava ni kompaktnost niti boju stranice. Pored toga, brojevi unutar lijeve margine, izdvojeni iz samog tekstnog bloka, u znatnoj mjeri olakšavaju pronalazak tražene fusnote.
 
 ![](IMG/fusnote/o-fusnotama-03.png)
 
-**3. Poravnati broj fusnote**. Prilikom primjene ovog metoda, lijeva strana teksta fusnote poravnata je s lijevom stranom glavnog teksta. Broj fusnote odvojen je od njenog teksta jednim ili dva razmaka, odnosno tačkom i razmakom. Ovaj metod osigurava vizuelni sklad na stranici, ali kako se broj fusnote ni na koji način ne izdvaja od teksta fusnote, to će otežati pronalazak odgovarajuće fusnote.
+**3. Poravnati broj fusnote**. Prilikom primjene ovog metoda, lijeva strana teksta fusnote poravnata je s lijevom stranom glavnog teksta. Broj fusnote odvojen je od njenog teksta jednim ili dva razmaka, odnosno tačkom i razmakom. Ovaj metod osigurava vizuelni sklad na stranici, ali kako se broj fusnote ni na koji način ne izdvaja od teksta fusnote, to će otežati pronalazak tražene fusnote.
 
 ![](IMG/fusnote/o-fusnotama-04.png)
 
