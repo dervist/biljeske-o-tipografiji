@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Uvodna riječ](README.md)
 
 ## Tipografija i dizajn
 
