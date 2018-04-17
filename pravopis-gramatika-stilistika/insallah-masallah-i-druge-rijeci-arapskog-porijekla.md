@@ -106,5 +106,5 @@ Greške u pisanju naših riječi arapskog porijekla predstavljaju pravopisne gre
 
 **2**. Izuzeci postoje, pa će se neka strana imena, poput McCormack, pisati sa velikim slovom usred riječi. Isto važi i za nazive ustanova.
 
-**3**. O razlici između transkripcije i transliteracije vidjeti: [Transkripcija arapskih imena i termina](https://dervist.gitbook.io/biljeske/~/edit/drafts/-LAHLCNkUzOg5iTzHqPB/pravopis-gramatika-stilistika/insallah-masallah-i-druge-rijeci-arapskog-porijekla).
+**3**. O razlici između transkripcije i transliteracije vidjeti: [Transkripcija arapskih imena i termina](transkripcija-arapskih-imena-i-termina.md).
 
