@@ -1,6 +1,6 @@
 # Brojevi i slova – vrste i slaganje
 
-Jedan od ključnih zadataka knjižnog dizajnera jest kreiranje kontekstualne i vizuelne harmonije na stranicama knjige, što uvelike zavisi od toga je li ostvaren sklad između slova i brojeva ili ne. Greške u razumijevanju vrsta, oblika i svrhe brojeva i njihovom pogrešnom ili nasumičnom korištenju u tekstu dovodi, bez izuzetka, do narušavanja kvaliteta dizajna stranice. Slaganje brojeva i slova jedno je od temeljnih tipografskih pravila.
+Jedan od zadataka knjižnog dizajnera jest kreiranje kontekstualne i vizuelne harmonije na stranicama knjige. U kolikoj će mjeri u tome biti uspješan uvelike zavisi od toga je li dizajner skladno kombinovao slova i brojeve ili ne. Ukoliko ne uočava razliku između vrsta i oblika brojeva i slova, ne razumije svrhu i značaj njihovog valjanog kombinovanja i stoga ih nasumično ili sasvim pogrešno koristi u tekstu, dizajner neće biti u stanju kako treba obaviti zadatak koji mu je povjeren. Slaganje brojeva i slova jedno je od temeljnih tipografskih pravila.
 
 ## Arapski brojevi
 
@@ -10,13 +10,13 @@ Pravilo o slaganju brojeva i slova konkretno je i jasno: ako je tekst pisan veli
 
 Karakteristika je velikih slova, kao i velikih brojeva, da su jednake veličine i bez varijacija u položaju. Uočljiva su na stranici, što ih čini pogodnim za naslove, ali ne i za obični tekst: velika slova otežavaju raspoznavanje oblika riječi, neugodna su za duže čitanje i zamaraju oko.
 
-Kod malih slova, s druge strane, postoje varijacije i u veličini i u položaju. Mala su slova dizajnirana na taj način da bi se oblik riječi što lakše prepoznao i olakšalo čitanje. Neka su mala slova manja \(npr. i\), neka veća \(npr. d\), neka se protežu iznad linije \(npr. b\), a neka ispod \(npr. g\).
+Kod malih slova, s druge strane, postoje varijacije i u veličini i u položaju – mala su slova ciljano dizajnirana na takav način da bi se oblik riječi što lakše prepoznao i olakšalo čitanje. Neka su mala slova manja \(npr. i\), neka veća \(npr. d\), neka se protežu iznad linije \(npr. b\), a neka ispod \(npr. g\).
 
-Kako veliki brojevi odudaraju od teksta pisanog malim slovima, dizajnirani su mali brojevi, koji se, s obzirom da su sličnih karakteristika kao i mala slova, savršeno uklapaju u tekst.
+Brojevi se ponašaju identično slovima: kako veliki brojevi odudaraju od teksta pisanog malim slovima, bilo je neophodno dizajnirati male brojeve, koji se, s obzirom na to da su sličnih karakteristika kao i mala slova, savršeno uklapaju u tekst.
 
 ![](../.gitbook/assets/podudarnost-brojeva-i-slova.png)
 
-Korištenje odgovarajućih brojeva u datom kontekstu neophodno je da bi se ostvarila harmonija na stranici. Neprepoznavanje veze između slova i brojeva rezultirat će nastankom haosa:
+Nema alternative za korištenje odgovarajućih brojeva u datom kontekstu i ono je neophodno da bi se ostvarila harmonija na stranici. Neprepoznavanje veze između slova i brojeva rezultirat će nastankom haosa:
 
 ![](../.gitbook/assets/kombinacije-brojeva-i-slova.png)
 
@@ -28,13 +28,13 @@ S obzirom na to da se za pisanje rimskih brojeva koriste latinična slova, nači
 
 ## Velika i kapitalna slova
 
-Ostvarenje harmonije na stranici ne zavisi samo od korištenja odgovarajuće vrste brojeva, već i slova: pisanjem jedne ili više riječi velikim slovima u tekstu napisanom malim slovima narušit će se harmoničnost teksta. Da bi se to izbjeglo, dizajnirana je posebna vrsta velikih slova, »kapitalna« slova \(engl. small caps\), koja neće kreirati haos, već će se uklopiti u okolni tekst:
+Ostvarenje harmonije na stranici ne zavisi samo od korištenja odgovarajuće vrste brojeva, već i slova: pisanjem jedne ili više riječi velikim slovima u tekstu napisanom malim slovima narušit će se harmoničnost teksta. Da bi se to izbjeglo, dizajnirana je posebna vrsta velikih slova namijenjena za korištenje u tekstu, »kapitalna« slova \(engl. small caps\), koja neće kreirati haos na stranici kako to redovno čine velika slova, već će se lijepo uklopiti u okolni tekst:
 
 ![](../.gitbook/assets/kapitalna-slova.png)
 
-Ipak, treba naglasiti da veliki broj aplikacija ne koristi prava kapitalna slova, već generiše lažna putem smanjenja velikih slova. Ovakva slova veoma su uočljiva usljed istanjenih linija i odudaraju od teksta. Lažna kapitalna slova nipošto ne treba koristiti u tekstu.
-
-Svaki dizajner treba znati kad se koja vrsta slova i brojeva koristi, jer će njihovo nasumično i neselektivno korištenje u tekstu kreirati rogobatnost i kič.
+{% hint style="warning" %}
+Veliki broj aplikacija ne koristi prava kapitalna slova, kreirana rukom dizajnera, već generišu lažna kapitalna slova tako što smanje velika slova. Ovakva slova veoma su uočljiva usljed istanjenih linija i odudaraju od teksta. Lažna kapitalna slova nipošto ne treba koristiti u tekstu.
+{% endhint %}
 
 —
 
