@@ -2,7 +2,7 @@
 
 Ne zalazeći u detalje o tome kako će se u naučnim radovima pisati citati i izvori iz kojih su preuzeti \(za to pogledati, naprimjer, Šamićev rad _Kako nastaje naučno djelo_\), osvrnut ću se, u kratkim crtama, samo na pitanje kako pisati izvore kad se citiraju ajeti i hadisi u popularnoj literaturi, gdje su reference neophodne ili poželjne, ali se ne zahtijeva dosljedno pridržavanje nekog od stilova citata i naučna rigoroznost u tom pogledu. Naročito je važno obratiti pažnju prilikom citiranja hadisa, jer se često susrećemo sa tako prikazanim izvorima da nismo u stanju razlučiti šta koji podatak ustvari predstavlja.
 
-Bitni sastavni dijelovi svakog izvora koji se u tekstu ili fusnoti moraju precizirati:
+Bitni sastavni dijelovi svakog izvora koji se u tekstu ili fusnoti moraju precizirati \[[1](nacin-pisanja-citata-i-referenci-u-tekstu-ajeti-i-hadisi.md#biljeska)\]:
 
 1. ime autora
 2. naziv djela
@@ -69,4 +69,6 @@ Napomena: Nakon zareza ne stavlja se razmak.
 Hoće li se izvori pisati u samom tekstu, u zagradi nakon citata, ili u fusnotama, treba procijeniti: ako su citati brojni, tada je bolje pisati ih u sklopu teksta, u zagradi, jer će brojne fusnote na stranici predstavljati veliku distrakciju, veću od zagrada u tekstu. No, ako su citati tek povremeni, tada ne smeta pisati ih u fusnotama.
 
 ## Bilješka
+
+**1**. Ovo su samo oni elementi koje je bitno precizirati u tekstu. Jasno, u sklopu bibliografske jedinice važnim će se smatrati i drugi podaci, poput izdavača, godine izdanja itd.
 
