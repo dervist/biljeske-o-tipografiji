@@ -1,6 +1,6 @@
 # Fusnote – način obilježavanja i pisanja
 
-## Oznaka za fusnotu u tekstu {#oznaka-za-fusnotu}
+## Oznaka za fusnotu u tekstu
 
 Mjesto u tekstu za koje se fusnota vezuje najbolje je označiti simbolom \*, ako na stranici nema više od jedne fusnote. Ali, ako su fusnote brojne, tada se za oznake koriste smanjeni arapski brojevi, koje treba podignuti od bazne linije. Ovi brojevi poznati su kao “superscript” brojevi. Većina pisama ima posebno dizajnirane superscript, smanjene brojeve. Treba povesti računa o tome da se ne koriste ručno ili automatski smanjeni obični brojevi, kako se, nažalost, često primijeti u knjigama pripremljenim pomoću aplikacija koje posjeduju veoma ograničene mogućnosti za primjenu tipografskih konvencija, jer će se smanjivanjem ovih brojeva smanjiti i debljina linija, što će, naročito u slučaju dvocifrenih brojeva fusnota, kreirati očigledni vizuelni nesklad, a brojevi će izgledati istanjeni, anemični. To se jasno primijeti na sljedećoj ilustraciji u kojoj su u prvom retku korišteni lažni superscript brojevi, koje je generisao softver tako što je smanjio obične brojeve, dok su u drugom korišteni pravi superscript brojevi, koje je kreirao dizajner pisma i koji se savršeno uklapaju u tekst:
 
@@ -10,7 +10,7 @@ Iako većina aplikacija za uređenje teksta i bez posebnih podešavanja koristi 
 
 ![](../.gitbook/assets/o-fusnotama-pozicija-brojeva.png)
 
-## Numerisanje fusnota {#numerisanje-fusnota}
+## Numerisanje fusnota
 
 Fusnote se mogu obilježavati brojevima od 1 pa dalje, sve do kraja knjige. Ako fusnote nisu brojne, ovo je najjednostavniji način za označavanje fusnota. No, ako je knjiga prepuna fusnota, praktičnije je numerisati ih po poglavljima, tj. od 1 pa dalje do kraja trenutnog poglavlja, a potom ponovo početi numerisanje od broja 1 za svako naredno poglavlje. Razlog za ovakav način numerisanja jeste taj što fusnote, ako su brojne, mogu dostići trocifrene, nekad i četverocifrene brojeve, što je nedopustivo – nepraktično je, otežava snalaženje u tekstu i narušava vizuelnu kompaktnost stranice.
 
@@ -20,13 +20,13 @@ Brojevi kojima se označavaju fusnote u tekstu nikada se neće pisati kurzivom, 
 
 ![](../.gitbook/assets/o-fusnotama-bold-italik.png)
 
-## Odvajanje fusnote od teksta {#odvajanje-fusnota-od-teksta}
+## Odvajanje fusnote od teksta
 
 Fusnota će se od teksta odvojiti prazninom. Praksa odvajanja fusnota tankom horizontalnom linijom dugom nekoliko centimetara, kakva se može vidjeti u memorandumima, esejima i skriptama, nepodobna je za većinu knjiga i nikada nije naišla na podršku stručnjaka, naprotiv, neki su tipografi jasno istaknuli da je korištenje ove linije loša praksa \[[2](fusnote-nacin-obiljezavanja-i-pisanja.md#biljeske)\]. Ako se linija, iz nekog razloga, mora pozicionirati iznad fusnote, preporučuje se da se ona produži tako da širinom odgovara širini teksta i tako makar malo umanji vizuelni nesklad koji kratka linija unosi na stranicu.
 
 Nema neke definitivne mjere za razmak kojim će se fusnota odvojiti od teksta, ali u praksi on nikad ne bi smio biti manji od razmaka između dva reda teksta, odnosno praznina bi trebala iznositi makar pola praznog retka. Prazni će red, ili pola retka, u većini slučajeva sasvim lijepo poslužiti svrsi. Mogu se tolerisati i dva prazna retka, ali ni u ovom pogledu ne treba pretjerivati – tri ili četiri prazna retka kreirat će nepremostivi jaz između teksta i fusnote.
 
-## Pisanje broja ispred teksta fusnote {#broj-ispred-teksta-fusnote}
+## Pisanje broja ispred teksta fusnote
 
 Najčešće se koristi jedna od tri metode pisanja broja \[[3](fusnote-nacin-obiljezavanja-i-pisanja.md#biljeske)\] ispred teksta fusnote: \(1\) uvučeni, \(2\) viseći i \(3\) poravnati.
 
@@ -46,7 +46,7 @@ Broj fusnote može se pisati i u samoj lijevoj margini, usljed čega će lijeva 
 
 ![](../.gitbook/assets/o-fusnotama-04.png)
 
-## Problematični načini pisanja fusnota {#problematicni-nacini-pisanja-fusnota}
+## Problematični načini pisanja fusnota
 
 U knjigama se često mogu pronaći neki metodi pisanja fusnota koje svakako treba izbjegavati, jer narušavaju boju stranice ili remete sklad u organizaciji teksta na stranici, dok istovremeno ne osiguravaju dodatnu korist koja bi makar djelimično opravdala njihovo korištenje. Pored rasprostranjene loše prakse da se brojevi ispred teksta fusnota pišu smanjenim podignutim brojevima \(superscript\) \[[5](fusnote-nacin-obiljezavanja-i-pisanja.md#biljeske)\], obično se radi o varijantama jednog od navedenih validnih metoda oblikovanja fusnota.
 
