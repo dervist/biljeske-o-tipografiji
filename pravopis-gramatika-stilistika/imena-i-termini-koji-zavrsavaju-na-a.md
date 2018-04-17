@@ -22,23 +22,23 @@ također zadržavaju vokal _a_, npr. na Israu, u Belkau, dun’jaa i sl.
 
 **4**. U imenima koja se završavaju harfom ajn, krajnji se harf ne piše, ali će on utjecati na izgovor harfa s fethom koji dođe prije njega, pa će se fetha čitati kao kratki vokal _a_, npr.
 
-> أَقْرَعُ: Akreu &gt; Akra’ &gt; Akra;  
-> أَكْوَعُ: Ekveu &gt; Ekva’ &gt; Ekva.
+> Akra – أَقْرَعُ: Akreu &gt; Akra’ &gt; Akra;  
+> Ekva – أَكْوَعُ: Ekveu &gt; Ekva’ &gt; Ekva.
 
 Ako se na harfu ispred krajnjeg ajna nađe vokal _i_, tada će biti potrebno dodati slovo _j_ prilikom promjene po padežima, npr.
 
-> نَافِعُ: Nafiu &gt; Nafi’ &gt; Nafi: Nafija, Nafiju, Nafijem;  
-> رَبِيعُ: Rebiu &gt; Rebi’ &gt; Rebi: Rebija, Rebiju, Rebijem.
+> Nafi – نَافِعُ: Nafiu &gt; Nafi’ &gt; Nafi: Nafija, Nafiju, Nafijem;  
+> Rebi – رَبِيعُ: Rebiu &gt; Rebi’ &gt; Rebi: Rebija, Rebiju, Rebijem.
 
 **5**. Ako riječ označava žensku osobu, tada u svim slučajevima imamo promjenu po padežima koja odgovara promjeni domaćih ženskih imena, bez obzira na to da li se riječ završavala:
 
 \(a\) dugim _a_ \(s nevokaliziranim elifom ili ja na kraju\), npr.
 
-> لَيْلَى: Lejla: Lejli, Lejlom,
+> Lejla – لَيْلَى: Lejli, Lejlom,
 
 \(b\) nevokaliziranim hemzetom prije koga je dugo _a_, npr.
 
-> عَذْرَاءُ: Azrau &gt; Azra’ &gt; Azra: Azri, Azrom.
+> Azra – عَذْرَاءُ: Azrau &gt; Azra’ &gt; Azra: Azri, Azrom.
 
 Ako se ime ne završava samoglasnikom, poput Merjem, Zejneb, Hind, tada se može pisati:
 
