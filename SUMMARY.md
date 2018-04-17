@@ -4,7 +4,6 @@
 
 ## Tipografija i dizajn
 
-* [Uvodna riječ](tipografija-i-dizajn/uvodna-rijec.md)
 * [Brojevi i slova – vrste i slaganje](tipografija-i-dizajn/brojevi-i-slova-vrste-i-slaganje.md)
 * [Fusnote – način obilježavanja i pisanja](tipografija-i-dizajn/fusnote-nacin-obiljezavanja-i-pisanja.md)
 * [Razmak između riječi u tekstu](tipografija-i-dizajn/razmak-izmedu-rijeci-u-tekstu.md)
