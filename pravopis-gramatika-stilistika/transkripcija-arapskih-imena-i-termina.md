@@ -1,13 +1,5 @@
 # Transkripcija arapskih imena i termina
 
-* [Razlika između transkripcije i transliteracije](transkripcija-arapskih-imena-i-termina.md#razlika-transkripcija-transliteracija)  
-* [Transkripcija](transkripcija-arapskih-imena-i-termina.md#transkripcija)  
-* [Elif/hemze](transkripcija-arapskih-imena-i-termina.md#elif-hemze)  
-* [Ajn](transkripcija-arapskih-imena-i-termina.md#ajn)  
-* [Okruglo ta](transkripcija-arapskih-imena-i-termina.md#okruglo-ta)  
-* [Prilozi](transkripcija-arapskih-imena-i-termina.md#prilozi)  
-* [Bilješke](transkripcija-arapskih-imena-i-termina.md#biljeske)
-
 ## Razlika između transkripcije i transliteracije {#razlika-transkripcija-transliteracija}
 
 **Transkripcija** ili fonetska transkripcija predstavlja prenošenje _glasova_, _fonema_, iz jednog jezika u drugi.
@@ -48,7 +40,7 @@ Treba istaknuti da se apostrof neće pisati kada se nevokalizovani elif/hemze na
 
 ### Sa vokalom, a i ispred njega nađe se glas sa vokalom
 
-Kada se ispred vokalizovanog elifa/hemzeta nađe neki drugi glas sa vokalom, neće se pisati apostrof između njih, jer prilikom izgovora ovih glasova nema prekida glasa, pauze, pa je bilo kakvo odvajanje samoglasnika bespotrebno. Npr. neće se pisati _se’ele_, kada se vrši transkripcija arapskog glagola سَأَلَ, već treba pisati _seele_. Ako bi se ova riječ pisala sa apostrofom, _se’ele,_ ona bi odgovarala arapskom سَأْأَلَ, odnosno سَأَّلَ, što je pogrešna vokalizacija riječi usljed koje je prva vrsta glagola pogrešno prikazana kao druga.
+Kada se ispred vokalizovanog elifa/hemzeta nađe neki drugi glas sa vokalom, neće se pisati apostrof između njih, jer prilikom izgovora ovih glasova nema prekida glasa, pauze, pa je bilo kakvo odvajanje samoglasnika bespotrebno. Npr. neće se pisati _se’ele_, kada se vrši transkripcija arapskog glagola سَأَلَ, već treba pisati _seele_. Ako bi se ova riječ pisala sa apostrofom, _se’ele,_ ona bi odgovarala arapskom سَأْأَلَ, odnosno سَأَّلَ, što je pogrešna vokalizacija riječi usljed koje je prva vrsta glagola pogrešno prikazana kao druga. \[[1](transkripcija-arapskih-imena-i-termina.md#biljeske)\]
 
 ### Sa vokalom, a ispred njega nađe se glas bez vokala
 
@@ -62,13 +54,13 @@ Vokalizovani ajn piše se kao samoglasnik, identično elifu/hemzetu, s tim izuze
 
 ### Bez vokala
 
-Artikulacija nevokalizovanog ajna manifestira se u vidu kratkog djelimičnog prekida glasa, pauze, i označava se apostrofom \(’\), npr. _a’raf_ \(أَعْرَافُ\), _i’lam_ \(إِعْلَامٌ\), _mu’džem_ \(مُعْجَمٌ\).
+Artikulacija nevokalizovanog ajna manifestira se u vidu kratkog djelimičnog prekida glasa, pauze, i označava se apostrofom \(’\) \[[2](transkripcija-arapskih-imena-i-termina.md#biljeske)\], npr. _a’raf_ \(أَعْرَافُ\), _i’lam_ \(إِعْلَامٌ\), _mu’džem_ \(مُعْجَمٌ\).
 
 Za nevokalizovani ajn neće se, baš kao ni za elif/hemze, pisati apostrof kada se ovaj glas nađe na kraju riječi. Npr. arapsko ime نَافِعُ pisat će se _Nafi_, ne _Nafi’_.
 
-Treba napomenuti da će se fetha na glasu koji dođe ispred nevokalizovanog ajna pisati kao kratki samoglasnik _a_, ne _e_, kako se vidi u primjeru riječi _a’raf_. Stoga se neće pisati _e’raf_, jer se ajn tretira identično krupnim glasovima, pa se fetha na glasu koji dođe ispred nevokalizovanog ajna, kao i prije bilo kojeg krupnog glasa bez vokala, piše kao kratki samoglasnik _a_, ne _e_. Neće se pisati ni _earaf_, jer bismo u ovom slučaju imali ajn _sa_ vokalom, ne _bez_ vokala – riječ _earaf_ odgovara arapskom أَعَرَافُ, što nije ispravna vokalizacija riječi.
+Treba napomenuti da će se fetha na glasu koji dođe ispred nevokalizovanog ajna pisati kao kratki samoglasnik _a_, ne _e_, kako se vidi u primjeru riječi _a’raf_. Stoga se neće pisati _e’raf_, jer se ajn tretira identično krupnim glasovima, pa se fetha na glasu koji dođe ispred nevokalizovanog ajna, kao i prije bilo kojeg krupnog glasa bez vokala, piše kao kratki samoglasnik _a_, ne _e_. \[[3](transkripcija-arapskih-imena-i-termina.md#biljeske)\] Neće se pisati ni _earaf_, jer bismo u ovom slučaju imali ajn _sa_ vokalom, ne _bez_ vokala – riječ _earaf_ odgovara arapskom أَعَرَافُ, što nije ispravna vokalizacija riječi.
 
-Ne treba pisati apostrof prije vokalizovanog ajna, jer se apostrof, kad se radi o ajnu, koristi isključivo u situacijama u kojima je potrebno označiti nepostojanje vokala na ovom glasu. Npr., neće se pisati _’alim_, kad se vrši transkripcija arapske riječi عَالِمٌ, jer riječ _’alim,_ pisana s apostrofom na početku, odgovara arapskom عْعَالِمٌ, odnosno عَّالِمٌ; neće se pisati ni _mu’allim,_ kad se vrši transkripcija arapske riječi مُعَلِّمٌ, jer riječ _mu’allim_ odgovara arapskom مُعْعَلِّمٌ, odnosno مُعَّلِّمٌ. Isto važi za riječ _te’ala_ – ovaj oblik odgovara arapskom تَعْعَالَى, odnosno تَعَّالَى, što su sve nepostojeće ili pogrešne riječi u arapskom jeziku. Kako se u riječima مُعَلِّمٌ ,عَالِمٌ i تَعَالَى radi o samo jednom, vokalizovanom ajnu, valjana transkripcija glasit će _alim, muallim_ i _teala_.
+Ne treba pisati apostrof prije vokalizovanog ajna, jer se apostrof, kad se radi o ajnu, koristi isključivo u situacijama u kojima je potrebno označiti nepostojanje vokala na ovom glasu. Npr., neće se pisati _’alim_, kad se vrši transkripcija arapske riječi عَالِمٌ, jer riječ _’alim,_ pisana s apostrofom na početku, odgovara arapskom عْعَالِمٌ, odnosno عَّالِمٌ; neće se pisati ni _mu’allim,_ kad se vrši transkripcija arapske riječi مُعَلِّمٌ, jer riječ _mu’allim_ odgovara arapskom مُعْعَلِّمٌ, odnosno مُعَّلِّمٌ. Isto važi za riječ _te’ala_ – ovaj oblik odgovara arapskom تَعْعَالَى, odnosno تَعَّالَى, što su sve nepostojeće ili pogrešne riječi u arapskom jeziku. Kako se u riječima مُعَلِّمٌ ,عَالِمٌ i تَعَالَى radi o samo jednom, vokalizovanom ajnu, valjana transkripcija glasit će _alim, muallim_ i _teala_. \[[4](transkripcija-arapskih-imena-i-termina.md#biljeske)\]
 
 ### Sa vokalom, a i ispred njega nađe se glas sa vokalom
 
@@ -90,4 +82,13 @@ Ipak, postoje i izuzeci koji su u praksi postali ustaljeni oblici, poput riječi
 2. [Tabela 1: Transkripcija](https://drive.google.com/open?id=0B0PIwWDfm0ITTUNhRWtOZ1Rmemc)
 
 ## Bilješke {#biljeske}
+
+**1**. Svakom glasu koji se iz arapskog jezika prenosi u bosanski odgovara jedan i samo jedan glas u našem jeziku. Nema opravdanja za označavanje bilo kojeg arapskog suglasnika, ili bilo kojeg vokala, koristeći dva ili više latiničnih znakova.
+
+**2**. Treba praviti razliku između _apostrofa_ \(’\) i _lijevog,_ _početnog polunavodnika_ \(‘\). Nevokalizovani ajn ne treba označavati polunavodnikom, jer se ovaj znak koristi isključivo za označavanje početka citata i ne može se koristiti u druge svrhe. Početni polunavodnik nikada ne može doći u sredini ili na kraju riječi.
+
+**3**. Identična je situacija sa glasom ha \(ح\), koji je bezvučni parnjak ajna, pa će se fetha na ha, kao i na glasu prije njega ukoliko je ha bez vokala, redovno pisati kao _a_, ne _e_, npr. pisat će se _Hasen_ ili _Hasan_, ne _Hesen_/_Hesan_ i _Ahmed_, ne _Ehmed._
+
+**4**. Neutemeljena je primjedba da se prije vokalizovanog ajna treba pisati apostrof ili polunavodnik kako bi se on razlikovao od vokalizovanog elifa/hemzeta i ona potječe iz nerazumijevanja svrhe transkripcije, kao i nerazlikovanja transkripcije od transliteracije. Svi glasovi arapskog jezika prenose se u bosanski jezik tako da odgovaraju onom glasu u našem jeziku koji im je prema izvorištu i načinu artikulacije najbliži. Kako neki glasovi u arapskom jeziku nemaju ekvivalenta u našem, takvi će se glasovi označavati slovima ili znakovima koji su im u našem jeziku po svojstvima najsličniji: خ ,ح i ه obilježit će se slovom _h_; س ,ث i ص obilježit će se slovom _s_; د i ض obilježit će se slovom _d_, itd. Harf ajn nije izuzetak i on će se u našem jeziku obilježiti vokalom _a_, _i_ ili _u,_ identično elifu/hemzetu, o čemu je već bilo riječi.  
+
 
