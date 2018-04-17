@@ -1,23 +1,25 @@
-# Summary
+# Table of contents
+
+* [Introduction](README.md)
 
 ## Tipografija i dizajn
 
-* [Uvodna riječ](README.md)
-* [Brojevi i slova – vrste i slaganje](brojevi.md)
-* [Fusnote – način obilježavanja i pisanja](fusnote.md)
-* [Razmak između riječi u tekstu](razmaci-izmedu-rijeci-u-tekstu.md)
+* [Uvodna riječ](tipografija-i-dizajn/uvodna-rijec.md)
+* [Brojevi i slova – vrste i slaganje](tipografija-i-dizajn/brojevi-i-slova-vrste-i-slaganje.md)
+* [Fusnote – način obilježavanja i pisanja](tipografija-i-dizajn/fusnote-nacin-obiljezavanja-i-pisanja.md)
+* [Razmak između riječi u tekstu](tipografija-i-dizajn/razmak-izmedu-rijeci-u-tekstu.md)
 
 ## Pravopis, gramatika, stilistika
 
-* [Akcenti i genitivni znak](akcenti-i-genitivni-znak.md)
-* [Korištenje kurziva u tekstu](kurziv.md)
-* [Transkripcija ili transliteracija?](pisanje-arapskih-imena-i-termina.md)
-* [Transkripcija arapskih imena i termina](transkripcija.md)
-* [Imena i termini koji završavaju na a](pisanje-arapskih-imena-i-termina-sa-krajnjim-a.md)
-* [Inšallah, mašallah i druge riječi arapskog porijekla](insallah-masallah-i-druge-rijeci-arapskog-porijekla.md)
-* [Način pisanja citata i referenci u tekstu – ajeti i hadisi](pisanje-citata-i-referenci-ajeti-hadisi.md)
+* [Akcenti i genitivni znak](pravopis-gramatika-stilistika/akcenti-i-genitivni-znak.md)
+* [Korištenje kurziva u tekstu](pravopis-gramatika-stilistika/koristenje-kurziva-u-tekstu.md)
+* [Transkripcija ili transliteracija?](pravopis-gramatika-stilistika/transkripcija-ili-transliteracija.md)
+* [Transkripcija arapskih imena i termina](pravopis-gramatika-stilistika/transkripcija-arapskih-imena-i-termina.md)
+* [Imena i termini koji završavaju na a](pravopis-gramatika-stilistika/imena-i-termini-koji-zavrsavaju-na-a.md)
+* [Inšallah, mašallah i druge riječi arapskog porijekla](pravopis-gramatika-stilistika/insallah-masallah-i-druge-rijeci-arapskog-porijekla.md)
+* [Način pisanja citata i referenci u tekstu – ajeti i hadisi](pravopis-gramatika-stilistika/nacin-pisanja-citata-i-referenci-u-tekstu-ajeti-i-hadisi.md)
 
 ## Razno
 
-* [Prevođenje i priprema djela za objavljivanje](prevodenje-i-priprema-za-objavljivanje.md)
+* [Prevođenje i priprema djela za objavljivanje](razno/prevodenje-i-priprema-djela-za-objavljivanje.md)
 
