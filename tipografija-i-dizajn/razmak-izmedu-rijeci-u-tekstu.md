@@ -12,7 +12,7 @@ Temeljna jedinica za mjerenje razmaka relativnog je karaktera i ona je _jedan em
 
 ![](../.gitbook/assets/razmak-izmedu-rijeci.png)
 
-Veličina razmaka između riječi veća od trećine ema može se koristiti u posebnim slučajevima, poput teksta pisanog velikim slovima, gdje je povećan i razmak između _slova_, pa je stoga neophodno povećati i razmak između _riječi_. Također, u nekim pismima, naročito ako su korištena masna slova, može se ukazati potreba za većim razmakom. Međutim, očigledno je da je mjera od, recimo, polovine ema neprikladna za vezani tekst, kao i svaki razmak veći od toga.
+Razmak između riječi veći od trećine ema, iako neprikladan za vezani tekst, može se koristiti u posebnim slučajevima, poput teksta pisanog velikim slovima, gdje je povećan i razmak između _slova_, pa je stoga neophodno povećati i razmak između _riječi_. Također, u nekim pismima, naročito ako su korištena masna slova, može se ukazati potreba za većim razmakom. Ipak, očigledno je da je mjera od, recimo, polovine ema neprikladna za vezani tekst, kao i svaki razmak veći od toga.
 
 Da je razmak između riječi u tekstu prevelik možemo lahko ocijeniti od oka, koristeći malo slovo n: ako između riječi možemo pozicionirati slovo n tako da ono ne dodiruje ni zadnje slovo prethodne, ni prvo slovo naredne riječi, to je jasan pokazatelj da nismo uradili kvalitetan prijelom paragrafa i da njegovu strukturu treba doraditi i korigovati veličinu razmaka.
 
