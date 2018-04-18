@@ -16,7 +16,9 @@ Prilikom utvrđivanja koliki će razmak između riječi u tekstu biti, treba ima
 
 ![](../.gitbook/assets/razmak-izmedu-rijeci.png)
 
-Razmak između riječi veći od trećine ema, iako neprikladan za vezani tekst, može se koristiti u posebnim slučajevima, poput teksta pisanog velikim slovima, gdje je povećan i razmak između _slova_, pa je stoga neophodno povećati i razmak između _riječi_. Također, u nekim pismima, naročito ako su korištena masna slova, može se ukazati potreba za većim razmakom. Ipak, očigledno je da je mjera od, recimo, polovine ema neprikladna za vezani tekst, kao i svaki razmak veći od toga.
+{% hint style="info" %}
+Razmak između riječi veći od trećine ema, iako neprikladan za vezani tekst, može se koristiti u posebnim slučajevima, poput teksta pisanog velikim slovima, gdje se, po pravilu, treba povećati razmak između _slova_, pa je zbog toga neophodno povećati i razmak između _riječi,_ ili, u nekim pismima, teksta pisanog masnim slovima. Ipak, očigledno je da je mjera od, recimo, polovine ema neprikladna za vezani tekst, kao i svaki razmak veći od toga.
+{% endhint %}
 
 Da je razmak između riječi u tekstu prevelik možemo lahko ocijeniti od oka, koristeći malo slovo n: ako između riječi možemo pozicionirati slovo n tako da ono ne dodiruje ni zadnje slovo prethodne, ni prvo slovo naredne riječi, to je jasan pokazatelj da nismo uradili kvalitetan prijelom paragrafa i da njegovu strukturu treba doraditi i korigovati veličinu razmaka.
 
