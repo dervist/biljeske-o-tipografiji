@@ -6,9 +6,13 @@ Koliki razmak između riječi treba biti? Odgovor na ovo pitanje ne može biti a
 
 Temeljna jedinica za mjerenje razmaka relativnog je karaktera i ona je _jedan em_ \(1 em\), gdje _em_ predstavlja mjeru koja odgovara veličini slova; ako su u tekstu korištena slova veličine 11 pt, tada važi: 1 em = 11 pt. Približno, 1 em odgovara širini velikog slova m.
 
-1. U običnom tekstu, minimalna veličina razmaka između riječi iznosi petinu ema \(M/5\). Razmak manji od toga nije dovoljan da jasno razdvoji riječi, što će otežati čitanje.
-2. U običnom tekstu, veličina razmaka između riječi kojoj treba težiti iznosi četvrtinu ema \(M/4\). Približno, to je širina malog slova t i predstavlja optimalni razmak.
-3. U običnom tekstu, maksimalna veličina razmaka između riječi koja se ne bi trebala prekoračiti iznosi trećinu ema \(M/3\). Razmak veći od toga dovodi do propadanja pogleda između riječi i što je razmak veći, to je čitanje neugodnije a stranica izgleda neskladnija, prorešetana bjelinama.
+Prilikom utvrđivanja koliki će razmak između riječi u tekstu biti, treba imati na umu sljedeće smjernice:
+
+**Minimalni razmak** između riječi iznosi _petinu ema_ \(M/5\). Razmak manji od toga nije dovoljan da jasno razdvoji riječi, što će otežati čitanje.
+
+**Optimalni razmak** između riječi kojem treba težiti iznosi _četvrtinu ema_ \(M/4\), što je, približno, širina malog slova t.
+
+**Maksimalni razmak** između riječi iznosi trećinu ema \(M/3\). Svaki razmak veći od trećine ema dovodi do propadanja pogleda između riječi i što je razmak veći, to je čitanje neugodnije a stranica izgleda neskladnija, prorešetana bjelinama.
 
 ![](../.gitbook/assets/razmak-izmedu-rijeci.png)
 
