@@ -12,11 +12,11 @@ Karakteristika je velikih slova, kao i velikih brojeva, da su jednake veličine 
 
 Kod malih slova, s druge strane, postoje varijacije i u veličini i u položaju – mala su slova ciljano dizajnirana na takav način da bi se oblik riječi što lakše prepoznao i olakšalo čitanje. Neka su mala slova manja \(npr. i\), neka veća \(npr. d\), neka se protežu iznad linije \(npr. b\), a neka ispod \(npr. g\).
 
-Brojevi se ponašaju identično slovima: kako veliki brojevi odudaraju od teksta pisanog malim slovima, bilo je neophodno dizajnirati male brojeve, koji se, s obzirom na to da su sličnih karakteristika kao i mala slova, savršeno uklapaju u tekst.
+Brojevi se ponašaju identično slovima: kako veliki brojevi odudaraju od teksta pisanog malim slovima, bilo je neophodno dizajnirati male brojeve, koji će posjedovati ista svojstva kao i mala slova i tako se savršeno uklopiti u tekst.
 
 ![](../.gitbook/assets/podudarnost-brojeva-i-slova.png)
 
-Nema alternative za korištenje odgovarajućih brojeva u datom kontekstu i ono je neophodno da bi se ostvarila harmonija na stranici. Neprepoznavanje veze između slova i brojeva rezultirat će nastankom haosa:
+Nema alternative za korištenje odgovarajućih brojeva u datom kontekstu i ono je neophodno da bi se ostvarila harmonija na stranici. Neprepoznavanje veze između slova i brojeva rezultirat će nastankom haosa.
 
 ![](../.gitbook/assets/kombinacije-brojeva-i-slova.png)
 
