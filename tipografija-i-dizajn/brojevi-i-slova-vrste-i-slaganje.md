@@ -1,6 +1,6 @@
 # Brojevi i slova – vrste i slaganje
 
-Jedan od zadataka knjižnog dizajnera jest kreiranje kontekstualne i vizuelne harmonije na stranicama knjige. U kolikoj će mjeri u tome biti uspješan uvelike zavisi od toga je li dizajner skladno kombinovao slova i brojeve ili ne. Ukoliko ne uočava razliku između vrsta i oblika brojeva i slova, ne razumije svrhu i značaj njihovog valjanog kombinovanja i stoga ih nasumično ili sasvim pogrešno koristi u tekstu, dizajner neće biti u stanju kako treba obaviti zadatak koji mu je povjeren. Slaganje brojeva i slova jedno je od temeljnih tipografskih pravila.
+Jedan od zadataka knjižnog dizajnera jest kreiranje kontekstualne i vizuelne harmonije na stranicama knjige. Da li je u tome bio uspješan uvelike zavisi od toga kako je oblikovao tekst i je li koristio odgovarajuće vrste brojeva i slova. Ukoliko dizajner nije u stanju uočiti razliku između različitih vrsta i oblika brojeva i slova, ako ne razumije svrhu i značaj njihovog valjanog kombinovanja i stoga ih nasumično ili sasvim pogrešno koristi u tekstu, on neće biti u stanju kako treba obaviti zadatak koji mu je povjeren. Slaganje brojeva i slova jedno je od temeljnih tipografskih pravila.
 
 ## Arapski brojevi
 
