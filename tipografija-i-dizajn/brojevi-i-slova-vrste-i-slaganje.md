@@ -33,7 +33,7 @@ Ostvarenje harmonije na stranici ne zavisi samo od korištenja odgovarajuće vrs
 ![](../.gitbook/assets/kapitalna-slova.png)
 
 {% hint style="warning" %}
-Veliki broj aplikacija ne koristi prava kapitalna slova, kreirana rukom dizajnera, već generišu lažna kapitalna slova tako što smanje velika slova. Ovakva slova veoma su uočljiva usljed istanjenih linija i odudaraju od teksta. Lažna kapitalna slova nipošto ne treba koristiti u tekstu.
+Veliki broj aplikacija za obradu teksta, poput Microsoft Office Worda ili LibreOffice Writera – a koje nisu namijenjene niti pogodne za pripremu knjiga za štampu jer nisu u stanju ispoštovati čak ni neke od osnovnih zahtjeva fine tipografije – ne koristi prava kapitalna slova, kreirana rukom dizajnera, već generiše lažna kapitalna slova tako što smanji obična velika slova. Ovakva slova veoma su uočljiva usljed istanjenih linija i odudaraju od teksta. Lažna kapitalna slova nipošto ne treba koristiti u tekstu.
 {% endhint %}
 
 —
