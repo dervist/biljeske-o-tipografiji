@@ -44,7 +44,7 @@ Kada se vrši korektura elektronskih knjige koje nisu statičnog karaktera \(epu
 
 —
 
-Prilog 1: prikaz nekih osnovnih korektorskih znakova i korekture pomoću besplatne aplikacije za rad s PDF-dokumentima PDF-XChange Editor.
+Prikaz nekih osnovnih korektorskih znakova i korekture pomoću besplatne aplikacije za rad s PDF-dokumentima PDF-XChange Editor dat je u dokumentu Korektura PDF dokumenata koji se, uz kolekcije korektorskih znakova, može preuzeti [ovdje](https://www.dropbox.com/sh/xz1cmcfs7dixq3e/AAAW9-OrEf92Ei3Xlggxa4yya?dl=0).
 
 
 
