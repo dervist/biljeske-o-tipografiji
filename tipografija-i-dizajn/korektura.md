@@ -18,8 +18,8 @@ Iako se korektura može obavljati u različitim fazama pripreme teksta, izraz �
 
 Korekturu može obaviti svaka osoba koja posjeduje sljedeće osobine:
 
-1.  dobro poznaje pravopis i gramatiku,
-2.  dobro poznaje tipografiju i knjižni dizajn,
+1. dobro poznaje pravopis i gramatiku,
+2. dobro poznaje tipografiju i knjižni dizajn,
 3. ima oko za detalje, u stanju je uočiti ono što bi svakome drugom promaklo.
 
 ### Kako se vrši korektura?
