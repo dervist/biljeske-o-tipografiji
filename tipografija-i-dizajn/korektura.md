@@ -24,7 +24,7 @@ Korekturu može obaviti svaka osoba koja posjeduje sljedeće osobine:
 
 ### Kako se vrši korektura?
 
-**Utvrditi zahtjeve izdavača.** Izdavači obično imaju interne pravilnike kojima su utvrđena pravila u vezi sa pripremom knjige koja korektor mora konsultovati. To su uputstva koja kazuju kako pisati naslove poglavlja i sekcija, kako obilježavati i pisati fusnote, kako pisati strane izraze i reference, kako pisati numerisane i nenumerisane liste i tabele itd. 
+**Utvrditi zahtjeve izdavača.** Izdavači obično imaju interne pravilnike kojima su utvrđena pravila u vezi sa pripremom knjige koja korektor mora konsultovati. To su uputstva koja kazuju, naprimjer, kako pisati naslove poglavlja i sekcija, kako obilježavati i pisati fusnote, kako pisati strane izraze i reference, kako pisati numerisane i nenumerisane liste i tabele itd. 
 
 **Definisati plan i metod rada.** Utvrditi kako pristupiti korekturi, da li korekturu obavljati na papiru ili na elektronskom dokumentu, koji su standardni korektorski znaci koje izdavač koristi, koji su rokovi za završetak posla, kojim putem komunicirati sa urednikom ili lektorom itd. Plan će se razlikovati od projekta do projekta, no on je, u svakom slučaju, neophodan.
 
