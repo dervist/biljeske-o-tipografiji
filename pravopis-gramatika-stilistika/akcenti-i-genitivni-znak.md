@@ -34,9 +34,9 @@ Umjesto genitivnog znaka može se koristiti i crta za obilježavanje dugih nenag
 
 ## Greške prilikom obilježavanja akcenata
 
-Kratkouzlazni i dugouzlazni akcenti obično su u tekstu napisani kako treba, što nije slučaj sa kratkosilaznim i dugosilaznim – za obilježavanje ova dva akcenta nerijetko se koriste pogrešne oznake, pa se kratkosilazni akcent nekada obilježava dvjema tačkama iznad slova umjesto dvjema kosim crticama, dok se znak za obilježavanje dugosilaznog akcenta gotovo redovno brka sa genitivnim znakom:
+Kratkouzlazni i dugouzlazni akcenti obično su u tekstu napisani kako treba, što nije slučaj sa kratkosilaznim i dugosilaznim – za obilježavanje ova dva akcenta nerijetko se koriste pogrešne oznake, pa se kratkosilazni akcent nekada obilježava dvjema tačkama iznad slova umjesto dvjema kosim crticama, dok se znak za obilježavanje dugosilaznog akcenta gotovo redovno zamijeni sa genitivnim znakom:
 
 ![](../.gitbook/assets/akcenti-greske.png)
 
-Stoga svaki savjesni dizajner knjige treba pažljivo pročitati tekst i korigovati sve oznake koje nisu upotrijebljene na odgovarajući način, a to uključuje i pravilno označavanje akcenata.
+Korektor će ukazati na nepravilno pisane akcente, a dizajner se treba pobrinuti da svaka oznaka u finalnom dokumentu bude odgovarajuća – ukoliko fontovi korišteni za dizajn knjige ne sadržavaju sve neophodne znakove za označavanje akcenata, dizajner će ih kreirati, bilo tek kombinovanjem postojećih znakova, bilo kreiranjem novih na temelju već postojećih znakova korištenog fonta. Treba naglasiti da svi akcenti moraju pripadati istom pismu koje je korišteno u tekstu i ne smije se za nadomještanje nepostojećih akcenata koristiti neko drugo pismo, ma kako slično bilo originalnom.
 
