@@ -78,8 +78,8 @@ Ipak, postoje i izuzeci koji su u praksi postali ustaljeni oblici, poput riječi
 
 ## Prilozi
 
-1. [Transliteracija arapskih izraza, pregled standarda](https://drive.google.com/open?id=0B0PIwWDfm0ITaVhubGtpR0ZNaUU)  
-2. [Tabela 1: Transkripcija](https://drive.google.com/open?id=0B0PIwWDfm0ITTUNhRWtOZ1Rmemc)
+1. [Transliteracija arapskih izraza, pregled standarda](https://drive.google.com/file/d/1LOIxRMl-5rer1g5Kebul4v0QeNOItnin/view?usp=sharing)  
+2. [Tabela 1: Transkripcija](https://drive.google.com/file/d/1Ro6_gMfSX8RarA7v4VdrUGXr4aztyGSR/view?usp=sharing)
 
 ## Bilješke
 
