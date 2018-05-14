@@ -38,7 +38,7 @@ Veliki broj aplikacija za obradu teksta, poput Microsoft Office Worda ili LibreO
 
 —
 
-[Prilog o slaganju brojeva i slova](https://drive.google.com/file/d/1gwnr9JFqrxVsHYWVvU-WLmHGY9Ay4UVO/view?usp=sharing). Preuzeto iz:  
+[Prilog o slaganju brojeva i slova](https://www.dropbox.com/s/11q18frmj4icfhy/O%20slaganju%20brojeva%20i%20slova.pdf?dl=0). Preuzeto iz:  
 
 Robert Bringhurst, _The Elements of Typographic Style_, 3rd Ed.    
 Ellen Lupton, _Thinking With Type_, 2nd Ed.
