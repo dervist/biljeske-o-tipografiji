@@ -20,11 +20,11 @@ Transkripcija: muallim, teala, nisa, kinvan, viab, seele, tabiin, hijar, asakil
 
 Transliteracija: mu‘allim, ta‘ālā, nisā’, qinwān, wi‘āb, sa’ala, tābi‘īn, khiyār, ‘athāqīl
 
-Za razliku od transkripcije, koja je determinisana ortografijom jezika u koji se glasovi prenose \(pravilo: piši kako govoriš\), za transliteraciju treba koristiti neki od utvrđenih standarda za pisanje izraza koji potječu iz jezika koji koriste nelatinično pismo \([prilog 1](https://drive.google.com/open?id=0B0PIwWDfm0ITaVhubGtpR0ZNaUU)\). Prilikom transliteracije bit će neophodno koristiti čitav niz specijalnih znakova, sa tačkama ili crticama iznad i ispod slova, te posebne znakove za elif i ajn.
+Za razliku od transkripcije, koja je determinisana ortografijom jezika u koji se glasovi prenose \(pravilo: piši kako govoriš\), za transliteraciju treba koristiti neki od utvrđenih standarda za pisanje izraza koji potječu iz jezika koji koriste nelatinično pismo \([prilog 1](https://drive.google.com/file/d/1LOIxRMl-5rer1g5Kebul4v0QeNOItnin/view?usp=sharing)\). Prilikom transliteracije bit će neophodno koristiti čitav niz specijalnih znakova, sa tačkama ili crticama iznad i ispod slova, te posebne znakove za elif i ajn.
 
 ## Transkripcija
 
-Ako se koriste uputstva iz tabele \([prilog 2](https://drive.google.com/open?id=0B0PIwWDfm0ITTUNhRWtOZ1Rmemc)\), transkripcija arapskih termina u većini slučajeva neće predstavljati poteškoću. Međutim, postoje specifične situacije na koje treba obratiti pažnju kako bi se izbjegle nedosljednosti u pisanju i pogreške.
+Ako se koriste uputstva iz tabele \([prilog 2](https://drive.google.com/file/d/11iCH8w3aQSSYIyLaNX-5H0UhyiucXt_V/view?usp=sharing)\), transkripcija arapskih termina u većini slučajeva neće predstavljati poteškoću. Međutim, postoje specifične situacije na koje treba obratiti pažnju kako bi se izbjegle nedosljednosti u pisanju i pogreške.
 
 ## Elif/hemze
 
