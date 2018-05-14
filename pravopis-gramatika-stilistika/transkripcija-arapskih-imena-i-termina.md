@@ -24,7 +24,7 @@ Za razliku od transkripcije, koja je determinisana ortografijom jezika u koji se
 
 ## Transkripcija
 
-Ako se koriste uputstva iz tabele \([prilog 2](https://drive.google.com/file/d/11iCH8w3aQSSYIyLaNX-5H0UhyiucXt_V/view?usp=sharing)\), transkripcija arapskih termina u većini slučajeva neće predstavljati poteškoću. Međutim, postoje specifične situacije na koje treba obratiti pažnju kako bi se izbjegle nedosljednosti u pisanju i pogreške.
+Ako se koriste uputstva iz tabele \([prilog 2](https://drive.google.com/file/d/1Ro6_gMfSX8RarA7v4VdrUGXr4aztyGSR/view?usp=sharing)\), transkripcija arapskih termina u većini slučajeva neće predstavljati poteškoću. Međutim, postoje specifične situacije na koje treba obratiti pažnju kako bi se izbjegle nedosljednosti u pisanju i pogreške.
 
 ## Elif/hemze
 
