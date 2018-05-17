@@ -1,6 +1,6 @@
 # Korektura
 
-Korektura je posljednja faza u procesu pripreme knjige za štampu i njen je cilj provjeriti kvalitet teksta i dizajna i uočiti greške koje su promakle autoru, uredniku, lektoru, dizajneru i drugim osobama koje su radile na pripremi knjige. Korektor će osim pravopisnih i gramatičkih grešaka, grešaka koje se tiču jezika, također uočiti greške u konceptu i dizajnu knjige. Stoga korektor, pored dobrog poznavanja pravopisa i gramatike, mora posjedovati i znanja iz oblasti tipografije i dizajna.
+Korektura je posljednja faza u procesu pripreme knjige za štampu i njen je cilj provjeriti kvalitet teksta i dizajna i uočiti greške koje su promakle autoru, uredniku, lektoru, dizajneru i drugim učesnicima u pripremi knjige. Korektor će osim pravopisnih i gramatičkih grešaka, grešaka koje se tiču jezika, također uočiti greške u konceptu i dizajnu knjige. Stoga korektor, pored dobrog poznavanja pravopisa i gramatike, mora posjedovati i znanja iz oblasti tipografije i dizajna.
 
 {% hint style="info" %}
 Korektura se nekada pogrešno posmatra kao proces unošenja opaski i korekcija lektora ili recenzenta u tekst, a nekada i kao stilsko dotjerivanje teksta. Oba su ova mišljenja daleko od onoga što korektura uistinu jest: kontrola kvaliteta.
