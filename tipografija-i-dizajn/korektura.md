@@ -2,9 +2,13 @@
 
 Korektura je posljednja faza u procesu pripreme knjige za štampu i njen je cilj provjeriti kvalitet teksta i dizajna i uočiti greške koje su promakle autoru, uredniku, lektoru, dizajneru i drugim osobama koje su radile na pripremi knjige. Korektor će osim pravopisnih i gramatičkih grešaka, grešaka koje se tiču jezika, također uočiti greške u konceptu i dizajnu knjige. Stoga korektor, pored dobrog poznavanja pravopisa i gramatike, mora posjedovati i znanja iz oblasti tipografije i dizajna.
 
+{% hint style="info" %}
+Korektura se nekada pogrešno posmatra kao proces unošenja opaski i korekcija lektora ili recenzenta u tekst, a nekada i kao stilsko dotjerivanje teksta. Oba su ova mišljenja daleko od onoga što korektura uistinu jest: kontrola kvaliteta.
+{% endhint %}
+
 ## Da li je korektura neophodna?
 
-Korektura = kontrola kvaliteta. Zbog toga je kvalitetna korektura nesumnjivo esencijalna faza u pripremi knjige za štampu i nikako se ne bi smjela izostaviti, bilo da se radi o brošuri ili višetomnom kapitalnom djelu. Knjiga koju nije pregledao korektor ne može se smatrati cjelovitom, kompletiranom, već se radi o još uvijek nedovršenom projektu, poluproizvodu.
+Kvalitetna korektura nesumnjivo je esencijalna faza u pripremi knjige za štampu i ne bi se smjela izostaviti, bilo da se radi o brošuri ili višetomnom kapitalnom djelu. Knjiga koju nije pregledao korektor ne može se smatrati cjelovitom, kompletiranom, već se radi o još uvijek nedovršenom projektu, poluproizvodu.
 
 Lektorski je standard, prema nekim procjenama, ispravak do 95% grešaka, ne ubrajajući tu potencijalne greške dizajnera prilikom prijeloma \(za što su najbolji primjer loši, pogrešni ili, u nekim slučajevima, nepostojeći prijelomi riječi na kraju retka\), a u čiji rad lektor nema uvida.
 
