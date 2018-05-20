@@ -82,7 +82,7 @@ gdje je, kao i u riječi “inšaAllah”, zadnje slovo glagola _šae_ pisano ka
 
 ## InshAllah, mashAllah, we selam ...
 
-Kako je god pisanje velikog slova usred ili na kraju riječi neutemeljeno u našem jeziku, isto je tako nedopustivo koristiti tuđi alfabet za pisanje naših riječi. U riječima _inshaAllah_ i _mashaAllah_ cilj je bio, vjerovatno, u nedostatku našeg slova _š_ koristiti englesku kombinaciju _sh_ kao zamjenu. To je pogrešno. Engleski alfabet koristi se isključivo za pisanje engleskih riječi i, obično, riječi koje su _transliterovane_ iz nelatiničnih pisama, nikad za pisanje riječi koje pripadaju našem jeziku. Engleski se alfabet ne može koristiti za _transkripciju_. \[[3](insallah-masallah-i-druge-rijeci-arapskog-porijekla.md#biljeske)\]
+Kako je god pisanje velikog slova usred ili na kraju riječi neutemeljeno, isto je tako nedopustivo koristiti slova koja nisu dio bosanske latinice ili ćirilice, slova koja su dio alfabeta nekog stranog jezika, za pisanje naših riječi. U riječima _inshaAllah_ i _mashaAllah_ cilj je bio, vjerovatno, u nedostatku našeg slova _š_ koristiti englesku kombinaciju _sh_ kao zamjenu. To je pogrešno. Engleski alfabet koristi se isključivo za pisanje engleskih riječi i, obično, riječi koje su _transliterovane_ iz nelatiničnih pisama, nikad za pisanje riječi koje pripadaju našem jeziku. Engleski se alfabet ne može koristiti za _transkripciju_. \[[3](insallah-masallah-i-druge-rijeci-arapskog-porijekla.md#biljeske)\]
 
 Riječ “inshaAllah”, stoga, nije isto što “inšaAllah”, iako su obje neispravne, a u našem jeziku “sh” su dva slova, kao u riječi “**sh**vatiti”; u nedostatku slova _š_ bolje je koristiti naše riječi i kazati “Ako Bog da”.
 
