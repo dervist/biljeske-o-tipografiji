@@ -34,7 +34,7 @@ U svakodnevnoj komunikaciji možemo primijetiti veliko šarenilo kad se radi o p
 
 > inšaAllah, insh-Allah, mašAllah, mashAllah, subhanAllah, elhamdu liLlah, we selam ...
 
-Ovako nakaradno pisane riječi možemo vidjeti i u nekim knjigama \[[1](insallah-masallah-i-druge-rijeci-arapskog-porijekla.md#biljeske)\]. Među opravdanjima za to bezočno masakriranje naših riječi arapskog porijekla najčešće se ističe to da se Božije ime _mora_ pisati velikim slovom, čak i kada je dio složenice. Ako i zanemarimo činjenicu da je ovakav zahtjev besmislen i da ga pravopis našeg jezika ne podržava, pisanje riječi na ovakav način nema podlogu ni u arapskom pravopisu, što ćemo pokazati kroz kratku analizu.
+Ovako nakaradno pisane riječi možemo vidjeti i u nekim knjigama \[[1](insallah-masallah-i-druge-rijeci-arapskog-porijekla.md#biljeske)\]. Među opravdanjima za to bezočno masakriranje naših riječi arapskog porijekla najčešće se ističe to da se Božije ime _mora_ pisati velikim slovom, čak i kada je dio složenice. Ako i zanemarimo činjenicu da je ovakav zahtjev besmislen i da ga pravopis našeg jezika ne podržava, pisanje riječi na ovakav način neutemeljen je i ako se posmatra sa aspekta arapskog pravopisa, što ćemo pokazati kroz kratku analizu.
 
 ## Ime “Allah”
 
