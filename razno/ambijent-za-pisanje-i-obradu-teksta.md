@@ -16,7 +16,7 @@ Ispostavilo se, međutim, da nisu samo programeri zadržali “antičke” fonto
 
 Monospace fontovi idealni su za pisanje, oni nas već i samim svojim izgledom podsjećaju da naš posao još nije završen. Proporcionalni fontovi jasno nam daju do znanja da pred sobom imamo završen tekst koji još samo preostaje – pročitati.
 
-![3 \| iA Writer, aplikacija za mobilne telefone namijenjena za pisanje, jasno razgrani&#x10D;ava pisanje, ure&#x111;enje teksta \(monospace font, lijevo\) i &#x10D;itanje \(proporcionalni font, desno\).](../.gitbook/assets/iawriter.jpg)
+![3 \| iA Writer, aplikacija za mobilne telefone namijenjena za pisanje, jasno razgrani&#x10D;ava pisanje, ure&#x111;enje teksta \(monospace font, lijevo\) i &#x10D;itanje \(proporcionalni font, desno\).](../.gitbook/assets/iawriter.png)
 
 Neki od kvalitetnijih monospace fontova jesu sljedeći: [iA Writer Duospace](https://www.fontsquirrel.com/fonts/ia-writer-duospace), [Source Code Pro](https://www.fontsquirrel.com/fonts/source-code-pro), Consolas \(koji se isporučuje uz novije Windows operativne sisteme\).
 
