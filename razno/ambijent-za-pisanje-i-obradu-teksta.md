@@ -34,7 +34,7 @@ Idealna dužina retka iznosi **66** znakova, a minimalna **45** znakova. Neki su
 
 U knjigama, prored je obično jednostruk, iznosi **1**. Međutim, kada se tekst piše, pregleda i koriguje, jednostruki prored najčešće će biti premalen i korisno je povećati ga. Nema neke precizne mjere u pogledu veličine proreda, ali su vrijednosti između **1,2** i **1,5** najčešće korištene u praksi.
 
-![4 \| Jednostruki prored \(lijevo\), iako prikladan za zavr&#x161;en i objavljen tekst, ote&#x17E;ava njegovo prire&#x111;ivanje. U radnoj verziji mnogo je podesnije koristiti prored 1,2 ili 1,5 \(desno\).](../.gitbook/assets/proredi.png)
+![4 \| Jednostruki prored \(lijevo\), iako prikladan za zavr&#x161;en i objavljen tekst, ote&#x17E;ava njegovo prire&#x111;ivanje. U radnoj verziji mnogo je podesnije koristiti prored 1,2 ili 1,5 \(desno\).](../.gitbook/assets/prored.png)
 
 Neki autori i dalje praktikuju dvostruki prored, koji je bio pravilo kada su za pisanje korištene pisaće mašine – prazni prostor služio je za opaske urednika i lektora. Kako su danas u praksi zastupljeni drugi metodi za korekciju teksta i pisanje opaski, makar kad se radi o elektronskim dokumentima, dvostruki prored izgubio je svrhu i rijetko se koristi.
 
