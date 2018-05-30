@@ -45,7 +45,7 @@ Međutim, nijedna od spomenutih veličina nije podesna za pisanje teksta, njegov
 Slika 2 prikazuje tekst zadovoljavajuće veličine, dok je tekst prikazan na slici 1 isuviše sitan za ugodan rad.
 
 {% hint style="info" %}
-Ne mora se nužno mijenjati veličina slova u dokumentu da bi se omogućio ugodan rad. Mnoge aplikacije imaju mogućnost zumiranja, tj. povećavanja prikaza teksta bez mijenjanja njegove stvarne veličine. Zumiranje \(engl. zoom\) obično se nalazi u “View” meniju.
+Ne mora se uvijek mijenjati veličina slova u dokumentu da bi se omogućio ugodan rad. Mnoge aplikacije imaju mogućnost zumiranja, tj. povećavanja prikaza teksta bez mijenjanja njegove stvarne veličine. Zumiranje \(engl. zoom\) obično se nalazi u “View” meniju.
 {% endhint %}
 
 ### 5. Boja pozadine i teksta
