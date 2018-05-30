@@ -18,7 +18,7 @@ Neki od kvalitetnijih monospace fontova jesu sljedeći: [iA Writer Duospace](htt
 
 ### 2. Dužina retka
 
-Nakon izbora odgovarajućeg fonta, sljedeći važan faktor, koji će u znatnoj mjeri olakšati rad sa tekstom, jest prikladna dužina retka: tipografsko pravilo koje kaže da linija teksta ne bi smjela sadržavati više od **75** znakova, uključujući i razmake, validno je i prilikom pisanja i uređenja teksta: širinu stranice \(ili prozora aplikacije koja se koristi\) treba prilagoditi tako da reci ne budu predugi, jer ništa tako efikasno ne ubija volju i koncentraciju kako to čine predugi reci \(uporediti slike 1 i 2\).
+Nakon izbora odgovarajućeg fonta, sljedeći važan faktor, koji će u znatnoj mjeri olakšati rad sa tekstom, jest prikladna dužina retka: tipografsko pravilo koje kaže da linija teksta ne bi smjela sadržavati više od **75** znakova, uključujući i razmake, validno je i prilikom pisanja i uređenja teksta: širinu stranice \(ili prozora aplikacije koja se koristi\) treba prilagoditi tako da reci ne budu predugi, jer ništa tako efikasno ne ubija volju i koncentraciju kako to čine predugi reci \(uporediti slike [1](ambijent-za-pisanje-i-obradu-teksta.md#1-odabir-odgovarajuceg-fonta) i [2](ambijent-za-pisanje-i-obradu-teksta.md#1-odabir-odgovarajuceg-fonta)\).
 
 Iako se spomenuto tipografsko pravilo odnosi prvenstveno na finalni dokument, stranicu knjige, njegova je priroda praktičnā i primjenjuje se i na web-stranice, ali i sve druge vrste dokumenata, uključujući i radne.
 
@@ -42,7 +42,7 @@ Standardna veličina slova u dopisima, memorandumima, raznima aktima, kancelarij
 
 Međutim, nijedna od spomenutih veličina nije podesna za pisanje teksta, njegovo uređenje i pripremu na računaru – minimalna veličina slova ovdje bi iznosila 16 pt, dok se 20 pt smatra standardnom veličinom za web-stranice, a to je ujedno i preporučena veličina za radnu verziju dokumenata. 
 
-Slika 2 prikazuje tekst zadovoljavajuće veličine, dok je tekst prikazan na slici 1 isuviše sitan za ugodan rad.
+[Slika 2](ambijent-za-pisanje-i-obradu-teksta.md#1-odabir-odgovarajuceg-fonta) prikazuje tekst zadovoljavajuće veličine, dok je tekst prikazan na [slici 1](ambijent-za-pisanje-i-obradu-teksta.md#1-odabir-odgovarajuceg-fonta) isuviše sitan za ugodan rad.
 
 {% hint style="info" %}
 Ne mora se uvijek mijenjati veličina slova u dokumentu da bi se omogućio ugodan rad. Mnoge aplikacije imaju mogućnost zumiranja, tj. povećavanja prikaza teksta bez mijenjanja njegove stvarne veličine. Zumiranje \(engl. zoom\) obično se nalazi u “View” meniju.
@@ -68,7 +68,7 @@ Posljednji korak u kreiranju optimalnog ambijenta za pisanje i uređenje teksta 
 
 Osim sprečavanja raznih obavijesti, korisno je prilikom pisanja ukloniti i vizuelne elemente koji utječu na koncentraciju, a tu spadaju razni meniji, alatke, prozori, sličice koji su sastavni dio aplikacija za rad s tekstom. Većina aplikacija ima opciju za skrivanje svih neesencijalnih funkcija, bilo da se radi o zasebnom modusu ili običnoj “fullscreen” opciji, koja iz vidokruga uklanja sve elemente izuzev stranice s tekstom.
 
-Slika 2 daje prikaz optimalnog okruženja za uređenje teksta u kojem su implementirani svi prethodno navedeni savjeti. Slika 1, s druge strane, daje prikaz tipičnog radnog okruženja s kojim se većina ljudi danas suočava, a koje je daleko od optimalnog. Tek nekoliko neznatnih intervencija dovoljno je da u znatnoj mjeri olakša njihov rad i poboljša njegov kvalitet.
+[Slika 2](ambijent-za-pisanje-i-obradu-teksta.md#1-odabir-odgovarajuceg-fonta) daje prikaz optimalnog okruženja za uređenje teksta u kojem su implementirani svi prethodno navedeni savjeti. [Slika 1](ambijent-za-pisanje-i-obradu-teksta.md#1-odabir-odgovarajuceg-fonta), s druge strane, daje prikaz tipičnog radnog okruženja s kojim se većina ljudi danas suočava, a koje je daleko od optimalnog. Tek nekoliko neznatnih intervencija dovoljno je da u znatnoj mjeri olakša njihov rad i poboljša njegov kvalitet.
 
 ### Bilješka
 
