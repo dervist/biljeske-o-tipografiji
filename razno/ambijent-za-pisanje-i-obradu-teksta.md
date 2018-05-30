@@ -64,7 +64,7 @@ Savjeti u pogledu boje podloge i teksta mogu se svesti na sljedeće:
 
 ###  6. Uklanjanje svega što narušava koncentraciju
 
-Posljednji korak u kreiranju idealnog ambijenta za pisanje i uređenje teksta jest ukloniti iz vidokruga sve ono što bi moglo narušiti koncentraciju i na bilo koji način ometati misaoni proces. U praksi, to znači da treba privremeno isključiti sve obavijesti, zvučne ili vizuelne, o dospjelim porukama na koje nam razne aplikacije na našim računarima uredno skreću pažnju \(brojni autori prilikom pisanja koriste računar koji nema pristupa internetu, kako bi bili sigurni da ništa neće ometati kreativni proces\).
+Posljednji korak u kreiranju optimalnog ambijenta za pisanje i uređenje teksta jest ukloniti iz vidokruga sve ono što bi moglo narušiti koncentraciju i na bilo koji način ometati misaoni proces. U praksi, to znači da treba privremeno isključiti sve obavijesti, zvučne ili vizuelne, o dospjelim porukama na koje nam razne aplikacije na našim računarima uredno skreću pažnju \(brojni autori prilikom pisanja koriste računar koji nema pristupa internetu, kako bi bili sigurni da ništa neće ometati kreativni proces\).
 
 Osim sprečavanja raznih obavijesti, korisno je prilikom pisanja ukloniti i vizuelne elemente koji utječu na koncentraciju, a tu spadaju razni meniji, alatke, prozori, sličice koji su sastavni dio aplikacija za rad s tekstom. Većina aplikacija ima neku opciju za skrivanje svih neesencijalnih funkcija, bilo da se radi o zasebnom modusu ili običnoj “fullscreen” opciji, koja iz vidokruga uklanja sve elemente izuzev stranice s tekstom.
 
