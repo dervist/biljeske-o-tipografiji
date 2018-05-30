@@ -14,6 +14,10 @@ Ispostavilo se, međutim, da nisu samo programeri zadržali “antičke” fonto
 
 ![2 \| Pa&#x17E;ljivo odabran monospace font daje kvalitetan prikaz teksta, olak&#x161;ava njegovu obradu i omogu&#x107;ava lak&#x161;e uo&#x10D;avanje gre&#x161;aka.](../.gitbook/assets/iaduospace.png)
 
+Monospace fontovi idealni su za pisanje, oni nas već i samim svojim izgledom podsjećaju da naš posao još nije završen. Proporcionalni fontovi jasno nam daju do znanja da pred sobom imamo završen tekst koji još samo preostaje – pročitati.
+
+![3 \| iA Writer, aplikacija za mobilne telefone namijenjena za pisanje, jasno razdvaja pisanje i ure&#x111;enje teksta \(monospace font, lijevo\) od &#x10D;itanja \(proporcionalni font, desno\).](../.gitbook/assets/iawriter.jpg)
+
 Neki od kvalitetnijih monospace fontova jesu sljedeći: [iA Writer Duospace](https://www.fontsquirrel.com/fonts/ia-writer-duospace), [Source Code Pro](https://www.fontsquirrel.com/fonts/source-code-pro), Consolas \(koji se isporučuje uz novije Windows operativne sisteme\).
 
 ### 2. Dužina retka
