@@ -32,7 +32,7 @@ U knjigama, prored je obično jednostruk, iznosi **1**. Međutim, kada se tekst 
 
 ![3 \| Jednostruki prored \(lijevo\), iako prikladan za zavr&#x161;en i objavljen tekst, ote&#x17E;ava njegovo prire&#x111;ivanje. U radnoj verziji mnogo je podesnije koristiti prored 1,2 ili 1,5 \(desno\).](../.gitbook/assets/proredi.png)
 
-Neki autori i dalje praktikuju dvostruki prored, koji je bio pravilo kada su za pisanje korištene pisaće mašine – prazni prostor korišten je za opaske urednika i lektora. Kako su danas u praksi zastupljeni drugi metodi za korekciju teksta i pisanje opaski, makar kad se radi o elektronskim dokumentima, dvostruki prored izgubio je svrhu i rijetko se koristi.
+Neki autori i dalje praktikuju dvostruki prored, koji je bio pravilo kada su za pisanje korištene pisaće mašine – prazni prostor služio je za opaske urednika i lektora. Kako su danas u praksi zastupljeni drugi metodi za korekciju teksta i pisanje opaski, makar kad se radi o elektronskim dokumentima, dvostruki prored izgubio je svrhu i rijetko se koristi.
 
 ### 4. Veličina slova
 
