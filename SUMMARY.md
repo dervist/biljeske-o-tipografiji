@@ -22,4 +22,5 @@
 ## Razno
 
 * [Prevođenje i priprema djela za objavljivanje](razno/prevodenje-i-priprema-djela-za-objavljivanje.md)
+* [Kreiranje optimalnog ambijenta za pisanje i uređenje teksta](razno/ambijent-za-pisanje-i-obradu-teksta.md)
 
