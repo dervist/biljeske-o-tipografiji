@@ -16,7 +16,7 @@ Ispostavilo se, međutim, da nisu samo programeri zadržali “antičke” fonto
 
 Monospace fontovi idealni su za pisanje, oni nas već i samim svojim izgledom podsjećaju da naš posao još nije završen. Proporcionalni fontovi jasno nam daju do znanja da pred sobom imamo završen tekst koji još samo preostaje – pročitati.
 
-![3 \| iA Writer, aplikacija za mobilne telefone namijenjena za pisanje, jasno razdvaja pisanje i ure&#x111;enje teksta \(monospace font, lijevo\) od &#x10D;itanja \(proporcionalni font, desno\).](../.gitbook/assets/iawriter.jpg)
+![3 \| iA Writer, aplikacija za mobilne telefone namijenjena za pisanje, jasno razgrani&#x10D;ava pisanje, ure&#x111;enje teksta \(monospace font, lijevo\) i &#x10D;itanje \(proporcionalni font, desno\).](../.gitbook/assets/iawriter.jpg)
 
 Neki od kvalitetnijih monospace fontova jesu sljedeći: [iA Writer Duospace](https://www.fontsquirrel.com/fonts/ia-writer-duospace), [Source Code Pro](https://www.fontsquirrel.com/fonts/source-code-pro), Consolas \(koji se isporučuje uz novije Windows operativne sisteme\).
 
@@ -34,7 +34,7 @@ Idealna dužina retka iznosi **66** znakova, a minimalna **45** znakova. Neki su
 
 U knjigama, prored je obično jednostruk, iznosi **1**. Međutim, kada se tekst piše, pregleda i koriguje, jednostruki prored najčešće će biti premalen i korisno je povećati ga. Nema neke precizne mjere u pogledu veličine proreda, ali su vrijednosti između **1,2** i **1,5** najčešće korištene u praksi.
 
-![3 \| Jednostruki prored \(lijevo\), iako prikladan za zavr&#x161;en i objavljen tekst, ote&#x17E;ava njegovo prire&#x111;ivanje. U radnoj verziji mnogo je podesnije koristiti prored 1,2 ili 1,5 \(desno\).](../.gitbook/assets/proredi.png)
+![4 \| Jednostruki prored \(lijevo\), iako prikladan za zavr&#x161;en i objavljen tekst, ote&#x17E;ava njegovo prire&#x111;ivanje. U radnoj verziji mnogo je podesnije koristiti prored 1,2 ili 1,5 \(desno\).](../.gitbook/assets/proredi.png)
 
 Neki autori i dalje praktikuju dvostruki prored, koji je bio pravilo kada su za pisanje korištene pisaće mašine – prazni prostor služio je za opaske urednika i lektora. Kako su danas u praksi zastupljeni drugi metodi za korekciju teksta i pisanje opaski, makar kad se radi o elektronskim dokumentima, dvostruki prored izgubio je svrhu i rijetko se koristi.
 
@@ -64,7 +64,7 @@ Savjeti u pogledu boje podloge i teksta mogu se svesti na sljedeće:
 
 **3**. kada se čita u mraku, korisno je obrnuti boje: za podlogu koristiti crnu ili tamnosivu, dok slova trebaju biti bijela ili blago žućkasta.
 
-![4 \| &#x10C;isto bijela boja pozadine, naro&#x10D;ito kad se radi o ekranu koji je s&#x101;m izvor svjetlosti, umara oko. Blaga nijansa &#x17E;ute ili narand&#x17E;aste dobra su zamjena za bijelu boju.](../.gitbook/assets/boja-pozadine.png)
+![5 \| &#x10C;isto bijela boja pozadine, naro&#x10D;ito kad se radi o ekranu koji je s&#x101;m izvor svjetlosti, umara oko. Blaga nijansa &#x17E;ute ili narand&#x17E;aste dobra su zamjena za bijelu boju.](../.gitbook/assets/boja-pozadine.png)
 
 ###  6. Uklanjanje svega što narušava koncentraciju
 
