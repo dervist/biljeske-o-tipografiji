@@ -46,7 +46,7 @@ Korektori su vremenom razvili sistem obilježavanja grešaka u tekstu kako bi ol
 
 Korektorski znaci koristit će se kad se korektura vrši na papiru ili na elektronskom dokumentu namijenjenom za štampu \(PDF\).
 
-Kada se vrši korektura elektronskih knjige koje nisu statičnog karaktera \(epub, mobi, azw\), tada se neće koristiti ovi znaci, već će se, zbog prirode medija, koristiti tehnološke mogućnosti koje su na raspolaganju: markiranje grešaka i pojašnjenje ispravki u komentarima.
+Kada se vrši korektura elektronskih knjiga koje nisu statičnog karaktera \(epub, mobi, azw\), tada se neće koristiti ovi znaci, već će se, zbog prirode medija, koristiti tehnološke mogućnosti koje su na raspolaganju: markiranje grešaka i pojašnjenje ispravki u komentarima.
 
 —
 
