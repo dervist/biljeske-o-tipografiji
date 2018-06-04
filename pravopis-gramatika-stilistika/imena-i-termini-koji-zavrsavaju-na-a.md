@@ -18,7 +18,7 @@ Možemo kazati:
 
 također zadržavaju vokal _a_, npr. na Israu, u Belkau, dun’jaa i sl.
 
-**3**. Arapska imena i nazivi koji se završavaju na okruglo ta \(npr. حَمْزَةٌ – Hamza\) pišu se sa krajnjim _a_ koje se tretira identično domaćim ženskim imenima, npr. s Hamzom, u el-Bekari, Ebu Hurejrino i sl. Rod ovdje ne igra nikakvu ulogu.
+**3**. Arapska imena i nazivi koji se završavaju na okruglo ta \(npr. حَمْزَةٌ – Hamza\) pišu se sa krajnjim _a_ koje se tretira identično našim ženskim imenima, npr. s Hamzom, u el-Bekari, Ebu Hurejrino i sl. Rod ovdje ne igra nikakvu ulogu.
 
 **4**. U imenima koja se završavaju harfom ajn, krajnji se harf ne piše, ali će on utjecati na izgovor harfa s fethom koji dođe prije njega, pa će se fetha čitati kao kratki vokal _a_, npr.
 
@@ -30,7 +30,7 @@ Ako se na harfu ispred krajnjeg ajna nađe vokal _i_, tada će biti potrebno dod
 > Nafi – نَافِعُ: Nafiu &gt; Nafi’ &gt; Nafi: Nafija, Nafiju, Nafijem;  
 > Rebi – رَبِيعُ: Rebiu &gt; Rebi’ &gt; Rebi: Rebija, Rebiju, Rebijem.
 
-**5**. Ako riječ označava žensku osobu, tada u svim slučajevima imamo promjenu po padežima koja odgovara promjeni domaćih ženskih imena, bez obzira na to da li se riječ završavala:
+**5**. Ako riječ označava žensku osobu, tada u svim slučajevima imamo promjenu po padežima koja odgovara promjeni naših ženskih imena, bez obzira na to da li se riječ završavala:
 
 \(a\) dugim _a_ \(s nevokaliziranim elifom ili ja na kraju\), npr.
 
