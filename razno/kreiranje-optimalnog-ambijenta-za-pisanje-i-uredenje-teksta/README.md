@@ -58,7 +58,7 @@ Boja pozadine može u manjoj ili većoj mjeri utjecati na rad sa tekstom, jer ok
 
 Savjeti u pogledu boje podloge i teksta mogu se svesti na sljedeće:
 
-**1**. kontrast između teksta i pozadine treba biti dovoljno izražen da se oko ne mora naprezati kako bi razaznalo slova; slova se ne smiju slijevati u pozadinu \(npr. siva slova na malo svjetlijoj sivoj pozadini\), niti parati oko \(npr. jarkozelena slova na plavoj pozadini\);
+**1**. kontrast između teksta i pozadine treba biti dovoljno izražen da se oko ne mora naprezati kako bi razaznalo slova; slova se ne smiju slijevati u pozadinu \(npr. siva slova na malo svjetlijoj sivoj pozadini\), niti parati oko \(npr. jarkozelena slova na crvenoj pozadini\);
 
 **2**. iako je načelno najbolji izbor “crno na bijelom”, pokazalo se da čisto bijela podloga smeta oku mnogih čitalaca \(zbog čega se kvalitetne knjige štampaju na blago žućkastom papiru, ne čisto bijelom\), pa je dobro koristiti prljavo bijelu, blago žućkastu ili blago narandžastu boju umjesto čiste bijele;
 
