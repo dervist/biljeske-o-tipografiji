@@ -124,7 +124,7 @@ FocusWriter krije još neke mogućnosti koje nisu posebno istaknute u ovom osvrt
 
 ## Zaključak
 
-FocusWriter je jedna od onih aplikacija koje često promaknu nezapažene a čija je korist nemjerljiva. Uz malo eksperimentisanja i inventivnosti, autori mogu napraviti idealno okruženje za pisanje koje će se u potpunosti podudarati sa njihovim navikama, ukusima i potrebama.
+FocusWriter je jedna od onih aplikacija koje često promaknu nezapažene a čija je korist nemjerljiva. Uz malo eksperimentisanja i inventivnosti, autori mogu kreirati idealno okruženje za pisanje koje će se u potpunosti podudarati sa njihovim navikama, ukusima i potrebama.
 
 Iako postoji mnogo aplikacija slične namjene, ono što karakteriše FocusWriter jesu brzina, jednostavnost za korištenje i dostupnost na svim platformama – za razliku od preovladavajućih komercijalnih rješenja, kreator FocusWritera odlučio je da aplikaciju ponudi u vidu open-source aplikacije, besplatno, uz mogućnost donacije, ukoliko to neko poželi.
 
