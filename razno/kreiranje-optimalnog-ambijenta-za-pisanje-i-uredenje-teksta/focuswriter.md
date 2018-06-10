@@ -12,7 +12,7 @@ FocusWriter je jedna od ovih aplikacija. Za temu ovog osvrta odabrao sam upravo 
 2. posjeduje sve opcije i alatke neophodne za pisanje, od kojih je podrška za vizuelne teme revolucionarna i neprocjenjiva,
 3. objavljena je pod GPL3 licencom i spada u slobodni i open-source softver.
 
-Aplikacija se aktivno razvija od 2008. godine i dostupna je za sva tri glavna operativna sistema: Linux, Windows i Mac OS.
+Aplikacija se aktivno razvija od 2008. godine i dostupna je za sva tri glavna operativna sistema: Windows, Mac OS i Linux.
 
 ## Zašto i kada koristiti FocusWriter?
 
@@ -71,7 +71,7 @@ FocusWriter ne daje prikaz sadržaja, čak ni kada se dokument strukturira pomo�
 
 ![Scene olak&#x161;avaju navigaciju kroz dokument](../../.gitbook/assets/focuswriter-scenes.png)
 
-Početak nove scene označava se korištenjem razdjelnice koja je definisana u postavkama aplikacije \(Settings &gt; Preferences &gt; General &gt; Scene, odnosno Podešavanja &gt; Podešavanja &gt; Opća &gt; Scene\). Naprimjer, za odvajanje scena mogu se koristiti jedna ili više zvjezdica, ili crta, ili neki drugi znak, prema vlastitom odabiru. Autori koji koriste [markdown](http://commonmark.org/help/) notaciju prilikom pisanja mogu za razdjelnicu definisati znak \# i tako ustvari kreirati popis svih poglavlja, sekcija, podsekcija... – tipični sadržaj.
+Početak nove scene označava se korištenjem razdjelnice koja je definisana u postavkama aplikacije \(Settings &gt; Preferences &gt; General &gt; Scenes, odnosno Podešavanja &gt; Podešavanja &gt; Opća &gt; Scene\). Naprimjer, za odvajanje scena mogu se koristiti jedna ili više zvjezdica, ili crta, ili neki drugi znak, prema vlastitom odabiru. Autori koji koriste [markdown](http://commonmark.org/help/) notaciju prilikom pisanja mogu za razdjelnicu definisati znak \# i tako ustvari kreirati popis svih poglavlja, sekcija, podsekcija... – tipični sadržaj.
 
 Sve scene prikazane su u lijevom dijelu ekrana \(Shift+F4\).
 
@@ -79,11 +79,11 @@ Scene se mogu premještati prevlačenjem mišem u popisu scena, a mogu se i mark
 
 ### Jezik
 
-Iako provjeru pravopisa ne bi trebalo vršiti prilikom pisanja, FocusWriter ostavlja korisniku i tu mogućnost. Jezik teksta određuje se kroz Tools &gt; Language, odnosno Alatke &gt; Jezik, a rječnik se podešava u postavkama aplikacije, odjeljak Spellchecking, odnosno Provjera pravopisa.
+Iako provjeru pravopisa ne bi trebalo vršiti prilikom pisanja, FocusWriter ostavlja korisniku i tu mogućnost. Jezik teksta određuje se kroz Tools &gt; Set Language, odnosno Alatke &gt; Odredi jezik, a rječnik se podešava u postavkama aplikacije, odjeljak Spell Checking, odnosno Provjera pravopisa.
 
 ### Navodnici
 
-Osim odabira vrste navodnika u općim postavkama programa, FocusWriter nudi mogućnost automatske zamjene ravnih navodnika koji su ostali u tekstu koji je kopiran iz druge aplikacije ili dokumenta. Zamjena navodnika vrši se kroz Tools &gt; Smart Quotes &gt; Correct, odnosno Alatke &gt; Navodnici &gt; Ispravi u cijelom dokumentu ili označenom tekstu.
+Osim odabira vrste navodnika u općim postavkama programa, FocusWriter nudi mogućnost automatske zamjene ravnih navodnika koji su ostali u tekstu koji je kopiran iz druge aplikacije ili dokumenta. Zamjena navodnika vrši se kroz Tools &gt; Smart Quotes &gt; Update Document/Selection, odnosno Alatke &gt; Navodnici &gt; Ispravi u cijelom dokumentu ili označenom tekstu.
 
 Prilikom kucanja teksta, FocusWriter uvijek koristi prave navodnike koji su odabrani u postavkama programa.
 
@@ -118,20 +118,22 @@ Podsjetnici omogućavaju autoru da utvrdi vremenski period \(npr. 45 minuta\) ko
 
 Prilikom kreiranja novog podsjetnika, autor će utvrditi želi li da ga FocusWriter podsjeti nakon izvjesnog vremena \(npr. 30 minuta od momenta aktiviranja\) ili u tačno određeno vrijeme \(npr. u 14:30 sati\). Moguće je imati nekoliko podsjetnika aktivnih istovremeno, što može biti korisno za pisanje u intervalima.
 
-### Ostale mogućnosti
+### Ostale funkcije programa
 
-FocusWriter krije još neke mogućnosti koje nisu posebno istaknute u ovom osvrtu, poput pretrage, zvuka pisaće mašine prilikom kucanja, fokusiranja na jednu ili tri linije teksta, odnosno na pasus prilikom pisanja \(ostatak teksta je uklonjen iz fokusa, izbijeljen\) itd. Sve te opcije i mogućnosti dostupne su kroz menije i postavke aplikacije. Ono što je od posebnog značaja za mnoge autore jesu kratice, koje omogućavaju da se veliki broj funkcija koje se svakodnevno koriste aktiviraju kombinacijom tipki na tastaturi i tako olakšaju i ubrzaju rad. Vrijedi izdvojiti nekoliko minuta i upoznati se sa osnovnim kraticama u postavkama aplikacije.
+FocusWriter krije još neke funkcije koje nisu posebno istaknute u ovom osvrtu, poput pretrage, zvuka pisaće mašine prilikom kucanja, fokusiranja na jednu ili tri linije teksta, odnosno na pasus prilikom pisanja \(ostatak teksta je uklonjen iz fokusa, izbijeljen\) itd. Sve te funkcije, opcije i mogućnosti dostupne su kroz menije i postavke aplikacije. 
+
+Ono što je od posebnog značaja za mnoge autore jesu kratice, koje omogućavaju da se veliki broj funkcija koje se svakodnevno koriste aktiviraju kombinacijom tipki na tastaturi i tako olakša i ubrza rad. Vrijedi izdvojiti nekoliko minuta i upoznati se sa osnovnim kraticama u postavkama aplikacije.
 
 ## Zaključak
 
-FocusWriter je jedna od onih aplikacija koje često promaknu nezapažene a čija je korist nemjerljiva. Uz malo eksperimentisanja i inventivnosti, autori mogu kreirati idealno okruženje za pisanje koje će se u potpunosti podudarati sa njihovim navikama, ukusima i potrebama.
+FocusWriter je jedna od onih aplikacija koje često promaknu nezapažene, a čija je korist nemjerljiva. Uz malo eksperimentisanja i inventivnosti, autori mogu kreirati idealno okruženje za pisanje koje će se u potpunosti podudarati sa njihovim navikama, ukusima i potrebama.
 
-Iako postoji mnogo aplikacija slične namjene, ono što karakteriše FocusWriter jesu brzina, jednostavnost za korištenje i dostupnost na svim platformama – za razliku od preovladavajućih komercijalnih rješenja, kreator FocusWritera odlučio je da aplikaciju ponudi u vidu open-source aplikacije, besplatno, uz mogućnost donacije, ukoliko to neko poželi.
+Iako postoji mnogo aplikacija slične namjene, ono što karakteriše FocusWriter jesu brzina, jednostavnost za korištenje i dostupnost na sva tri glavna operativna sistema. Za razliku od preovladavajućih komercijalnih rješenja, kreator FocusWritera odlučio je da aplikaciju ponudi u vidu open-source aplikacije, besplatno, uz mogućnost donacije, ukoliko to neko poželi.
 
 FocusWriter dostupan je u većini Linux distribucija kroz njihove vlastite upravljače softverom, a verzije za sva tri operativna sistema mogu se pronaći na web-stranici: [https://gottcode.org/focuswriter/](https://gottcode.org/focuswriter/)
 
 {% hint style="info" %}
-FocusWriter preveden je na brojne jezike, pa i na bosanski \(koji će biti dostupan od verzije 1.6.14 ili 1.6.15\). Promjenu jezika aplikacije moguće je izvršiti kroz meni Settings &gt; Language, odnosno Podešavanja &gt; Jezik aplikacije.
+FocusWriter preveden je na brojne jezike, pa i na bosanski \(koji će biti dostupan od verzije 1.6.14 ili 1.6.15\). Promjenu jezika aplikacije moguće je izvršiti kroz meni Settings &gt; Application Language, odnosno Podešavanja &gt; Jezik aplikacije.
 {% endhint %}
 
 
