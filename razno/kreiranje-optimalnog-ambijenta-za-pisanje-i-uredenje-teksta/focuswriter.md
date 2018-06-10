@@ -2,9 +2,7 @@
 
 ## Svrha aplikacija za pisanje
 
-Slika
-
-Svrha je svih aplikacija kreiranih za potrebe autorā kreirati ugodno okruženje za pisanje, spriječiti smetnje te, idealno, podstaknuti kreativnost.
+Svrha je svih aplikacija kreiranih za potrebe autorā obezbijediti ugodno okruženje za pisanje, spriječiti smetnje te, idealno, podstaknuti kreativnost.
 
 Kako je većina popularnih aplikacija za rad s tekstom generičke prirode, kreirana za veliki broj pretpostavljenih slučajeva i situacija \(primarno za kancelarijski rad\), taj izostanak specijalizovanosti obično je za rezultat dao kruto i neimaginativno okruženje koje je teško ili nemoguće prilagoditi vlastitim potrebama. Zgražanje autora na kancelarijski softver koji dominira danas \(Microsoft Office Word, LibreOffice Writer\) rezultiralo je i pojavom sve većeg broja aplikacija specijalizovanih upravo za pisanje.
 
@@ -28,7 +26,7 @@ Kako je već spomenuto, FocusWriter je kreiran tako da prekriva čitav ekran i i
 
 – lijeva ivica otkriva popis scena – desna ivica otkriva letvicu za pomjeranje teksta – gornja ivica otkriva menije i alatke – donja ivica otkriva popis otvorenih dokumenata i statističke podatke.
 
-Slika sa pojašnjenjem sučelja
+![](../../.gitbook/assets/focuswriter-elementi-prozora.png)
 
 Spomenuti elementi mogu se prikazivati stalno, ako za tim postoji potreba, kroz aktiviranje odgovarajućih stavki u opcijama aplikacije.
 
@@ -46,11 +44,11 @@ Tema je skup postavki koje utvrđuju prikaz i rad aplikacije. Definisanjem teme 
 
 – izgled pozadine prozora \(jednobojna ili slika\) – izgled i dimenzije prostora za pisanje \(širina, visina, margine, font, providnost ...\) – prorede, prikaz teksta \(veličina, uvlačak, razmaci\).
 
-Slika s temom
+![Tema sa slikom u pozadini, prikladna za no&#x107;ni rad](../../.gitbook/assets/focuswriter-netrunner-dark.png)
 
 Ogromna je korist tema. Ne samo što omogućavaju da se udovolji različitim ukusima korisnikā – neko lakše radi kad pred sobom nema ništa izuzev kursora na bijeloj ili crnoj pozadini, dok neko preferira fotografiju koja ga opušta ili čak kreira vizuelni haos – teme imaju i funkcionalni značaj. Tako se mogu kreirati teme za različita raspoloženja ili dijelove dana \(dan ili noć\), ali i za različite vrste teksta. Naprimjer, autor putopisa može u pozadinu staviti kartu onih regija koje opisuje, autor romana može u pozadinu staviti sliku prirode dok opisuje krajolik, autor genealogije može u pozadinu staviti sliku sa porodičnim stablom itd. Konačno, mogu se kreirati različite teme tek radi promjene ili poticaja na razmišljanje, jer je čovjekova priroda takva da se brzo zasiti gledanja u jednu te istu okolinu. Teme mogu pomoći i u koncentraciji i djelovati inspirativno.
 
-Na sljedećem linku mogu se pronaći neke od mogućih vizuelnih rješenja: [https://photos.app.goo.gl/l11TF6w9X4E3GRdI3](https://photos.app.goo.gl/l11TF6w9X4E3GRdI3)
+Na sljedećem linku mogu se pronaći neka od mogućih vizuelnih rješenja: [https://photos.app.goo.gl/l11TF6w9X4E3GRdI3](https://photos.app.goo.gl/l11TF6w9X4E3GRdI3)
 
 ### Sesije
 
@@ -60,13 +58,13 @@ Izuzetna korisnost sesija ogleda se u tome što one nude mogućnost grupisanja t
 
 Sesije se kreiraju i mijenjaju kroz meni File \(Datoteka\). Kratica za brzi pristup glasi: Ctrl+Shift+M. Strelicama se odabere sesija, a pritiskom na Enter ona se otvara.
 
-Slika sa upravljačem sesija
+![Grupisanje dokumenata omogu&#x107;eno je putem sesija](../../.gitbook/assets/focuswriter-sessions%20%281%29.png)
 
 ### Scene
 
 FocusWriter ne daje prikaz sadržaja, čak ni kada se dokument strukturira pomoću odgovarajućih naslova \(Headings\). Umjesto toga, program omogućava podjelu teksta na _scene_, koja može poslužiti za lakšu navigaciju kroz tekst.
 
-Slika sa prikazom scena
+![Scene olak&#x161;avaju navigaciju kroz dokument](../../.gitbook/assets/focuswriter-scenes.png)
 
 Početak nove scene označava se korištenjem razdjelnice koja je definisana u postavkama aplikacije \(Settings &gt; Preferences &gt; General &gt; Scene, odnosno Podešavanja &gt; Podešavanja &gt; Opća &gt; Scene\). Naprimjer, za odvajanje scena mogu se koristiti jedna ili više zvjezdica, ili crta, ili neki drugi znak, prema vlastitom odabiru. Autori koji koriste [markdown](http://commonmark.org/help/) notaciju prilikom pisanja mogu za razdjelnicu definisati znak \# i tako ustvari kreirati popis svih poglavlja, sekcija, podsekcija... – tipični sadržaj.
 
@@ -82,19 +80,22 @@ Iako provjeru pravopisa ne bi trebalo vršiti prilikom pisanja, FocusWriter daje
 
 Osim odabira vrste navodnika u općim postavkama programa, FocusWriter nudi mogućnost automatske zamjene ravnih navodnika koji su ostali u tekstu koji je kopiran iz druge aplikacije ili dokumenta. Zamjena navodnika vrši se kroz Tools &gt; Smart Quotes &gt; Correct, odnosno Alatke &gt; Navodnici &gt; Ispravi u cijelom dokumentu ili označenom tekstu.
 
-Slike sa navodnicima
-
 Prilikom kucanja teksta uvijek se koriste pravi navodnici koji su odabrani u postavkama.
 
 ### Statistički podaci
 
 U donjem lijevom dijelu prozora prikazani su statistički podaci koji kazuju koliko dokument ima:
 
-– riječi, – stranica, – pasusa i – znakova \(bez razmaka / sa razmakom\).
+– riječi,  
+– stranica,  
+– pasusa i  
+– znakova \(bez razmaka / sa razmakom\).
 
 Koji će od ovih podataka biti prikazani definiše se u postavkama programa, u odjeljku Statistika. Na istom se mjestu mogu definisati i načini mjerenja nekih od ovih podataka. Naprimjer, broj riječi može se utvrditi kao stvarni broj ili prosječni \(ukupan broj znakova podijeljen sa šest\), dok se broj stranica može utvrditi na osnovu broja znakova, paragrafa ili riječi.
 
-> Ako se za utvrđivanje broja stranica definiše 1500 znakova, tad će jedna stranica predstavljati jednu karticu.
+{% hint style="info" %}
+Ako se za utvrđivanje broja stranica definiše 1500 ili 1800 znakova, tad će jedna stranica predstavljati jednu karticu.
+{% endhint %}
 
 ### Dnevni cilj
 
@@ -103,6 +104,8 @@ Vičnost pisanju rezultat je prakse. Mnogi autori nastoje pisati svakodnevno kak
 FocusWriter prati aktivnosti i u donjem središnjem dijelu prozora pokazuje procenat u kojem je zadati dnevni cilj ostvaren.
 
 Klikom na procenat \(ili Tools &gt; Daily progress, odnosno Alatke &gt; Dnevno napredovanje\) autor može provjeriti napredovanje i vidjeti koliko je dana uzastopno dostigao dnevni cilj \(prikazano u vidu nizova \(engl. streaks\).
+
+![Kalendar pokazuje u kojim je danima ostvaren zadati dnevni cilj](../../.gitbook/assets/focuswriter-daily-goal.png)
 
 ### Podsjetnici
 
@@ -122,5 +125,9 @@ Iako postoji mnogo aplikacija slične namjene, ono što karakteriše FocusWriter
 
 FocusWriter dostupan je u većini Linux distribucija kroz njihove vlastite upravljače softverom, a verzije za sva tri operativna sistema mogu se pronaći na web-stranici: [https://gottcode.org/focuswriter/](https://gottcode.org/focuswriter/)
 
-> FocusWriter preveden je na brojne jezike, pa i na bosanski \(od verzije 1.6.14\). Promjenu jezika aplikacije moguće je izvršiti kroz meni Settings &gt; Language, odnosno Podešavanja &gt; Jezik aplikacije.
+{% hint style="info" %}
+FocusWriter preveden je na brojne jezike, pa i na bosanski \(od verzije 1.6.14\). Promjenu jezika aplikacije moguće je izvršiti kroz meni Settings &gt; Language, odnosno Podešavanja &gt; Jezik aplikacije.
+{% endhint %}
+
+
 
