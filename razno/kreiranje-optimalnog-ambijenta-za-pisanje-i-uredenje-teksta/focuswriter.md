@@ -24,11 +24,14 @@ FocusWriter namijenjen je za pisanje prve radne verzije teksta. Iako se može ko
 
 Kako je već spomenuto, FocusWriter je kreiran tako da prekriva čitav ekran i iz vidokruga je uklonjeno sve osim prostora za pisanje, kursora i pozadine. Svi elementi prozora otkrivaju se tek kad se nadnese kursor miša nad jednu od četiri ivice prozora:
 
-– lijeva ivica otkriva popis scena – desna ivica otkriva letvicu za pomjeranje teksta – gornja ivica otkriva menije i alatke – donja ivica otkriva popis otvorenih dokumenata i statističke podatke.
+– lijeva ivica otkriva popis scena,  
+– desna ivica otkriva letvicu za pomjeranje teksta,  
+– gornja ivica otkriva menije i alatke,  
+– donja ivica otkriva popis otvorenih dokumenata i statističke podatke.
 
 ![](../../.gitbook/assets/focuswriter-elementi-prozora.png)
 
-Spomenuti elementi mogu se prikazivati stalno, ako za tim postoji potreba, kroz aktiviranje odgovarajućih stavki u opcijama aplikacije.
+Spomenuti elementi mogu se prikazivati stalno, ako za tim postoji potreba, kroz aktiviranje odgovarajućih stavki u postavkama aplikacije.
 
 ### Tekst
 
@@ -42,7 +45,9 @@ Teme su jedan od glavnih aduta FocusWritera. Umjesto okruženja uklesanog u kame
 
 Tema je skup postavki koje utvrđuju prikaz i rad aplikacije. Definisanjem teme korisnik određuje:
 
-– izgled pozadine prozora \(jednobojna ili slika\) – izgled i dimenzije prostora za pisanje \(širina, visina, margine, font, providnost ...\) – prorede, prikaz teksta \(veličina, uvlačak, razmaci\).
+– izgled pozadine prozora \(jednobojna ili slika\),  
+– izgled i dimenzije prostora za pisanje \(širina, visina, margine, font, providnost ...\),  
+– prorede, prikaz teksta \(veličina, uvlačak, razmaci\).
 
 ![Tema sa slikom u pozadini, prikladna za no&#x107;ni rad](../../.gitbook/assets/focuswriter-netrunner-dark.png)
 
@@ -56,9 +61,9 @@ FocusWriter omogućava da se istovremeno otvori više dokumenata i oni su prikaz
 
 Izuzetna korisnost sesija ogleda se u tome što one nude mogućnost grupisanja tekstova. Tako, naprimjer, autor može kreirati sesiju za roman koji piše i otvoriti sve datoteke koje su za njega relevantne: sva poglavlja, dokumente sa popisom imena glavnih i sporednih likova, lokacija, događaja itd. koje će biti automatski otvorene i dostupne prilikom svakog pokretanja aplikacije i koristeći odgovarajuću temu; za tekstove koje piše za lokalne novine može kreirati sesiju sa drugom temom i otvoriti datoteke koje su mu za pisanje članaka bitne; za dnevnik može kreirati zasebnu sesiju, itd. Mogućnosti su beskrajne.
 
-Sesije se kreiraju i mijenjaju kroz meni File \(Datoteka\). Kratica za brzi pristup glasi: Ctrl+Shift+M. Strelicama se odabere sesija, a pritiskom na Enter ona se otvara.
+Sesije se kreiraju i mijenjaju kroz meni File, odnosno Datoteka. Kratica za brzi pristup glasi: Ctrl+Shift+M. Strelicama se odabere sesija, a pritiskom na Enter ona se otvara.
 
-![Grupisanje dokumenata omogu&#x107;eno je putem sesija](../../.gitbook/assets/focuswriter-sessions%20%281%29.png)
+![Sesije omogu&#x107;avaju grupisanje dokumenata koji pripadaju zajedni&#x10D;kom projektu ili &#x10D;ine logi&#x10D;ku cjelinu](../../.gitbook/assets/focuswriter-sessions%20%281%29.png)
 
 ### Scene
 
@@ -74,13 +79,13 @@ Scene se mogu premještati prevlačenjem mišem u popisu scena, a mogu se i mark
 
 ### Jezik
 
-Iako provjeru pravopisa ne bi trebalo vršiti prilikom pisanja, FocusWriter daje korisniku i tu mogućnost. Jezik teksta određuje se kroz Tools &gt; Language, odnosno Alatke &gt; Jezik, a rječnik se podešava u postavkama aplikacije, odjeljak Spellchecking, odnosno Provjera pravopisa.
+Iako provjeru pravopisa ne bi trebalo vršiti prilikom pisanja, FocusWriter ostavlja korisniku i tu mogućnost. Jezik teksta određuje se kroz Tools &gt; Language, odnosno Alatke &gt; Jezik, a rječnik se podešava u postavkama aplikacije, odjeljak Spellchecking, odnosno Provjera pravopisa.
 
 ### Navodnici
 
 Osim odabira vrste navodnika u općim postavkama programa, FocusWriter nudi mogućnost automatske zamjene ravnih navodnika koji su ostali u tekstu koji je kopiran iz druge aplikacije ili dokumenta. Zamjena navodnika vrši se kroz Tools &gt; Smart Quotes &gt; Correct, odnosno Alatke &gt; Navodnici &gt; Ispravi u cijelom dokumentu ili označenom tekstu.
 
-Prilikom kucanja teksta uvijek se koriste pravi navodnici koji su odabrani u postavkama.
+Prilikom kucanja teksta, FocusWriter uvijek koristi prave navodnike koji su odabrani u postavkama programa.
 
 ### Statistički podaci
 
@@ -99,11 +104,11 @@ Ako se za utvrđivanje broja stranica definiše 1500 ili 1800 znakova, tad će j
 
 ### Dnevni cilj
 
-Vičnost pisanju rezultat je prakse. Mnogi autori nastoje pisati svakodnevno kako bi stekli naviku i ispekli zanat. FocusWriter omogućava određivanje dnevnog cilja u pogledu pisanja \(postavke aplikacije &gt; Dnevni cilj\), gdje se može odrediti koliko se vremena dnevno želi provoditi pišući ili koliko će se riječi dnevno pisati.
+Vičnost pisanju rezultat je prakse. Mnogi autori nastoje pisati svakodnevno kako bi stekli naviku i ispekli zanat. FocusWriter omogućava utvrđivanje dnevnog cilja u pogledu pisanja, gdje se može odrediti koliko se vremena dnevno želi provoditi pišući ili koliko će se riječi dnevno pisati.
 
 FocusWriter prati aktivnosti i u donjem središnjem dijelu prozora pokazuje procenat u kojem je zadati dnevni cilj ostvaren.
 
-Klikom na procenat \(ili Tools &gt; Daily progress, odnosno Alatke &gt; Dnevno napredovanje\) autor može provjeriti napredovanje i vidjeti koliko je dana uzastopno dostigao dnevni cilj \(prikazano u vidu nizova \(engl. streaks\).
+Klikom na procenat \(ili Tools &gt; Daily progress, odnosno Alatke &gt; Dnevno napredovanje\) autor može provjeriti napredovanje i vidjeti koliko je dana uzastopno dostigao dnevni cilj \(prikazano u vidu nizova /engl. streaks/\).
 
 ![Kalendar pokazuje u kojim je danima ostvaren zadati dnevni cilj](../../.gitbook/assets/focuswriter-daily-goal.png)
 
@@ -111,11 +116,11 @@ Klikom na procenat \(ili Tools &gt; Daily progress, odnosno Alatke &gt; Dnevno n
 
 Podsjetnici omogućavaju autoru da utvrdi vremenski period \(npr. 45 minuta\) koliko želi pisati, nakon kojega će napraviti pauzu. Podsjetnicima se upravlja klikom na kružić ispred sata u donjem desnom uglu prozora.
 
-Prilikom kreiranja novog podsjetnika, autor će utvrditi da li želi da ga FocusWriter podsjeti nakon izvjesnog vremena \(npr. 30 minuta od momenta aktiviranja\) ili u tačno određeno vrijeme \(npr. u 14:30 sati\). Moguće je imati nekoliko podsjetnika aktivnih istovremeno, što može biti korisno za pisanje u intervalima.
+Prilikom kreiranja novog podsjetnika, autor će utvrditi želi li da ga FocusWriter podsjeti nakon izvjesnog vremena \(npr. 30 minuta od momenta aktiviranja\) ili u tačno određeno vrijeme \(npr. u 14:30 sati\). Moguće je imati nekoliko podsjetnika aktivnih istovremeno, što može biti korisno za pisanje u intervalima.
 
 ### Ostale mogućnosti
 
-FocusWriter krije još neke mogućnosti koje nisu posebno istaknute u ovom osvrtu, poput pretrage, zvuka pisaće mašine prilikom kucanja, fokusiranja na jednu ili tri linije teksta, odnosno na paragraf prilikom pisanja \(ostatak teksta je uklonjen iz focusa, izbijeljen\) itd. Sve te opcije i mogućnosti dostupne su kroz menije i postavke aplikacije. Ono što je od posebnog značaja za mnoge autore jesu kratice, koje omogućavaju da se veliki broj funkcija koje se svakodnevno koriste aktiviraju kombinacijom tipaka na tastaturi i tako olakšaju i ubrzaju rad. Vrijedi izdvojiti nekoliko minuta i upoznati se sa osnovnim kraticama u postavkama aplikacije.
+FocusWriter krije još neke mogućnosti koje nisu posebno istaknute u ovom osvrtu, poput pretrage, zvuka pisaće mašine prilikom kucanja, fokusiranja na jednu ili tri linije teksta, odnosno na pasus prilikom pisanja \(ostatak teksta je uklonjen iz fokusa, izbijeljen\) itd. Sve te opcije i mogućnosti dostupne su kroz menije i postavke aplikacije. Ono što je od posebnog značaja za mnoge autore jesu kratice, koje omogućavaju da se veliki broj funkcija koje se svakodnevno koriste aktiviraju kombinacijom tipki na tastaturi i tako olakšaju i ubrzaju rad. Vrijedi izdvojiti nekoliko minuta i upoznati se sa osnovnim kraticama u postavkama aplikacije.
 
 ## Zaključak
 
