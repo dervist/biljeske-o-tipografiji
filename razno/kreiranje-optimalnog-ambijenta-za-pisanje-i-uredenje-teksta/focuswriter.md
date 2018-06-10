@@ -131,7 +131,7 @@ Iako postoji mnogo aplikacija slične namjene, ono što karakteriše FocusWriter
 FocusWriter dostupan je u većini Linux distribucija kroz njihove vlastite upravljače softverom, a verzije za sva tri operativna sistema mogu se pronaći na web-stranici: [https://gottcode.org/focuswriter/](https://gottcode.org/focuswriter/)
 
 {% hint style="info" %}
-FocusWriter preveden je na brojne jezike, pa i na bosanski \(od verzije 1.6.14\). Promjenu jezika aplikacije moguće je izvršiti kroz meni Settings &gt; Language, odnosno Podešavanja &gt; Jezik aplikacije.
+FocusWriter preveden je na brojne jezike, pa i na bosanski \(koji će biti dostupan od verzije 1.6.14 ili 1.6.15\). Promjenu jezika aplikacije moguće je izvršiti kroz meni Settings &gt; Language, odnosno Podešavanja &gt; Jezik aplikacije.
 {% endhint %}
 
 
