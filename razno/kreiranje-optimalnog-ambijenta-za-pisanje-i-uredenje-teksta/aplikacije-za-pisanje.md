@@ -14,13 +14,13 @@ Ove faze mogu se, za potrebe ovog teksta, sažeti u tri ključne:
 
 1. pisanje,
 2. uređivanje,
-3. dizajn.
+3. dizajniranje.
 
 Shodno ovakvoj podjeli, razlikujemo i tri vrste aplikacija koje služe kao tehnička podrška u navedenim fazama:
 
 1. aplikacije za pisanje,
 2. aplikacije za obradu i uređivanje teksta,
-3. aplikacije za dizajn i pripremu za štampu.
+3. aplikacije za dizajniranje i pripremu za štampu.
 
 ## 1. Aplikacije za pisanje
 
@@ -48,7 +48,7 @@ Aplikacije koje olakšavaju timsko uređivanje teksta: [Google Docs](https://www
 
 Aplikacije koje su pogodne za uređenje, naročito ako se ne radi o timskom radu: [LibreOffice Writer](https://www.libreoffice.org/), [Microsoft Office Word](https://products.office.com/en/word), [SoftMaker TextMaker](http://www.softmaker.com/en/softmaker-office-windows-textmaker).
 
-## 3. Aplikacije za dizajn i pripremu za štampu
+## 3. Aplikacije za dizajniranje i pripremu za štampu
 
 Autori rijetko učestvuju u fazi dizajna, izuzev ako se radi o samoizdavaštvu, gdje je autor nerijetko i autor, i urednik, i lektor, i recenzent, i dizajner, i izdavač. Ono što treba napomenuti u vezi s ovom fazom jeste to da je odgovarajuća alatka krucijalna za kvalitetan dizajn, ali ne i dovoljna: dobro poznavanje principa tipografije i dizajna prvi je i najvažniji preduslov za kreiranje kvalitetnog dizajna.
 
