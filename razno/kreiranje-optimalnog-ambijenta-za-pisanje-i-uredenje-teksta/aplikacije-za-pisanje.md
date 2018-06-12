@@ -6,7 +6,7 @@ Svaki tekst, bio to kratki članak ili višetomni roman, prolazi kroz nekoliko f
 2. pisanje prve verzije,
 3. uređivanje prve verzije \(obično nakon evaluacije i povratnih informacija užeg kruga čitalaca\),
 4. uređivanje druge, treće, ... verzije,
-5. pripreme teksta za objavljivanje \(uređivanje, lektura, recenzija itd.\),
+5. pripremanje teksta za objavljivanje \(uređivanje, lektura, recenzija itd.\),
 6. izrada koncepta dizajna, implementacija koncepta i dizajniranje,
 7. korektura i objavljivanje djela.
 
@@ -30,7 +30,7 @@ Odabir odgovarajuće aplikacije za pisanje može biti presudno za kvalitet djela
 
 Drevna je mudrost da za svaki posao valja koristiti najpodesniju alatku. Da uobičajeni programi koji se koriste za rad s tekstom, poput Microsoft Office Worda, LibreOffice Writera, Google Docsa i drugih kancelarijskih aplikacija, nisu najpodesnija alatka i da su u manjoj ili većoj mjeri loš izbor za veliki broj autora, nije teško dokazati: isti prazni list papira sa desetinama sličica i alatki koje su irelevantne za fazu pisanja i koje će biti tek distrakcija nimalo neće podstaknuti maštu autora niti ga potaknuti na pisanje – efekat je obično upravo suprotan tome; neprilagodljivost programa, izostanak tematske podrške i nemogućnost kreiranja okruženja prema vlastitim potrebama, vrsti djela i ukusu, kao i pretrpanost bespotrebnim opcijama samo su neki od razloga za odbacivanje kancelarijskih aplikacija i korištenje onih programa koji su kreirani za autore.
 
-Aplikacija namijenjenih za pisanje ima mnogo. Neke od njih jesu sljedeće: [FocusWriter](https://gottcode.org/focuswriter/), [iA Writer](https://ia.net/writer), [Writemonkey](http://writemonkey.com/) [OmmWriter](https://ommwriter.com/) itd.
+Aplikacija namijenjenih za pisanje ima mnogo. Neke od njih jesu sljedeće: [FocusWriter](https://gottcode.org/focuswriter/), [iA Writer](https://ia.net/writer), [Writemonkey](http://writemonkey.com/), [OmmWriter](https://ommwriter.com/) itd.
 
 Za autore koji rade na izrazito kompleksnim djelima interesantne će biti aplikacije koje olakšavaju izradu koncepta, pisanje i uređivanje složenijih radova \(romana, eseja, disertacija\): [Scrivener](https://www.literatureandlatte.com/scrivener/overview), [Writers Cafe](http://www.writerscafe.co.uk/), [Manuskript](http://www.theologeek.ch/manuskript/), [QuollWriter](http://quollwriter.com/), [yWriter](http://www.spacejock.com/yWriter6.html), [bibisco](http://www.bibisco.com/).
 
