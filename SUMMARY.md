@@ -22,7 +22,7 @@
 ## Razno
 
 * [Prevođenje i priprema djela za objavljivanje](razno/prevodenje-i-priprema-djela-za-objavljivanje.md)
-* [Kreiranje optimalnog ambijenta za pisanje i uređivanje teksta](razno/kreiranje-optimalnog-ambijenta-za-pisanje-i-uredenje-teksta/README.md)
-  * [Aplikacije za autore, urednike, dizajnere](razno/kreiranje-optimalnog-ambijenta-za-pisanje-i-uredenje-teksta/aplikacije-za-pisanje.md)
-  * [FocusWriter](razno/kreiranje-optimalnog-ambijenta-za-pisanje-i-uredenje-teksta/focuswriter.md)
+* [Kreiranje optimalnog ambijenta za pisanje i uređivanje teksta](razno/kreiranje-optimalnog-ambijenta-za-pisanje-i-uredivanje-teksta/README.md)
+  * [Aplikacije za autore, urednike, dizajnere](razno/kreiranje-optimalnog-ambijenta-za-pisanje-i-uredivanje-teksta/aplikacije-za-autore-urednike-dizajnere.md)
+  * [FocusWriter](razno/kreiranje-optimalnog-ambijenta-za-pisanje-i-uredivanje-teksta/focuswriter.md)
 
