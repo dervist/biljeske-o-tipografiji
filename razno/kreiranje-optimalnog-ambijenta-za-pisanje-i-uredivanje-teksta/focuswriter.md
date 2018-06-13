@@ -22,7 +22,7 @@ FocusWriter namijenjen je za pisanje prve radne verzije teksta. Iako se može ko
 
 ### Prikaz
 
-Kako je već spomenuto, FocusWriter je kreiran tako da prekriva čitav ekran i iz vidokruga je uklonjeno sve osim prostora za pisanje, kursora i pozadine. Svi elementi prozora otkrivaju se tek kad se nadnese kursor miša nad jednu od četiri ivice prozora:
+Kako je već spomenuto, FocusWriter je kreiran tako da prekriva čitav ekran i iz vidokruga je uklonjeno sve osim prostora za pisanje, kursora i pozadine. Svi elementi prozora otkrivaju se tek kad se kursor miša nadnese nad jednu od četiri ivice prozora:
 
 – lijeva ivica otkriva popis scena,  
 – desna ivica otkriva letvicu za pomjeranje teksta,  
