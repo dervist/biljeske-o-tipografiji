@@ -32,9 +32,9 @@ Drevna je mudrost da za svaki posao valja koristiti najpodesniju alatku. Da uobi
 
 Aplikacija namijenjenih za pisanje ima mnogo. Neke od njih jesu sljedeće: [FocusWriter](https://gottcode.org/focuswriter/), [iA Writer](https://ia.net/writer), [Writemonkey](http://writemonkey.com/), [OmmWriter](https://ommwriter.com/) itd.
 
-Za autore koji rade na izrazito kompleksnim djelima interesantne će biti aplikacije koje olakšavaju izradu koncepta, pisanje i uređivanje složenijih radova \(romana, eseja, disertacija\): [Scrivener](https://www.literatureandlatte.com/scrivener/overview), [Writers Cafe](http://www.writerscafe.co.uk/), [Manuskript](http://www.theologeek.ch/manuskript/), [QuollWriter](http://quollwriter.com/), [yWriter](http://www.spacejock.com/yWriter6.html), [bibisco](http://www.bibisco.com/).
+Za autore koji rade na izrazito kompleksnim djelima interesantne će biti aplikacije koje olakšavaju izradu koncepta, pisanje i uređivanje složenijih radova \(romana, eseja, disertacija\): [Scrivener](https://www.literatureandlatte.com/scrivener/overview), [Writers Cafe](http://www.writerscafe.co.uk/), [Plume Creator](https://plume-creator.eu/), [Manuskript](http://www.theologeek.ch/manuskript/), [QuollWriter](http://quollwriter.com/), [yWriter](http://www.spacejock.com/yWriter6.html), [bibisco](http://www.bibisco.com/).
 
-Aplikacije koje neće olakšati pisanje, ali su prikladne za fazu uređivanja teksta: [LibreOffice Writer](https://www.libreoffice.org/), [Microsoft Office Word](https://products.office.com/en/word), [Google Docs](https://www.google.com/docs/about/), [SoftMaker TextMaker](http://www.softmaker.com/en/softmaker-office-windows-textmaker).
+Aplikacije koje neće olakšati pisanje, ali su prikladne za fazu uređivanja teksta: [Microsoft Office Word](https://products.office.com/en/word), [LibreOffice Writer](https://www.libreoffice.org/), [Google Docs](https://www.google.com/docs/about/), [SoftMaker TextMaker](http://www.softmaker.com/en/softmaker-office-windows-textmaker).
 
 ## 2. Aplikacije za obradu i uređivanje teksta
 
