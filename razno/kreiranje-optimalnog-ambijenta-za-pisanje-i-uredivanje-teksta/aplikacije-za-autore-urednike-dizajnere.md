@@ -24,7 +24,7 @@ Shodno ovakvoj podjeli, razlikujemo i tri vrste aplikacija koje služe kao tehni
 
 ## 1. Aplikacije za pisanje
 
-Pisanje djela, ta prva faza nakon izrađenog koncepta, kreativni je proces tokom kojega je cilj svu mentalnu i kreativnu energiju usmjeriti na tekst, ideje, riječi, rečenice i omogućiti nesmetani tok misaonog procesa. Sve što narušava koncentraciju na bilo koji način treba eliminisati.
+Pisanje djela, ta prva faza nakon izrađenog koncepta, kreativni je proces tokom kojega je cilj svu mentalnu i kreativnu energiju usmjeriti na tekst, ideje, riječi, rečenice i omogućiti nesmetani tok misaonog procesa. Sve što na bilo koji način narušava koncentraciju treba eliminisati.
 
 Odabir odgovarajuće aplikacije za pisanje može biti presudno za kvalitet djela, ali i motivaciju autora – aplikacije za pisanje kao svoju primarnu funkciju ističu kreiranje ugodnog ambijenta podesnog za pisanje koji će ne samo spriječiti sve smetnje i odvraćanje pažnje sa teksta već i podstaknuti na pisanje, potaknuti kreativnost i inspiraciju, kao i makar djelimično pomoći u sprečavanju ili otklanjanju “autorske blokade”.
 
