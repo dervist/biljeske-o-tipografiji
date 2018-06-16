@@ -9,7 +9,7 @@ Kako je većina popularnih aplikacija za rad s tekstom generičke prirode, kreir
 FocusWriter je jedna od ovih aplikacija. Za temu ovog osvrta odabrao sam upravo ovu aplikaciju iz tri razloga:
 
 1. izrazito je jednostavna za korištenje: čitava obuka traje svega nekoliko minuta, koliko je potrebno da se pregledaju meniji i dostupne mogućnosti aplikacije,
-2. posjeduje sve opcije i alatke neophodne za pisanje, od kojih je podrška za vizuelne teme neprocjenjiva,
+2. posjeduje sve opcije i alatke neophodne za pisanje; mogućnost kreiranja vizuelnih tema treba posebno istaknuti jer je njihov značaj neprocjenjiv,
 3. objavljena je pod GPL3 licencom i spada u slobodni i open-source softver.
 
 Aplikacija se aktivno razvija od 2008. godine i dostupna je za sva tri glavna operativna sistema: Windows, Mac OS i Linux.
