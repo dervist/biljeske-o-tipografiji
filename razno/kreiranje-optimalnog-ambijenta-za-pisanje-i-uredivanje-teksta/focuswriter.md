@@ -22,7 +22,7 @@ FocusWriter namijenjen je za pisanje prve radne verzije teksta. Iako se može ko
 
 ### Prikaz
 
-Kako je već spomenuto, FocusWriter je kreiran tako da prekriva čitav ekran i iz vidokruga je uklonjeno sve osim prostora za pisanje, kursora i pozadine. Svi elementi prozora otkrivaju se tek kad se kursor miša nadnese nad jednu od četiri ivice prozora:
+FocusWriter kreiran je tako da prekriva čitav ekran, čime je iz vidokruga uklonjeno sve osim prostora za pisanje, kursora i pozadine. Svi elementi prozora otkrivaju se tek kad se kursor miša nadnese nad jednu od četiri ivice prozora:
 
 – lijeva ivica otkriva popis scena,  
 – desna ivica otkriva letvicu za pomjeranje teksta,  
@@ -51,9 +51,9 @@ Tema je skup postavki koje utvrđuju prikaz i rad aplikacije. Definisanjem teme 
 
 ![Tema sa slikom u pozadini, prikladna za no&#x107;ni rad](../../.gitbook/assets/focuswriter-netrunner-dark.png)
 
-Ogromna je korist tema. Ne samo što omogućavaju da se udovolji različitim ukusima korisnikā – neko lakše radi kad pred sobom nema ništa izuzev kursora na bijeloj ili crnoj pozadini, dok neko preferira fotografiju koja ga opušta ili čak kreira vizuelni haos – teme imaju i funkcionalni značaj. Tako se mogu kreirati teme za različita raspoloženja ili dijelove dana \(dan ili noć\), ali i za različite vrste teksta. Naprimjer, autor putopisa može u pozadinu staviti kartu onih regija koje opisuje, autor romana može u pozadinu staviti sliku prirode dok opisuje krajolik, autor genealogije može u pozadinu staviti sliku sa porodičnim stablom itd. Konačno, mogu se kreirati različite teme tek radi promjene ili poticaja na razmišljanje, jer je čovjekova priroda takva da se brzo zasiti gledanja u jednu te istu okolinu. Teme mogu pomoći i u koncentraciji i djelovati inspirativno.
+Ogromna je korist tema. Ne samo što omogućavaju da se udovolji različitim ukusima korisnikā – neko lakše radi kad pred sobom nema ništa izuzev kursora na bijeloj ili crnoj pozadini, dok neko preferira fotografiju koja opušta ili čak kreira vizuelni haos – teme imaju i funkcionalni značaj. Tako se mogu kreirati teme za različita raspoloženja ili dijelove dana \(dan ili noć\), ali i za različite vrste teksta. Naprimjer, autor putopisa može u pozadinu staviti kartu onih regija koje opisuje, autor romana može u pozadinu staviti sliku prirode dok opisuje krajolik, autor genealogije može u pozadinu staviti sliku sa porodičnim stablom itd. Konačno, mogu se kreirati različite teme tek radi promjene ili poticaja na razmišljanje, jer je čovjekova priroda takva da se brzo zasiti gledanja u jednu te istu okolinu. Teme mogu poboljšati koncentraciju i djelovati inspirativno.
 
-Na sljedećem linku mogu se pronaći neka od mogućih vizuelnih rješenja: [https://photos.app.goo.gl/l11TF6w9X4E3GRdI3](https://photos.app.goo.gl/l11TF6w9X4E3GRdI3)
+Na sljedećem linku mogu se vidjeti neka od mogućih vizuelnih rješenja: [https://photos.app.goo.gl/l11TF6w9X4E3GRdI3](https://photos.app.goo.gl/l11TF6w9X4E3GRdI3)
 
 ### Sesije
 
