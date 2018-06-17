@@ -34,7 +34,7 @@ Aplikacija namijenjenih za pisanje ima mnogo. Neke od njih jesu sljedeće: [Focu
 
 Za autore koji rade na kompleksnim djelima interesantne će biti robusnije aplikacije koje olakšavaju izradu koncepta, pisanje i uređivanje složenih radova \(romana, disertacija i sl.\): [Scrivener](https://www.literatureandlatte.com/scrivener/overview), [Writer’s Cafe](http://www.writerscafe.co.uk/), [Plume Creator](https://plume-creator.eu/), [Manuskript](http://www.theologeek.ch/manuskript/), [QuollWriter](http://quollwriter.com/), [yWriter](http://www.spacejock.com/yWriter6.html), [bibisco](http://www.bibisco.com/).
 
-Aplikacije koje neće olakšati pisanje, ali su prikladne za fazu uređivanja teksta: [LibreOffice Writer](https://www.libreoffice.org/), [Microsoft Office Word](https://products.office.com/en/word), [Google Docs](https://www.google.com/docs/about/), [SoftMaker TextMaker](http://www.softmaker.com/en/softmaker-office-windows-textmaker).
+Aplikacije koje neće olakšati pisanje – a rad na kompleksnim djelima učinit će bespotrebno mukotrpnim – ali koje su manje-više prikladne za fazu uređivanja teksta: [LibreOffice Writer](https://www.libreoffice.org/), [Microsoft Office Word](https://products.office.com/en/word), [Google Docs](https://www.google.com/docs/about/), [SoftMaker TextMaker](http://www.softmaker.com/en/softmaker-office-windows-textmaker).
 
 ## 2. Aplikacije za obradu i uređivanje teksta
 
