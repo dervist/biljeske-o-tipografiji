@@ -6,7 +6,7 @@ Svrha je svih aplikacija kreiranih za potrebe autorā obezbijediti ugodno okruž
 
 Kako je većina popularnih aplikacija za rad s tekstom generičke prirode, kreirana za veliki broj pretpostavljenih slučajeva i situacija \(primarno za kancelarijski rad i redovno ignorišući potrebe autorā\), taj izostanak specijalizovanosti obično je za rezultat dao kruto i neimaginativno okruženje koje je teško ili nemoguće prilagoditi vlastitim potrebama. Zgražanje autora na kancelarijski softver koji dominira danas \(Microsoft Office Word\) rezultiralo je i pojavom sve većeg broja aplikacija specijalizovanih upravo za pisanje.
 
-FocusWriter je jedna od ovih aplikacija. Za temu ovog osvrta odabrao sam upravo ovu aplikaciju iz tri razloga:
+[FocusWriter](https://gottcode.org/focuswriter/?utm_source=next.36kr.com) je jedna od ovih aplikacija. Za temu ovog osvrta odabrao sam upravo ovu aplikaciju iz tri razloga:
 
 1. izrazito je jednostavna za korištenje: čitava obuka traje svega nekoliko minuta, koliko je potrebno da se pregledaju meniji i dostupne mogućnosti aplikacije,
 2. posjeduje sve opcije i alatke neophodne za pisanje; mogućnost kreiranja vizuelnih tema treba posebno istaknuti jer je njihov značaj neprocjenjiv,
