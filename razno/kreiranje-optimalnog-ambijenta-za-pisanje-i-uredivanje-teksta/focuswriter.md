@@ -43,7 +43,7 @@ Iako program podržava definisanje naslova \(Heading 1 ... Heading 6\), radi kre
 
 Teme su jedan od glavnih aduta FocusWritera. Umjesto okruženja uklesanog u kamenu, što je karakteristika većine aplikacija, FocusWriter je kreiranje i prilagođavanje ambijenta u potpunosti prepustio korisniku. Značaj ovakvog pristupa ne može se prenaglasiti. Upravo ova mogućnost kreiranja i izbora teme, kao i način implementacije, čini FocusWriter jednom od onih aplikacija koje su briljantne u svojoj jednostavnosti.
 
-Tema je skup postavki koje utvrđuju prikaz i rad aplikacije. Definisanjem teme korisnik određuje:
+Tema je skup postavki koje određuju prikaz i rad aplikacije. Definisanjem teme korisnik oblikuje:
 
 – izgled pozadine prozora \(jednobojna ili slika\),  
 – izgled i dimenzije prostora za pisanje \(širina, visina, margine, font, providnost ...\),  
