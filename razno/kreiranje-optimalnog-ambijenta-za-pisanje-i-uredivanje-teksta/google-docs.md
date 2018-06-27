@@ -1,6 +1,6 @@
 # Google Docs
 
-Među aplikacijama koje se najčešće koriste tokom faze uređivanja teksta, donedavno je dominirao Microsoft Office Word. Iako se i dalje koristi širom svijeta, Word više nije najpodesnija i najefektivnija alatka za pripremu teksta za objavljivanje. U onim projektima u kojima učestvuje više urednika, redaktora, lektora, Google Docs je prvi izbor.
+Među aplikacijama koje se najčešće koriste tokom faze uređivanja teksta dominantan je Microsoft Office Word. Iako se i dalje koristi širom svijeta, Word više nije najpodesnija i najefektivnija alatka za pripremu teksta za objavljivanje. U onim projektima u kojima učestvuje više urednika, redaktora, lektora, Google Docs je za veliki broj timova prvi izbor.
 
 {% hint style="info" %}
 Postoji više kancelarijskih alata sa podrškom za zajednički rad, neke su komercijalne neke ne. No, nijedna od tih aplikacija, uključujući i Microsoft Word Online, trenutno nije u stanju parirati rješenju koje je ponudio Google, kako u pogledu cijene, tako ni u pogledu performansi.
