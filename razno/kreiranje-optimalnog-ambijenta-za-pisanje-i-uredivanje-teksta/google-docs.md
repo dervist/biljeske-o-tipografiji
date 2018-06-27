@@ -3,10 +3,10 @@
 Među aplikacijama koje se najčešće koriste tokom faze uređivanja teksta, donedavno je dominirao Microsoft Office Word. Iako se i dalje koristi širom svijeta, Word više nije najpodesnija i najefektivnija alatka za pripremu teksta za objavljivanje. U onim projektima u kojima učestvuje više urednika, redaktora, lektora, Google Docs je prvi izbor.
 
 {% hint style="info" %}
-Postoji više kancelarijskih alata sa podrškom za zajednički rad, neke su komercijalne neke ne. No, nijedna od tih aplikacija, uključujući i Microsoft Word Online, trenutno nije u stanju parirati rješenju koje je ponudio Google, kako u pogledu cijene, tako ni u pogledu performansi aplikacija.
+Postoji više kancelarijskih alata sa podrškom za zajednički rad, neke su komercijalne neke ne. No, nijedna od tih aplikacija, uključujući i Microsoft Word Online, trenutno nije u stanju parirati rješenju koje je ponudio Google, kako u pogledu cijene, tako ni u pogledu performansi.
 {% endhint %}
 
-Google Docs je dio seta kancelarijskih aplikacija [GSuite](https://gsuite.google.com/intl/en_ie/), čiji je autor Google korporacija. Sličan je Microsoft Office Wordu, s tom razlikom što je koncipiran na takav način da mu je fokus na zajedničkom radu dvojice ili više saradnika i sadržava samo one funkcije koje su esencijalne za tu svrhu, dok je većina naprednih funkcija Worda izostavljena – ovo je ustvari prednost aplikacije, jer što više opcija i alatki sadrži, to je aplikacija komplikovanija za korištenje.
+Google Docs je dio seta kancelarijskih aplikacija [GSuite](https://gsuite.google.com/intl/en_ie/). Sličan je Microsoft Office Wordu, s tom razlikom što je koncipiran na takav način da mu je fokus na zajedničkom radu dvojice ili više saradnika i sadržava samo one funkcije koje su esencijalne za tu svrhu, dok je većina naprednih funkcija Worda izostavljena – ovo je ustvari prednost aplikacije, jer što više opcija i alatki sadrži, to je aplikacija komplikovanija za korištenje.
 
 Google Docs nudi niz mogućnosti koje će članovi tima itekako cijeniti. Spomenut ćemo neke od njih:
 
