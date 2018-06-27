@@ -25,4 +25,5 @@
 * [Kreiranje optimalnog ambijenta za pisanje i uređivanje teksta](razno/kreiranje-optimalnog-ambijenta-za-pisanje-i-uredivanje-teksta/README.md)
   * [Aplikacije za autore, urednike, dizajnere](razno/kreiranje-optimalnog-ambijenta-za-pisanje-i-uredivanje-teksta/aplikacije-za-autore-urednike-dizajnere.md)
   * [FocusWriter](razno/kreiranje-optimalnog-ambijenta-za-pisanje-i-uredivanje-teksta/focuswriter.md)
+  * [Google Docs](razno/kreiranje-optimalnog-ambijenta-za-pisanje-i-uredivanje-teksta/google-docs.md)
 
