@@ -10,7 +10,7 @@ Google Docs je dio seta kancelarijskih aplikacija [GSuite](https://gsuite.google
 
 Google Docs nudi niz mogućnosti koje će članovi tima itekako cijeniti. Spomenut ćemo neke od njih:
 
-1\) **Ne zavisi od operativnog sistema i verzija aplikacije**. Google Docs je web-aplikacija, pa bez obzira koji operativni sistem koristili: Windows \(XP, Vista, 7, 8\), Mac OS ili Linux, Google Docsu pristupamo putem web-preglednika. To znači i da svi saradnici koriste identičnu verziju aplikacije, što rješava pitanje nekompatibilnosti i problema tipa “pomjerilo se ovo”, “nestalo ovo”, “poremetio se tekst”, “ne vidim opaske” itd., što se redovno dešava kad se koriste različiti tekst-procesori, pa čak i različite verzije iste aplikacije.
+1\) **Ne zavisi od operativnog sistema i verzija aplikacije**. Google Docs je web-aplikacija, pa bez obzira koji operativni sistem koristili: Windows \(XP, Vista, 7, 8\), Mac OS ili Linux, Google Docsu pristupamo putem web-preglednika. To znači i da svi saradnici koriste identičnu verziju aplikacije, što rješava pitanje nekompatibilnosti i problema tipa “pomjerilo se ovo”, “nestalo ovo”, “poremetio se tekst”, “ne vidim opaske” itd., što se redovno dešava kad se koriste različite aplikacije za obrađivanje teksta, pa čak i različite verzije iste aplikacije.
 
 2\) **Pristup dokumentu omogućen je u svakom momentu**. Stalni pristup dokumentu u potpunosti poništava mukotrpni proces razmjene dokumenata putem emaila i svih zastoja u radu koje ona neminovno prouzrokuje. Google Docs omogućava da svaki član tima u svakom momentu može pristupiti radnom dokumentu, vidjeti izmjene koje su načinili drugi \(identično praćenju promjena u Wordu\), pa čak i istovremeno s njima uređivati dokument na kojem rade. Funkcija komentara gotovo je identična Wordovoj.
 
@@ -20,7 +20,7 @@ Google Docs nudi niz mogućnosti koje će članovi tima itekako cijeniti. Spomen
 
 5\) **Pohranjivanje dokumenta u Wordovom ili nekom drugom formatu**. Ako je po završetku s uređivanjem teksta dokument potrebno poslati, naprimjer, na recenziju ili da bi se pohranio u arhivu, Google Docs podržava pohranjivanje dokumenta u nekoliko formata \(DOCX, ODT, RTF, TXT, PDF, HTML\).
 
-6\) **Unos Wordovih dokumenata**. Nije nužno koristiti Google Docs tokom čitavog procesa kreiranja dokumenta. Može se dokument obrađivati u Microsoft Office Wordu ili LibreOffice Writeru ili nekom drugom tekst-procesoru, a potom, kad nastupi faza uređenja u kojem učestvuje više osoba, taj se dokument prenese na Google Docs, u njemu se izvrše korekcije, a potom, kako je napomenuto u prethodnoj tački, ponovo konvertuje u Wordov ili neki drugi format.
+6\) **Unos Wordovih dokumenata**. Nije nužno koristiti Google Docs tokom čitavog procesa kreiranja dokumenta. Može se dokument obrađivati u Microsoft Office Wordu ili LibreOffice Writeru ili nekom drugom programu za rad s tekstom, a potom, kad nastupi faza uređenja u kojem učestvuje više osoba, taj se dokument prenese na Google Docs, u njemu se izvrše korekcije, a potom, kako je napomenuto u prethodnoj tački, ponovo konvertuje u Wordov ili neki drugi format.
 
 {% hint style="info" %}
 Kratko uputstvo o načinu rada pomoću Google Docsa dato je u sljedećim dokumentima:
