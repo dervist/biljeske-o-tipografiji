@@ -16,7 +16,7 @@ Google Docs nudi niz mogućnosti koje će članovi tima itekako cijeniti. Spomen
 
 3\) **Chat-funkcija**. Google Docs ima integrisanu chat-funkciju, što omogućava da se prilikom zajedničkog, istovremenog uređenja dokumenta određena pitanja mogu diskutovati odmah, na licu mjesta, bez potrebe da se šalju upiti putem emaila ili na druge načine.
 
-4\) **Vlasnik dokumenta može precizirati koje ovlasti drugi urednici imaju**. Vlasnik dokumenta – a obično je to izdavač ili glavni urednik – odredit će da li će saradnici imati mogućnosti da čitaju dokument, da unose sugestije ili pak da imaju pune ovlasti za uređivanje dokumenta.
+4\) **Vlasnik dokumenta može precizirati koje ovlasti drugi urednici imaju**. Vlasnik dokumenta – a obično je to izdavač ili glavni urednik – odredit će hoće li će saradnici imati mogućnost da čitaju dokument, da unose sugestije ili će im dati pune ovlasti za uređivanje dokumenta.
 
 5\) **Pohranjivanje dokumenta u Wordovom ili nekom drugom formatu**. Ako je po završetku s uređivanjem teksta dokument potrebno poslati, naprimjer, na recenziju ili da bi se pohranio u arhivu, Google Docs podržava pohranjivanje dokumenta u nekoliko formata \(DOCX, ODT, RTF, TXT, PDF, HTML\).
 
