@@ -1,6 +1,6 @@
 # Transkripcija ili transliteracija?
 
-Pisanje arapskih imena i termina uvijek je predstavljalo svojevrstan izazov. Kako se radi o semitskom jeziku, konstatacija da je razlika između arapskog i našeg jezika razlika “nebo-zemlja” nije puno preuveličana. Ipak, kako je arapski jezik jezik Kur’ana i stoga dio bića svakog muslimana, i kako je arapski jezik dio naše kulture i tradicije, narod je, s više ili manje uspjeha, odvajkada pronalazio načine da arapske izraze prepozna i prilagodi govornom aparatu našeg podneblja.
+Pisanje arapskih imena i termina uvijek je predstavljalo svojevrstan izazov. Kako se radi o semitskom jeziku, konstatacija da je razlika između arapskog i našeg jezika razlika “nebo-zemlja” nije puno preuveličana. Ipak, kako je arapski jezik jezik Kur’ana i stoga dio bića svakog muslimana, i kako je arapski jezik dio naše kulture i tradicije, narod je, s više ili manje uspjeha, odvajkada pronalazio načine da arapske izraze prepozna i prilagodi govornim karakteristikama našeg podneblja.
 
 Cilj je ovog osvrta, skupa sa pratećim bilješkama, ponuditi prijedlog za pisanje arapskih imena i termina koji je blizak govornim mogućnostima našeg naroda i ukazati na postupke koje bi, radi ostvarenja tog cilja, trebalo potencirati, kao i one koje treba izbjegavati.
 
