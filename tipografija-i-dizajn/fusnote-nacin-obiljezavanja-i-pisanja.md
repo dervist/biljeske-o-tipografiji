@@ -62,11 +62,11 @@ U knjigama se često mogu pronaći neki metodi pisanja fusnota koje svakako treb
 
 Fusnote nikad ne smiju biti pisane slovima iste veličine kao što su slova u glavnom tekstu, niti pismom koje je toliko drugačije od ostatka teksta da redovno na sebe skreće pažnju čitaoca. Ako fusnote nisu brojne i duge, može se u nekim djelima umjesto istog pisma koje je korišteno za ostatak teksta upotrijebiti kompatibilno alternativno pismo. Naprimjer, ako je za tekst korišteno serifno pismo, može se za fusnote koristiti prikladno sanserifno pismo \[[7](fusnote-nacin-obiljezavanja-i-pisanja.md#biljeske)\] \(najbolje je ako su oba pisma dio iste familije pisama, dizajniranih slijedeći zajednički cilj i svrhu, i pridržavajući se istih principa i metoda prilikom kreiranja pisama\), pod uslovom da se time ne stvara vizuelni nesklad i ne skreće pažnja čitaoca sa teksta. Oba pisma u svakom slučaju trebaju posjedovati slične karakteristike \(debljina linija, visina slova i njihova širina\), kako bi tekst bio skladno prezentovan.
 
-![](../.gitbook/assets/prva-kombinacija.png)
+![](../.gitbook/assets/o-fusnotama-prva-kombinacija.jpg)
 
-![](../.gitbook/assets/druga-kombinacija.png)
+![](../.gitbook/assets/o-fusnotama-druga-kombinacija.jpg)
 
-![](../.gitbook/assets/treca-kombinacija.png)
+![](../.gitbook/assets/o-fusnotama-treca-kombinacija.jpg)
 
 ## Bilješke
 
