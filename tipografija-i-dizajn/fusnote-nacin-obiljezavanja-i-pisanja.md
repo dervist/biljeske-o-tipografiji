@@ -12,7 +12,7 @@ Iako većina aplikacija za uređenje teksta i bez posebnih podešavanja koristi 
 
 ## Numerisanje fusnota
 
-Fusnote se mogu obilježavati brojevima od 1 pa dalje, sve do kraja knjige. Ako fusnote nisu brojne, ovo je najjednostavniji način za označavanje fusnota. No, ako je knjiga prepuna fusnota, praktičnije je numerisati ih po poglavljima, tj. od 1 pa dalje do kraja trenutnog poglavlja, a potom ponovo početi numerisanje od broja 1 za svako naredno poglavlje. Razlog za ovakav način numerisanja jeste taj što fusnote, ako su brojne, mogu dostići trocifrene, nekad i četverocifrene brojeve, što je nedopustivo – nepraktično je, otežava snalaženje u tekstu i narušava vizuelnu kompaktnost stranice.
+Fusnote se mogu obilježavati brojevima od 1 pa dalje, sve do kraja knjige. Ako fusnote nisu brojne, ovo je najjednostavniji način za označavanje fusnota. No, ako je knjiga prepuna fusnota, praktičnije je numerisati ih po poglavljima, tj. od 1 pa dalje do kraja trenutnog poglavlja, a potom ponovo početi numerisanje od broja 1 za svako naredno poglavlje. Razlog za ovakav način numerisanja jeste taj što fusnote, ako su brojne, mogu dostići trocifrene, nekad i četverocifrene brojeve, što je nedopustivo – nepraktično je, otežava snalaženje u tekstu i narušava, u vizuelnom pogledu, integritet stranice.
 
 Fusnote se mogu numerisati i od 1 pa dalje u sklopu jedne stranice, odnosno, svaku prvu fusnotu na novoj stranici označiti brojem 1. Ovako numerisane, fusnote neće biti upadljive i neće otežavati čitanje teksta, jer u većini slučajeva broj fusnota na stranici neće preći 9, bit će jednocifren – ako su fusnote brojne, one će i tada imati najviše dvije cifre.
 
