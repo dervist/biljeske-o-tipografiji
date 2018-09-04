@@ -65,6 +65,6 @@ Među aplikacijama pomoću kojih je moguće kreirati kvalitetan dizajn ističu s
 Među aplikacijama pomoću kojih se ne može ostvariti kvalitet u dizajnu ističu se: [LibreOffice Writer](https://www.libreoffice.org/), [Microsoft Office Word](https://products.office.com/en/word), [Google Docs](https://www.google.com/docs/about/), [SoftMaker TextMaker](http://www.softmaker.com/en/softmaker-office-windows-textmaker) i svi ostali kancelarijski programi.
 
 {% hint style="info" %}
-Kada je riječ o pisanju eseja, seminarskih radova, skripti i sl. kancelarijske aplikacije mogu poslužiti za finaliziranje dokumenta, jer se u ovim radovima ne zahtijeva kvalitetan i sofisticiran dizajn niti se obraća pažnja na finu tipografiju i visoke standarde koji važe za izradu knjiga.
+Kada je riječ o pisanju eseja, seminarskih radova, skripti i sl., kancelarijske aplikacije mogu poslužiti za finaliziranje dokumenta, jer se u ovim radovima ne zahtijeva kvalitetan i sofisticiran dizajn niti se obraća pažnja na finu tipografiju i visoke standarde koji važe za izradu knjiga.
 {% endhint %}
 
