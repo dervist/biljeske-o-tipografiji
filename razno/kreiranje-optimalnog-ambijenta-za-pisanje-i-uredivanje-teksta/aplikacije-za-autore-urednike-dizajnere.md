@@ -23,7 +23,7 @@ Shodno ovakvoj podjeli, razlikujemo i tri vrste aplikacija koje služe kao tehni
 3. aplikacije za dizajniranje i pripremu za štampu.
 
 {% hint style="info" %}
-Postoje i one aplikacije koje su podobne za sve tri navedene faze priređivanja teksta – ali i mnogo, mnogo više. Ovaj bi osvrt bio nepotpun bez spomena jednog od najmoćnijih programa za rad s tekstom, a to je fenomenalni [Emacs](https://www.gnu.org/software/emacs/). Emacs, s podrškom za [org-mode](https://orgmode.org/), [LaTeX](https://www.latex-project.org/) i [pandoc](https://pandoc.org/), da spomenem samo neke od aplikacija, predstavlja švicarski nož u svijetu softvera i platformu za rad s tekstom kojoj je teško naći premca.
+Postoje i one aplikacije koje su podobne za sve tri navedene faze priređivanja teksta – ali i mnogo više od toga. Ovaj bi osvrt bio nepotpun bez spomena jednog od najmoćnijih programa za rad s tekstom, a to je fenomenalni [Emacs](https://www.gnu.org/software/emacs/). Emacs, s podrškom za [org mode](https://orgmode.org/), [LaTeX](https://www.latex-project.org/) i [pandoc](https://pandoc.org/), da spomenem samo neke od aplikacija, predstavlja švicarski nož u svijetu softvera i platformu za rad s tekstom kojoj je teško naći premca.
 {% endhint %}
 
 ## 1. Aplikacije za pisanje
