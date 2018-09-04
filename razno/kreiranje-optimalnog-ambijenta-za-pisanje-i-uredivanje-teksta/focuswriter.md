@@ -10,7 +10,7 @@ Kako je većina popularnih aplikacija za rad s tekstom generičke prirode, kreir
 
 1. izrazito je jednostavna za korištenje: čitava obuka traje svega nekoliko minuta, koliko je potrebno da se pregledaju meniji i dostupne mogućnosti aplikacije,
 2. posjeduje sve opcije i alatke neophodne za pisanje; mogućnost kreiranja vizuelnih tema treba posebno istaknuti jer je njihov značaj neprocjenjiv,
-3. objavljena je pod GPL3 licencom i svrstava se među slobodni i Open Source softver.
+3. objavljena je pod GPL3 licencom i svrstava se u [slobodni](https://bs.wikipedia.org/wiki/Slobodni_softver) i [open-source](https://bs.wikipedia.org/wiki/Softver_otvorenog_koda) softver.
 
 Aplikacija se aktivno razvija od 2008. godine i dostupna je za sva tri glavna operativna sistema: Windows, Mac OS i Linux.
 
@@ -128,7 +128,7 @@ Ono što je od posebnog značaja za mnoge autore jesu kratice, koje omogućavaju
 
 FocusWriter je jedna od onih aplikacija koje često promaknu nezapažene, a čija je korist nemjerljiva. Uz malo eksperimentisanja i inventivnosti, autori mogu kreirati idealno okruženje za pisanje koje će se u potpunosti podudarati sa njihovim navikama, ukusima i potrebama.
 
-Iako postoji mnogo aplikacija slične namjene, ono što karakteriše FocusWriter jesu brzina, jednostavnost za korištenje i dostupnost na sva tri glavna operativna sistema. Za razliku od preovladavajućih komercijalnih rješenja, kreator FocusWritera odlučio je da aplikaciju ponudi u vidu Open Source aplikacije, besplatno, uz mogućnost donacije, ukoliko to neko poželi.
+Iako postoji mnogo aplikacija slične namjene, ono što karakteriše FocusWriter jesu brzina, jednostavnost za korištenje i dostupnost na sva tri glavna operativna sistema. Za razliku od preovladavajućih komercijalnih rješenja, kreator FocusWritera odlučio je da aplikaciju ponudi u vidu open-source aplikacije, besplatno, uz mogućnost donacije, ukoliko to neko poželi.
 
 FocusWriter dostupan je u većini Linux distribucija kroz njihove vlastite upravljače softverom, a verzije za sva tri operativna sistema mogu se pronaći na web-stranici: [https://gottcode.org/focuswriter/](https://gottcode.org/focuswriter/)
 
