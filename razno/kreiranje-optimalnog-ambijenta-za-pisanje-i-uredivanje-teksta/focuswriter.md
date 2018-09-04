@@ -22,7 +22,7 @@ FocusWriter namijenjen je za pisanje prve radne verzije teksta. Iako se može ko
 
 ### Prikaz
 
-FocusWriter kreiran je tako da prekriva čitav ekran, čime je iz vidokruga uklonjeno sve osim prostora za pisanje, kursora i pozadine. Svi elementi prozora otkrivaju se tek kad se kursor miša nadnese nad jednu od četiri ivice prozora:
+FocusWriter kreiran je tako da prekriva čitav ekran, čime je iz vidokruga uklonjeno sve osim prostora za pisanje, kursora i pozadine. Svi elementi prozora otkrivaju se tek kad se kursor nadnese nad jednu od četiri ivice prozora:
 
 – lijeva ivica otkriva popis scena,  
 – desna ivica otkriva letvicu za pomjeranje teksta,  
@@ -51,7 +51,7 @@ Tema je skup postavki koje određuju prikaz i rad aplikacije. Definisanjem teme 
 
 ![Tema sa slikom u pozadini, prikladna za no&#x107;ni rad](../../.gitbook/assets/focuswriter-netrunner-dark.png)
 
-Osim toga što omogućavaju da se udovolji različitim ukusima korisnikā – neko lakše radi kad pred sobom nema ništa izuzev kursora na bijeloj ili crnoj pozadini, dok neko preferira fotografiju koja opušta ili čak kreira vizuelni haos – teme imaju i funkcionalni značaj. Tako se mogu kreirati teme za različita raspoloženja ili dijelove dana \(dan ili noć\), ali i za različite vrste teksta. Naprimjer, autor putopisa može u pozadinu staviti kartu onih regija koje opisuje, autor romana može u pozadinu staviti sliku prirode dok opisuje krajolik, autor genealogije može u pozadinu staviti sliku sa porodičnim stablom itd. Konačno, mogu se kreirati različite teme tek radi promjene ili poticaja na razmišljanje, jer je čovjekova priroda takva da se brzo zasiti gledanja u jednu te istu okolinu. Teme mogu poboljšati koncentraciju i djelovati inspirativno.
+Osim toga što omogućavaju da se udovolji različitim ukusima korisnikā – neko lakše radi kad pred sobom nema ništa izuzev kursora na bijeloj ili crnoj pozadini, dok neko preferira fotografiju koja opušta ili čak kreira vizuelni haos – teme imaju i funkcionalni značaj. Tako se mogu kreirati teme za različita raspoloženja ili dijelove dana \(dan ili noć\), ali i za različite vrste teksta. Naprimjer, autor putopisa može u pozadinu staviti kartu onih regija koje opisuje, autor romana može u pozadinu staviti sliku prirode dok opisuje krajolik, autor genealogije može u pozadinu staviti sliku sa porodičnim stablom itd. Konačno, mogu se kreirati različite teme tek radi promjene ili poticaja na razmišljanje, jer je čovjekova priroda takva da se brzo zasiti gledanja u jednu te istu pozadinu. Teme mogu poboljšati koncentraciju i djelovati inspirativno.
 
 Na sljedećem linku mogu se vidjeti neka od mogućih vizuelnih rješenja: [https://photos.app.goo.gl/l11TF6w9X4E3GRdI3](https://photos.app.goo.gl/l11TF6w9X4E3GRdI3)
 
@@ -128,7 +128,7 @@ Ono što je od posebnog značaja za mnoge autore jesu kratice, koje omogućavaju
 
 FocusWriter je jedna od onih aplikacija koje često promaknu nezapažene, a čija je korist nemjerljiva. Uz malo eksperimentisanja i inventivnosti, autori mogu kreirati idealno okruženje za pisanje koje će se u potpunosti podudarati sa njihovim navikama, ukusima i potrebama.
 
-Iako postoji mnogo aplikacija slične namjene, ono što karakteriše FocusWriter jesu brzina, jednostavnost za korištenje i dostupnost na sva tri glavna operativna sistema. Za razliku od preovladavajućih komercijalnih rješenja, kreator FocusWritera odlučio je da aplikaciju ponudi u vidu open-source aplikacije, besplatno, uz mogućnost donacije, ukoliko to neko poželi.
+Iako postoji mnogo aplikacija slične namjene, ono što karakteriše FocusWriter jesu brzina, jednostavnost za korištenje i dostupnost na sva tri glavna operativna sistema. Za razliku od preovladavajućih komercijalnih rješenja, kreator FocusWritera odlučio je da aplikaciju ponudi u vidu Open Source aplikacije, besplatno, uz mogućnost donacije, ukoliko to neko poželi.
 
 FocusWriter dostupan je u većini Linux distribucija kroz njihove vlastite upravljače softverom, a verzije za sva tri operativna sistema mogu se pronaći na web-stranici: [https://gottcode.org/focuswriter/](https://gottcode.org/focuswriter/)
 
