@@ -12,7 +12,7 @@ Iako većina aplikacija za uređenje teksta i bez posebnih podešavanja koristi 
 
 ## Numerisanje fusnota
 
-Fusnote se mogu obilježavati brojevima od 1 pa dalje, sve do kraja knjige. Ako fusnote nisu brojne, ovo je najjednostavniji način za označavanje fusnota. No, ako je knjiga prepuna fusnota, praktičnije je numerisati ih po poglavljima, tj. od 1 pa dalje do kraja trenutnog poglavlja, a potom ponovo početi numerisanje od broja 1 za svako naredno poglavlje. Razlog za ovakav način numerisanja jeste taj što fusnote, ako su brojne, mogu dostići trocifrene, nekad i četverocifrene brojeve, što je nedopustivo – nepraktično je, otežava snalaženje u tekstu i narušava, u vizuelnom pogledu, integritet stranice.
+Fusnote se mogu obilježavati brojevima od 1 pa dalje, sve do kraja knjige; ako nisu brojne, ovo je najjednostavniji način za njihovo označavanje. No, ako je knjiga prepuna fusnota, praktičnije je numerisati ih po poglavljima, tj. od 1 pa dalje do kraja trenutnog poglavlja, a potom ponovo početi numerisanje od broja 1 za svako naredno poglavlje. Razlog za ovakav način numerisanja jeste taj što fusnote, ako su brojne, mogu dostići trocifrene, nekad i četverocifrene brojeve, što je nedopustivo – nepraktično je, otežava snalaženje u tekstu i narušava, u vizuelnom pogledu, integritet stranice.
 
 Fusnote se mogu numerisati i od 1 pa dalje u sklopu jedne stranice, odnosno, svaku prvu fusnotu na novoj stranici označiti brojem 1. Ovako numerisane, fusnote neće biti upadljive i neće otežavati čitanje teksta, jer u većini slučajeva broj fusnota na stranici neće preći 9, bit će jednocifren – ako su fusnote brojne, one će i tada imati najviše dvije cifre.
 
@@ -30,11 +30,11 @@ Nema neke definitivne mjere za razmak kojim će se fusnota odvojiti od teksta, a
 
 Najčešće se koristi jedna od tri metode pisanja broja \[[3](fusnote-nacin-obiljezavanja-i-pisanja.md#biljeske)\] ispred teksta fusnote: 1\) uvučeni, 2\) viseći i 3\) poravnati.
 
-**1. Uvučeni broj fusnote**. Prilikom primjene ovog metoda, nakon broja fusnote piše se tačka, potom razmak, a onda počinje tekst fusnote. Ovaj je metod pogodan ako su fusnote duže i obuhvataju makar dva ili više redova teksta. Kako je anatomija fusnote identična anatomiji glavnog teksta, neće doći do vizuelnih poremećaja na stranici i cjelokupni tekstni blok na stranici izgledat će kao kompaktna cjelina.
+**1. Uvučeni broj fusnote**. Prilikom primjene ovog metoda, nakon broja fusnote piše se tačka, potom razmak, a onda počinje tekst fusnote. Ovaj je metod pogodan kada su fusnote duže i obuhvataju makar dva ili više redova teksta. Kako je anatomija fusnote identična anatomiji glavnog teksta, neće doći do vizuelnih poremećaja na stranici i cjelokupni tekstni blok na stranici izgledat će kao kompaktna cjelina.
 
 ![](../.gitbook/assets/o-fusnotama-01.png)
 
-**2. Viseći broj fusnote**. Prilikom primjene ovog metoda, broj ispred fusnote “visi”, dok je sam tekst fusnote pomjeren nekoliko milimetara udesno i poravnat \[[4](fusnote-nacin-obiljezavanja-i-pisanja.md#biljeske)\]. Broj fusnote odvojen je od teksta fusnote jednim ili dva razmaka, ili tačkom i razmakom. Kako je broj fusnote poravnat sa lijevom stranom teksta, ovaj je metod pogodan u onim situacijama kada su fusnote kraće i obično ne zauzimaju više od jednog reda teksta, jer će minimizirati pojavu bjelina uz lijevu marginu koje narušavaju boju stranice.
+**2. Viseći broj fusnote**. Prilikom primjene ovog metoda, broj ispred fusnote “visi”, dok je sam tekst fusnote pomjeren nekoliko milimetara udesno i poravnat \[[4](fusnote-nacin-obiljezavanja-i-pisanja.md#biljeske)\]. Broj fusnote odvojen je od teksta fusnote jednim ili dva razmaka, ili tačkom i razmakom. Kako je broj fusnote poravnat sa lijevom stranom teksta, ovaj je metod pogodan u onim situacijama kada su fusnote kraće i obično ne zauzimaju više od jednog reda, jer će se izbjeći pojava bjelina uz lijevu marginu koje narušavaju boju stranice.
 
 ![](../.gitbook/assets/o-fusnotama-02.png)
 
@@ -48,7 +48,7 @@ Broj fusnote može se pisati i u samoj lijevoj margini, usljed čega će lijeva 
 
 ## Problematični načini pisanja fusnota
 
-U knjigama se često mogu pronaći neki metodi pisanja fusnota koje svakako treba izbjegavati, jer narušavaju boju stranice ili remete sklad u organizaciji teksta na stranici, dok istovremeno ne osiguravaju dodatnu korist koja bi makar djelimično opravdala njihovo korištenje. Pored rasprostranjene loše prakse da se brojevi ispred teksta fusnota pišu kao eksponenti \[[5](fusnote-nacin-obiljezavanja-i-pisanja.md#biljeske)\], obično se radi o varijantama jednog od navedenih validnih metoda oblikovanja fusnota.
+U knjigama se često mogu pronaći i oni metodi pisanja fusnota koje treba izbjegavati, jer narušavaju boju stranice ili remete sklad u organizaciji teksta na stranici. Pored rasprostranjene loše prakse da se brojevi ispred teksta fusnota pišu kao eksponenti \[[5](fusnote-nacin-obiljezavanja-i-pisanja.md#biljeske)\], obično se radi o varijantama jednog od navedenih validnih metoda oblikovanja fusnota.
 
 **1. Varijanta metoda visećeg broja fusnote**. Prilikom korištenja ovog metoda, sve linije teksta fusnote poravnavaju se sa uvučenom prvom linijom paragrafa u glavnom tekstu. Ovaj će metod gotovo uvijek dovesti do nesklada na stranici, kreirajući bjeline u donjem lijevom dijelu stranice \[[6](fusnote-nacin-obiljezavanja-i-pisanja.md#biljeske)\] i efektivno “potkopavajući” glavni tekst; što su fusnote brojnije i što je prva linija paragrafa glavnog teksta više uvučena, to je nesklad na stranici veći. Ipak, ako je prva linija paragrafa glavnog teksta uvučena 4 ili 5 mm, i ako su fusnote pretežno kratke, tada će korištenje ovog metoda biti poput metoda visećeg broja fusnote.
 
@@ -58,11 +58,11 @@ U knjigama se često mogu pronaći neki metodi pisanja fusnota koje svakako treb
 
 ![](../.gitbook/assets/o-fusnotama-06.png)
 
-**3. Odstupanje od stila teksta na stranicama**. Fusnote moraju slijediti stil koji je korišten za ostatak teksta na stranici. Tako će one biti pisane istim pismom kao i ostali tekst, ali redovno dva ili tri pointa manjim. Manja slova ukazuju na komplementarnu prirodu fusnota – iako su dio teksta, njihova je funkcija pomoćna; fusnote mogu biti potpuno ignorisane prilikom čitanja knjige. Za fusnote se mora koristiti i isti metod poravnanja teksta: ako je tekst na stranicama poravnat sa obje strane, tako treba biti poravnat i tekst u fusnotama; ako je tekst poravnat samo s lijeve strane, tada će se isto poravnanje koristiti i za fusnote.
+**3. Odstupanje od stila teksta na stranicama**. Fusnote moraju slijediti stil koji je korišten za ostatak teksta na stranici. Tako će one biti pisane istim pismom kao i ostali tekst, ali redovno dva ili tri pointa manjim. Manja slova ukazuju na komplementarnu prirodu fusnota – iako su dio teksta, njihova je funkcija uvijek pomoćna; fusnote mogu biti potpuno ignorisane prilikom čitanja knjige. Za fusnote se mora koristiti i isti metod poravnanja teksta: ako je tekst na stranicama poravnat sa obje strane, tako treba biti poravnat i tekst u fusnotama; ako je tekst poravnat samo s lijeve strane, tada će se isto poravnanje koristiti i za fusnote.
 
-Fusnote nikad ne smiju biti pisane slovima iste veličine kao što su slova u glavnom tekstu, niti pismom koje je toliko drugačije od ostatka teksta da redovno na sebe skreće pažnju čitaoca. Ako fusnote nisu brojne i duge, može se u nekim djelima umjesto istog pisma koje je korišteno za ostatak teksta upotrijebiti kompatibilno alternativno pismo. Naprimjer, ako je za tekst korišteno serifno pismo, može se za fusnote koristiti prikladno sanserifno pismo \[[7](fusnote-nacin-obiljezavanja-i-pisanja.md#biljeske)\] \(najbolje je ako su oba pisma dio iste familije pisama, dizajniranih slijedeći zajednički cilj i svrhu, i pridržavajući se istih principa i metoda prilikom kreiranja pisama\), pod uslovom da se time ne stvara vizuelni nesklad i ne skreće pažnja čitaoca sa teksta. Oba pisma u svakom slučaju trebaju posjedovati slične karakteristike \(debljina linija, visina slova i njihova širina\), kako bi tekst bio skladno prezentovan.
+Fusnote nikad ne smiju biti pisane slovima iste veličine kao slova u glavnom tekstu, niti pismom koje je toliko drugačije od ostatka teksta da redovno na sebe skreće pažnju čitaoca. Ako fusnote nisu brojne i duge, može se u nekim djelima umjesto istog pisma koje je korišteno za ostatak teksta upotrijebiti kompatibilno alternativno pismo. Naprimjer, ako je za tekst korišteno serifno pismo, može se za fusnote koristiti prikladno sanserifno pismo \[[7](fusnote-nacin-obiljezavanja-i-pisanja.md#biljeske)\] \(najbolje je ako su oba pisma dio iste familije pisama, dizajniranih slijedeći zajednički cilj i svrhu, i pridržavajući se istih principa i metoda prilikom kreiranja pisama\), pod uslovom da se time ne stvara vizuelni nesklad i ne skreće pažnja čitaoca sa teksta. Oba pisma u svakom slučaju trebaju posjedovati slične karakteristike \(debljina linija, visina slova i njihova širina\), kako bi tekst bio skladno prezentovan.
 
-![](../.gitbook/assets/o-fusnotama-prva-kombinacija.jpg)
+![](../.gitbook/assets/o-fusnotama-prva-kombinacija%20%281%29.jpg)
 
 ![](../.gitbook/assets/o-fusnotama-druga-kombinacija.jpg)
 
