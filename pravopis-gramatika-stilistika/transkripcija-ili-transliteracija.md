@@ -4,7 +4,7 @@ Pisanje arapskih imena i termina uvijek je predstavljalo svojevrstan izazov. Kak
 
 Cilj je ovog osvrta, skupa sa pratećim bilješkama, ponuditi prijedlog za pisanje arapskih imena i termina koji je blizak govornim mogućnostima našeg naroda i ukazati na postupke koje bi, radi ostvarenja tog cilja, trebalo potencirati, kao i one koje treba izbjegavati.
 
-## Transkripcija ili transliteracija? {#transkripcija-ili-transliteracija}
+## Transkripcija ili transliteracija? <a id="transkripcija-ili-transliteracija"></a>
 
 Zavisno od svrhe teksta, trebat će se opredijeliti za jedan od dva pristupa: ili pisati riječ onako kako se čuje kad je neko ko poznaje arapski jezik izgovori, ili je pisati na takav način da ona daje vjerni prikaz izvorne strukture riječi. Drugim riječima, već na samom početku projekta, članka, knjige… moramo utvrditi je li nam cilj čitaocu omogućiti da riječ bez poteškoće izgovori, ili nam je cilj da sazna od kojih je tačno slova i znakova izvorna riječ sačinjena. Ukoliko nam je cilj prvo, da se riječ dā lahko pročitati i izgovoriti bez korištenja priručnih sredstava, tada ćemo koristiti _transkripciju_ arapskih izraza; ukoliko nam je cilj po svaku cijenu prikazati strukturu riječi, koristit ćemo _transliteraciju_.
 
