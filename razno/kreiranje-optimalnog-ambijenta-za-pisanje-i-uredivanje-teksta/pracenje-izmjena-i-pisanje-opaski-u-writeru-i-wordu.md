@@ -4,7 +4,7 @@ Zajednički rad na istom radnom dokumentu \(pomoću Google Docs ili Office Onlin
 
 ## Bilježenje i praćenje izmjena u dokumentu
 
-Gotovo svi programi za uređivanje teksta sposobni su evidentirati i pratiti sve izmjene koje se u tekstu načine i naznačiti ko je unio koju korekciju. Ovaj se proces naziva _praćenje izmjena_ \(Tracking changes\) i može biti dvojak:
+Gotovo svi programi za uređivanje teksta sposobni su evidentirati sve izmjene koje se u tekstu načine i naznačiti ko je unio koju korekciju. Ovaj se proces naziva _praćenje izmjena_ \(Tracking changes\) i može biti dvojak:
 
 1. aktivno praćenje izmjena u tekstu pomoću odgovarajuće opcije za praćenje,
 2. naknadno praćenje izmjena u tekstu upoređivanjem korigovanog dokumenta sa originalnim.
