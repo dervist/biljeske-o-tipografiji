@@ -41,6 +41,8 @@ Sve ove nezgode moguće je izbjeći naknadnim praćenjem izmjena u tekstu: upore
 
 **Microsoft Office Word**: Otvoriti program &gt; Review &gt; Compare &gt; Compare &gt; u lijevoj kućici, nazvanoj “Original document”, odabrati originalni dokument, a u desnoj, “Revised document”, odabrati korigovani dokument.
 
+![](../../.gitbook/assets/uporedivanje-dokumenata-mso.png)
+
 {% hint style="info" %}
 Postoji neznatna razlika u načinu prikazivanja izmjena između Writera i Worda: Writer izmjene prikazuje u odnosu na otvoreni dokument, s popisom izmjena u zasebnom plutajućem okviru, dok Word daje uporedni prikaz oba dokumenta, s popisom izmjena u zasebnom okviru s lijeve ili desne strane. No, princip je isti: sve izmjene načinjene u korigovanom dokumentu jasno su prikazane i možemo ih pregledati, prihvatiti ili odbaciti jednostavno klikom na odgovarajuće dugme \(Accept – prihvati; Reject – odbaci\) u popisu.
 {% endhint %}
