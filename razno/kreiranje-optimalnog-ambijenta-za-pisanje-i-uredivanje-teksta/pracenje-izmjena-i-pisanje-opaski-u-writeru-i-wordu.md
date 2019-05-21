@@ -51,7 +51,7 @@ Nakon pregleda svih izmjena, njihova prihvatanja i odbacivanja, preporučeno je 
 
 ## Pisanje opaski, napomena, komentara
 
-Praćenje izmjena omogućava nam da vršimo direktne intervencije u tekstu bez straha da će one proći nezapažene: autor ili urednik tačno će znati ko je i kada načinio koju korekciju u dokumentu. No, nekada sama intervencija u tekstu nije dovoljna već je potrebno skrenuti pažnju autoru na nešto ili pojasniti samu intervenciju. Ovakve opaske nikada ne treba pisati direktno u tekst, već se trebaju koristiti komentari: označit će se tekst u vezi s kojim se piše opaska, a potom otvoriti polje za komentar i opaska napisati.
+Praćenje izmjena omogućava nam da vršimo direktne intervencije u tekstu bez straha da će one proći nezapažene: autor ili urednik tačno će znati ko je i kada načinio koju korekciju u dokumentu. No, nekada sama intervencija u tekstu nije dovoljna već je potrebno autoru ili uredniku skrenuti pažnju na nešto ili pojasniti samu intervenciju. Ovakve opaske nikada ne treba pisati direktno u tekst, već se trebaju koristiti komentari: označit će se tekst u vezi s kojim se piše opaska, a potom otvoriti polje za komentar i opaska napisati.
 
 **LibreOffice Writer**: Označiti tekst &gt; pritisnuti kombinaciju _Ctrl+Alt+C_ na tastaturi.
 
