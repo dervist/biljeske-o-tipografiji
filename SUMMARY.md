@@ -26,4 +26,5 @@
   * [Aplikacije za autore, urednike, dizajnere](razno/kreiranje-optimalnog-ambijenta-za-pisanje-i-uredivanje-teksta/aplikacije-za-autore-urednike-dizajnere.md)
   * [FocusWriter](razno/kreiranje-optimalnog-ambijenta-za-pisanje-i-uredivanje-teksta/focuswriter.md)
   * [Google Docs](razno/kreiranje-optimalnog-ambijenta-za-pisanje-i-uredivanje-teksta/google-docs.md)
+  * [Praćenje izmjena i pisanje opaski u Writeru i Wordu](razno/kreiranje-optimalnog-ambijenta-za-pisanje-i-uredivanje-teksta/pracenje-izmjena-i-pisanje-opaski-u-writeru-i-wordu.md)
 
