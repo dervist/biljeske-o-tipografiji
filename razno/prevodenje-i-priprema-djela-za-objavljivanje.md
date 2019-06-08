@@ -22,15 +22,17 @@ Po završetku finalne faze, nakon što je pažljivo pročitao cjelovit tekst pri
 
 Ovako je u slučaju da prevodilac pošalje finaliziran kompletni prijevod djela. Još je bolje ako urednik učestvuje u pripremi prijevoda od samog početka, i ako se radi dio po dio djela, jer će tada prevodiocu odmah dati neophodne smjernice, ukazati na tehničke i druge zahtjeve, što će smanjiti broj grešaka, a time i naknadnih ispravki. Aktivno sudjelovanje urednika i, prema potrebi, i drugih saradnika u projektu za rezultat će imati znatno viši kvalitet prijevoda, puno manje “praznog hoda” i ispravki, a djelo će biti spremno za štampu u drastično kraćem roku nego što je to slučaj kad se pregleda i dorađuje cjelovito djelo.
 
-## Lektura <a id="lektura"></a>
-
-Kad je tekst sređen, šalje se na lekturu. Lektor obično pregleda tekst tri puta \(dva su pregleda apsolutni minimum\), a faze su slične onim spomenutim kod prevodioca, s tim da je fokus lektora, naravno, pravopis, gramatika i stilistika. U slučaju da primijeti nedosljednosti ili nejasnoće u tekstu, lektor će o tome obavijestiti urednika, koji će potom načiniti neophodne korekcije ili će kontaktirati prevodioca.
-
 ## Redaktura <a id="redaktura"></a>
 
-Redaktor vodi računa o tome da su navodi izneseni u knjizi tačni, reference i citati vjerno preneseni iz originala \(knjige, časopisi i dr.\), da je ispoštovan pravilnik o formatu knjige \(ako ga izdavač ima\) i da je tekst spreman za objavljivanje. On će korigovati i propuste koji su promakli lektoru. Ovo je mogući set poslova koje redaktori obavljaju i mogu obuhvatiti više ili manje zadataka od spomenutih, zavisno od složenosti projekta i broja učesnika.
+Redaktor vodi računa o tome da su navodi izneseni u knjizi tačni, reference i citati vjerno preneseni iz originala \(knjige, časopisi i dr.\) i da je ispoštovan pravilnik o formatu knjige \(ako ga izdavač ima\). On će korigovati propuste prevodioca, analizirati tekst, doraditi ga gdje je to potrebno i pobrinuti se da je tekst, načelno, spreman za objavljivanje. Ovo je mogući set poslova koje redaktori obavljaju i može obuhvatiti više ili manje zadataka od spomenutih, zavisno od složenosti projekta i angažovanih kadrova.
 
-Redaktor koji se fokusira na upoređivanje prijevoda s izvornikom dužan je utvrditi preciznost i tačnost prijevoda, riječ za riječ, rečenicu za rečenicu; ukazat će na odstupanja u tom pogledu i ponuditi prijedloge za njihovo korigovanje. Redaktura prijevoda obavlja se prije lekture.
+Redaktor je dužan uporediti prijevod s izvornikom, utvrditi preciznost i tačnost prijevoda, riječ za riječ, rečenicu za rečenicu; ukazat će na odstupanja u tom pogledu i ponuditi prijedloge za njihovo korigovanje. On mora vladati tematikom o kojoj djelo govori i dobro poznavati i jezik s kojeg se prevodi i jezik na koji se prevodi. Kod obimnih i složenih projekata može biti uputno angažovati još jednog pa i više redaktora koji će se koncentrisati isključivo na preciznost i tačnost prijevoda.
+
+Redaktura se obavlja prije lekture. Ukoliko je završio studij jezika, redaktor ponekad može i lektorisati tekst. Ovo je obično slučaj kod manjih projekata.
+
+## Lektura <a id="lektura"></a>
+
+Kad je tekst sređen, šalje se na lekturu. Lektor će tekst pregledati tri puta \(dva su pregleda apsolutni minimum\), a faze su slične onim spomenutim kod prevodioca, s tim da je fokus lektora na pravopisu, gramatici i stilistici. U slučaju da primijeti nedosljednosti ili nejasnoće u tekstu, lektor će o tome obavijestiti urednika, koji će potom načiniti neophodne korekcije ili će kontaktirati prevodioca.
 
 ## Recenzija <a id="recenzija"></a>
 
