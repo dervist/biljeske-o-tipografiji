@@ -10,7 +10,7 @@ Korektura se nekada pogrešno posmatra kao proces unošenja opaski i korekcija l
 
 Kvalitetna korektura nesumnjivo je esencijalna faza u pripremi knjige za štampu i ne bi se smjela izostaviti, bilo da se radi o brošuri ili višetomnom kapitalnom djelu. Knjiga koju nije pregledao korektor ne može se smatrati cjelovitom, kompletiranom, već se radi o još uvijek nedovršenom projektu, poluproizvodu.
 
-Lektorski je standard, prema nekim procjenama, ispravak do 95% grešaka, ne ubrajajući tu potencijalne greške dizajnera prilikom prijeloma \(za što su najbolji primjer loši, pogrešni ili, u nekim slučajevima, nepostojeći prijelomi riječi na kraju retka\), a u čiji rad lektor nema uvida.
+Lektorski je standard, prema nekim procjenama, ispravak do 95% grešaka, ne ubrajajući tu potencijalne greške dizajnera prilikom prijeloma (za što su najbolji primjer loši, pogrešni ili, u nekim slučajevima, nepostojeći prijelomi riječi na kraju retka), a u čiji rad lektor nema uvida.
 
 Svaki put kada se datoteke koje sadržavaju knjigu otvore postoji mogućnost da se nehotično, često nesvjesno, načine greške, bilo da se nešto doda ili obriše iz teksta, ili da se dogodi greška tehničke prirode. Nije rijedak slučaj ni da se štampariji, umjesto finalnog, pošalje pogrešan dokument, iz ranijih faza obrade i bez unesenih korekcija lektora ili recenzenta.
 
@@ -28,6 +28,10 @@ Korekturu može obaviti svaka osoba koja posjeduje sljedeće osobine:
 2. dobro poznaje tipografiju i knjižni dizajn,
 3. ima oko za detalje, u stanju je uočiti ono što bi svakome drugom promaklo.
 
+{% hint style="info" %}
+Poznavanje tipografskog segmenta korekture može se provjeriti [**ovdje**](https://drive.google.com/file/d/1uFD2CnC6sC-j\_dwBc0iqTRsdeNiPtE5K/view?usp=sharing).
+{% endhint %}
+
 ## Kako se vrši korektura?
 
 **Utvrditi zahtjeve izdavača.** Izdavači obično imaju interne pravilnike kojima su utvrđena pravila u vezi sa pripremom knjige koja korektor mora konsultovati. To su uputstva koja kazuju, naprimjer, kako pisati naslove poglavlja i sekcija, kako obilježavati i pisati fusnote, kako pisati strane izraze i reference, kako pisati numerisane i nenumerisane liste i tabele itd.
@@ -44,11 +48,10 @@ Korekturu može obaviti svaka osoba koja posjeduje sljedeće osobine:
 
 Korektori su vremenom razvili sistem obilježavanja grešaka u tekstu kako bi olakšali i ubrzali rad. Iako postoje razlike u pogledu nekih oznaka, većina ih je općeprihvaćena i lahko razumljiva.
 
-Korektorski znaci koristit će se kad se korektura vrši na papiru ili na elektronskom dokumentu namijenjenom za štampu \(PDF\).
+Korektorski znaci koristit će se kad se korektura vrši na papiru ili na elektronskom dokumentu namijenjenom za štampu (PDF).
 
-Kada se vrši korektura elektronskih knjiga koje nisu statičnog karaktera \(epub, mobi, azw\), tada se neće koristiti ovi znaci, već će se, zbog prirode medija, koristiti tehnološke mogućnosti koje su na raspolaganju: markiranje grešaka i pojašnjenje ispravki u komentarima.
+Kada se vrši korektura elektronskih knjiga koje nisu statičnog karaktera (epub, mobi, azw), tada se neće koristiti ovi znaci, već će se, zbog prirode medija, koristiti tehnološke mogućnosti koje su na raspolaganju: markiranje grešaka i pojašnjenje ispravki u komentarima.
 
 —
 
 Prikaz nekih osnovnih korektorskih znakova i korekture pomoću PDF-XChange Editora, besplatne aplikacije za rad s PDF-dokumentima, dat je u dokumentu “Korektura PDF dokumenata” koji se, uz kolekcije korektorskih znakova i primjere korekture, može preuzeti [**ovdje**](https://drive.google.com/drive/folders/146XGmgRvoSHBOzFY-XNdZq8Fh3FpOHnf?usp=sharing).
-
