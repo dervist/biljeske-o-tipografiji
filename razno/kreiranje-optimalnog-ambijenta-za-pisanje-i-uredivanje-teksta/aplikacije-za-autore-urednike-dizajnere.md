@@ -36,7 +36,7 @@ Drevna je mudrost da za svaki posao valja koristiti najpodesniju alatku. Da uobi
 
 Aplikacija namijenjenih za pisanje ima mnogo. Neke od njih jesu sljedeće: [FocusWriter](https://gottcode.org/focuswriter/), [Ghostwriter](https://wereturtle.github.io/ghostwriter/), [iA Writer](https://ia.net/writer), [Writemonkey](http://writemonkey.com/), [OmmWriter](https://ommwriter.com/) itd.
 
-Za autore koji rade na kompleksnim djelima interesantne će biti robusnije aplikacije koje olakšavaju izradu koncepta, pisanje i uređivanje složenih radova (romana, disertacija i sl.): [Scrivener](https://www.literatureandlatte.com/scrivener/overview), [QuollWriter](http://quollwriter.com/), [bibisco](http://www.bibisco.com/), [Writer’s Cafe](http://www.writerscafe.co.uk/).
+Za autore koji rade na kompleksnim djelima interesantne će biti robusnije aplikacije koje olakšavaju planiranje, izradu koncepta, pisanje i uređivanje složenih radova (romana, disertacija i sl.): [Scrivener](https://www.literatureandlatte.com/scrivener/overview), [QuollWriter](http://quollwriter.com/), [bibisco](http://www.bibisco.com/), [Writer’s Cafe](http://www.writerscafe.co.uk/).
 
 Aplikacije koje neće olakšati pisanje – a rad na kompleksnim djelima učinit će bespotrebno mukotrpnim – ali koje su manje-više prikladne za fazu uređivanja teksta: [LibreOffice Writer](https://www.libreoffice.org/), [Microsoft Office Word](https://products.office.com/en/word), [Google Docs](https://www.google.com/docs/about/), [SoftMaker TextMaker](http://www.softmaker.com/en/softmaker-office-windows-textmaker).
 
